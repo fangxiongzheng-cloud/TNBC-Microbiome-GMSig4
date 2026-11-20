@@ -1,0 +1,239 @@
+﻿gene,n_microbes,n_metabolites,microbes,metabolites,associative_modes,pmids
+ABCC4,0,1,,urolithin A,causally,30626868
+ACTB,1,0,Lactiplantibacillus plantarum,,causally,21143932
+ACTC1,1,0,Lactiplantibacillus plantarum,,causally,21143932
+ADRA2A,0,1,,Phenylacetylglutamine,causally,32142679
+ADRA2B,0,1,,Phenylacetylglutamine,causally,32142679
+ADRB2,0,1,,Phenylacetylglutamine,causally,32142679
+AHR,0,5,,3-Indoleacrylic acid; 3-Methyloxindole; 5-Hydroxyindole-3-acetic acid; Indole-3-carboxylic acid; urolithin A,causally,30626868; 32783770
+AKT1,0,1,,Vancomycin,causally,27505423
+ALG12,0,1,,D-Mannose,correlatively,31123037
+ALPI,0,3,,Acetate; Butyrate; Propionate,causally,32240190
+ANGPTL4,4,3,Enterococcus faecalis; Lancefieldella parvula; Segatella copri; Streptococcus salivarius,Acetate; Butyrate; Propionate,causally; causally;correlatively; correlatively,18234854; 23518684; 25946041; 28266623
+APOE,3,0,Blautia hansenii; Lancefieldella parvula; Ruminococcus gauvreauii,,correlatively,34692558
+APP,0,1,,Acetate,causally,34670619
+ASPM,0,1,,urolithin A,causally,30626868
+AURKAIP1,0,1,,urolithin A,causally,30626868
+B4GALT1,1,0,Mediterraneibacter gnavus,,causally,26868655
+BAX,0,3,,"1-Piperazinepentanamide, N-((1S,2R)-2,3-dihydro-2-hydroxy-1H-inden-1-yl)-2-(((1,1-dimethylethyl)amino)carbonyl)-4-(furo(2,3-b)pyridin-5-ylmethyl)-gamma-hydroxy-alpha-(phenylmethyl)-, (alphaR,gammaS,2S)-; Genipin; Hydroquinone",causally,21889493; 22245672; 29805567
+BCL10,1,0,Lactobacillus acidophilus,,causally,24130731
+BCL2,0,3,,"1-Piperazinepentanamide, N-((1S,2R)-2,3-dihydro-2-hydroxy-1H-inden-1-yl)-2-(((1,1-dimethylethyl)amino)carbonyl)-4-(furo(2,3-b)pyridin-5-ylmethyl)-gamma-hydroxy-alpha-(phenylmethyl)-, (alphaR,gammaS,2S)-; Genipin; Hydroquinone",causally,21889493; 22245672; 29805567
+BLVRB,0,1,,urolithin A,causally,30626868
+CASP1,0,3,,3-(4-Hydroxyphenyl)propionic acid; 4-Hydroxyphenylacetic acid; Caffeic Acid,causally,33096252
+CASP3,0,2,,Genipin; Hydroquinone,causally,21889493; 22245672
+CAT,0,1,,Diosgenin,causally,29085554
+CCL2,2,4,Eggerthella lenta; [Clostridium] symbiosum,Acetate; Butyrate; Propionate; Succinate,causally; causally;causally,18820681; 28322790; 35309369
+CCL20,2,0,Eikenella; Streptococcus,,correlatively,31142855
+CCNB3,0,1,,urolithin A,causally,30626868
+CCND1,0,2,,"1-(3-Chloro-2,6-dihydroxy-4-methoxyphenyl)-1-hexanone; 1-Piperazinepentanamide, N-((1S,2R)-2,3-dihydro-2-hydroxy-1H-inden-1-yl)-2-(((1,1-dimethylethyl)amino)carbonyl)-4-(furo(2,3-b)pyridin-5-ylmethyl)-gamma-hydroxy-alpha-(phenylmethyl)-, (alphaR,gammaS,2S)-",causally,25913757; 29805567
+CCR6,1,0,Faecalibacterium prausnitzii,,causally,29981781
+CD14,0,1,,Trimethylamine oxide,correlatively,29912352
+CD163,0,1,,Trimethylamine oxide,correlatively,29912352
+CD2AP,1,0,Lactiplantibacillus plantarum,,causally,21143932
+CD44,0,1,,Trimethylamine oxide,causally,32862276
+CDK4,1,0,Lactiplantibacillus plantarum,,causally,21143932
+CDK6,0,1,,"1-Piperazinepentanamide, N-((1S,2R)-2,3-dihydro-2-hydroxy-1H-inden-1-yl)-2-(((1,1-dimethylethyl)amino)carbonyl)-4-(furo(2,3-b)pyridin-5-ylmethyl)-gamma-hydroxy-alpha-(phenylmethyl)-, (alphaR,gammaS,2S)-",causally,29805567
+CDKN1A,1,2,Clostridium butyricum,"1-Piperazinepentanamide, N-((1S,2R)-2,3-dihydro-2-hydroxy-1H-inden-1-yl)-2-(((1,1-dimethylethyl)amino)carbonyl)-4-(furo(2,3-b)pyridin-5-ylmethyl)-gamma-hydroxy-alpha-(phenylmethyl)-, (alphaR,gammaS,2S)-; urolithin A",causally,29805567; 31734354; 32179165
+CGN,2,0,Lacticaseibacillus rhamnosus; Lactiplantibacillus plantarum,,causally,21143932; 31732863
+CHAC1,0,1,,urolithin A,causally,30626868
+CHGA,0,1,,Butyrate,causally,32240190
+CLDN1,2,0,Lacticaseibacillus rhamnosus; Lactiplantibacillus plantarum,,causally; causally;causally,20412608; 31732863
+CLDN14,1,0,Escherichia coli,,causally;causally,31315566
+CLDN3,0,3,,Acetate; Butyrate; Propionate,causally,32240190
+CLDN4,2,1,Akkermansia muciniphila; Lactiplantibacillus plantarum,urolithin A,causally,20412608; 30626868; 31191842
+CLDN7,0,1,,Indole,causally,24278294
+CLGN,1,0,Akkermansia muciniphila,,causally,31191842
+CNKSR3,1,0,Lactiplantibacillus plantarum,,causally,21143932
+CORO1B,0,1,,urolithin A,causally,30626868
+COX1,4,0,Acinetobacter; Klebsiella; Muribaculaceae; Ruminiclostridium,,correlatively,34272826
+CPSF2,1,0,Lactiplantibacillus plantarum,,causally,21143932
+CTSD,0,1,,urolithin A,causally,30626868
+CXCL1,1,0,Collinsella,,causally,27102666
+CXCL10,1,0,Enterococcus faecalis,,causally,19166300
+CXCL5,1,0,Collinsella,,causally,27102666
+CXCL6,3,0,Agathobacter rectalis; Eikenella; Streptococcus,,correlatively,31142855
+CXCL8,12,6,Akkermansia muciniphila; Bifidobacterium adolescentis; Clostridium; Enterococcus durans; Faecalibacterium prausnitzii; Lacticaseibacillus rhamnosus GG; Lactiplantibacillus plantarum; Lactobacillus acidophilus; Parabacteroides distasonis; Phocaeicola vulgatus; Salmonella enterica subsp. enterica; Streptococcus salivarius,"1-Piperazinepentanamide, N-((1S,2R)-2,3-dihydro-2-hydroxy-1H-inden-1-yl)-2-(((1,1-dimethylethyl)amino)carbonyl)-4-(furo(2,3-b)pyridin-5-ylmethyl)-gamma-hydroxy-alpha-(phenylmethyl)-, (alphaR,gammaS,2S)-; Acetate; Baicalein; Baicalin; Butyrate; Succinate",causally; causally;causally; correlatively; correlatively;causally;causally,17485456; 18820681; 21178864; 21602373; 24130731; 28249045; 28441885; 28658542; 28713353; 29805567; 31650468; 33609322; 34719821
+CXCR2,0,1,,Butyrate,causally,32240190
+CXCR3,1,0,Faecalibacterium prausnitzii,,causally,29981781
+CXCR6,1,0,Faecalibacterium prausnitzii,,causally,29981781
+CYP1A1,0,6,,3-Indoleacrylic acid; Indole; Kynurenic acid; Oxindole; Skatole; urolithin A,causally,30626868; 32783770
+CYP1A2,0,1,,"2,2',4,4',5-Pentabromodiphenyl ether",correlatively,31123037
+CYP2D6,0,1,,"2,2',4,4',5-Pentabromodiphenyl ether",correlatively,31123037
+CYP3A4,0,1,,"2,2',4,4',5-Pentabromodiphenyl ether",correlatively,31123037
+CYP3A5,0,1,,"2,2',4,4',5-Pentabromodiphenyl ether",correlatively,31123037
+CYP7A1,1,0,Bifidobacterium longum,,causally,29800811
+DAPK3,0,1,,urolithin A,causally,30626868
+DCLK1,0,3,,Acetate; Butyrate; Propionate,causally,32240190
+DEFB1,0,2,,Butyrate; Propionate,causally,32240190
+DEFB4A,1,0,Lacticaseibacillus rhamnosus,,causally,31732863
+DNPH1,0,1,,urolithin A,causally,30626868
+DPP7,0,1,,urolithin A,causally,30626868
+DUOX2,1,0,Agathobacter rectalis,,correlatively,31142855
+EGFR,0,3,,Indoxyl sulfate; Phenylacetylglutamine; p-Cresol sulfate,causally; correlatively,26241311; 31341083
+ENO1,1,0,Fusobacterium nucleatum,,causally,33318144
+ENO1-IT1,1,0,Fusobacterium nucleatum,,causally,33318144
+F11R,1,0,Lactiplantibacillus plantarum,,causally;causally,20412608
+FABP2,1,0,Streptococcus salivarius,,causally,25946041
+FADS3,0,1,,urolithin A,causally,30626868
+FFAR2,2,3,Bacteroides fragilis; Clostridium butyricum,Acetate; Butyrate; Propionate,causally; causally;causally; causally;causally;causally,23828891; 28322790; 31734354
+FFAR3,0,3,,Acetate; Butyrate; Propionate,causally; causally;causally,12711604; 28322790
+FKBP2,0,1,,urolithin A,causally,30626868
+FLNA,0,1,,urolithin A,causally,30626868
+FOS,1,1,Lactobacillus acidophilus,Butyrate,causally,23300800; 26867563
+FOXP3,2,1,Bacteroides fragilis; Faecalibacterium prausnitzii,Acetate,causally,23643066; 23828891; 28658542
+G6PD,0,1,,urolithin A,causally,30626868
+GCK,0,1,,Butyrate,correlatively,35045871
+GCLC,0,1,,"2,2',4,4',5-Pentabromodiphenyl ether",correlatively,31123037
+GHRL,0,3,,Acetate; Butyrate; Propionate,causally,32240190
+GLP1R,1,1,Bacteroidota,Serotonin,causally,29576437; 30983011
+GNMT,0,1,,"2,2',4,4',5-Pentabromodiphenyl ether",correlatively,31123037
+GOT1,1,1,Mucor ambiguus,Succinate,correlatively,34035120; 37180439
+GPBAR1,1,0,Bifidobacterium longum,,causally,29112296
+GPT,1,1,Mucor ambiguus,Succinate,correlatively,34035120; 37180439
+GPX3,0,1,,Diosgenin,causally,29085554
+GSK3B,0,1,,"1-(3-Chloro-2,6-dihydroxy-4-methoxyphenyl)-1-hexanone",causally,25913757
+HBA1,0,1,,Trimethylamine oxide,causally,33926968
+HCAR2,1,6,Clostridium butyricum,(R)-3-hydroxybutyrate; (S)-3-hydroxybutyrate; Acifran; Butyrate; Nicotinic acid; Sodium 3-hydroxybutyrate,causally; causally;causally;causally,15929991; 19276343; 31734354
+HCAR3,0,1,,Acifran,causally,15929991
+HDAC1,0,1,,Butyrate,causally,17374366
+HDAC11,0,1,,Butyrate,causally,17374366
+HDAC2,0,1,,Butyrate,causally,17374366
+HDAC3,1,1,Faecalibacterium prausnitzii,Butyrate,causally; causally;causally;causally,17374366; 30809639
+HDAC4,0,1,,Butyrate,causally,17374366
+HDAC5,0,1,,Butyrate,causally,17374366
+HDAC7,0,1,,Butyrate,causally,17374366
+HDAC8,0,1,,Butyrate,causally,17374366
+HDAC9,0,2,,Acetate; Butyrate,causally,17374366; 28658542
+HERC5,0,1,,"1-Piperazinepentanamide, N-((1S,2R)-2,3-dihydro-2-hydroxy-1H-inden-1-yl)-2-(((1,1-dimethylethyl)amino)carbonyl)-4-(furo(2,3-b)pyridin-5-ylmethyl)-gamma-hydroxy-alpha-(phenylmethyl)-, (alphaR,gammaS,2S)-",causally,29805567
+HK2,1,0,Fusobacterium nucleatum,,causally,33318144
+HMOX1,0,1,,10-Oxo-11-octadecenoic acid,causally,26879219
+HNF4A,1,0,Lactiplantibacillus plantarum,,causally,21143932
+HPGD,0,1,,urolithin A,causally,30626868
+Htr1a,1,0,Bifidobacterium dentium,,causally,32795610
+ICAM1,0,3,,3-(4-Hydroxyphenyl)propionic acid; 4-Hydroxyphenylacetic acid; Caffeic Acid,causally,33096252
+IDO1,0,1,,Indole-3-carboxylic acid,causally,37770127
+IFNG,5,0,Bacteroides fragilis; Enterococcus durans; Faecalibacterium prausnitzii; Lactiplantibacillus plantarum; Streptococcus macedonicus,,causally,18077037; 18936492; 28239378; 30507089
+IGAD1,0,1,,Tretinoin,causally,27966553
+IGFBP6,0,1,,urolithin A,causally,30626868
+IKBKE,1,0,Lacticaseibacillus rhamnosus,,causally,22476320
+IL10,7,4,Akkermansia muciniphila; Bacteroides fragilis; Enterococcus durans; Enterococcus faecalis; Faecalibacterium prausnitzii; Lactiplantibacillus plantarum; Limosilactobacillus fermentum,3-(4-Hydroxyphenyl)propionic acid; 4-Hydroxyphenylacetic acid; Butyrate; Caffeic Acid,causally; causally;causally; causally;causally;causally;causally;causally;causally,18077037; 18234854; 21178864; 23828891; 28239378; 30765132; 33096252
+IL11,2,0,Enterococcus; Escherichia,,correlatively,34643422
+IL12A,2,2,Akkermansia muciniphila; Faecalibacterium prausnitzii,Butyrate; Trimethylamine oxide,causally; causally;causally;causally; correlatively,24390544; 30765132; 33042155
+IL12B,5,1,Akkermansia muciniphila; Enterococcus durans; Faecalibacterium prausnitzii; Lactiplantibacillus plantarum; Streptococcus macedonicus,Butyrate,causally; causally;causally;causally;causally,18077037; 24390544; 28239378; 30765132
+IL17A,2,1,Collinsella; Faecalibacterium prausnitzii,Propionate,causally,25910186; 27102666; 34233192
+IL18,1,0,Lacticaseibacillus paracasei,,causally,30767231
+IL1A,1,0,Faecalibacterium prausnitzii,,causally,25900655
+IL1B,4,4,Enterococcus durans; Lacticaseibacillus paracasei; Streptococcus salivarius; Turicibacter,3-Indolepropionic acid; Butyrate; Succinate; Trimethylamine oxide,causally; correlatively,18820681; 21602373; 28239378; 30767231; 30954457; 31295342; 31506421; 37960213
+IL2,1,0,Faecalibacterium prausnitzii,,causally,25900655
+IL22,0,1,,Propionate,causally,34233192
+IL22RA1,0,1,,Butyrate,causally,27801948
+IL22RA2,1,0,Clostridioides difficile,,causally,32066975
+IL24,2,0,Enterococcus; Escherichia,,correlatively,34643422
+IL4,2,0,Bacteroides fragilis; Lacticaseibacillus paracasei,,causally,30507089; 30767231
+IL4R,0,2,,Butyrate; Propionate,causally,32240190
+IL5,1,0,Faecalibacterium prausnitzii,,causally,25900655
+IL6,7,5,Akkermansia muciniphila; Blautia hansenii; Enterococcus durans; Lacticaseibacillus paracasei; Marvinbryantia sp.; Sporofaciens musculi; Turicibacter,3-Indolepropionic acid; Acetate; Butyrate; Propionate; Trimethylamine oxide,causally; causally;causally; causally;causally;causally;causally; correlatively,16534848; 21178864; 24390544; 28239378; 28249045; 30767231; 30954457; 31506421; 35698210; 37960213
+IRAK1,1,0,Escherichia coli,,causally,33902702
+IRAK4,1,0,Escherichia coli,,causally,33902702
+IRS1,0,1,,5-hydroxy-1H-imidazole-4-carboxamide,causally,30401435
+ITCH,1,0,Lactiplantibacillus plantarum,,causally,21143932
+JUN,1,2,Lactobacillus acidophilus,Butyrate; Propionate,causally,23300800; 26867563
+JUP,1,0,Lactiplantibacillus plantarum,,causally,21143932
+LCN2,0,1,,Trimethylamine oxide,causally,32862276
+LDHA,1,0,Fusobacterium nucleatum,,causally,33318144
+LEP,1,1,Lactiplantibacillus plantarum,Vancomycin,causally,27505423
+LGR5,0,3,,Acetate; Butyrate; Propionate,causally,32240190
+LINC00504,0,1,,urolithin A,causally,30626868
+LPA,1,0,Mucor ambiguus,,correlatively,37180439
+LYZ,0,1,,Butyrate,causally,32240190
+MAGI3,1,0,Lactiplantibacillus plantarum,,causally,21143932
+MAPK1,1,2,Akkermansia muciniphila,Succinate; Vancomycin,causally,18820681; 27505423; 28249045
+MAPK14,2,1,Lacticaseibacillus rhamnosus; Lactobacillus,Vancomycin,causally,22476320; 27158904; 27505423
+MAPK3,0,2,,Succinate; Vancomycin,causally,18820681; 27505423
+MAPK8,0,1,,Genipin,causally,22245672
+MCCC1,0,2,,"2,2',4,4',5-Pentabromodiphenyl ether; 2,2',4,4'-Tetrabromodiphenyl ether",correlatively,31123037
+MGAM2,0,1,,urolithin A,causally,30626868
+MGAT3,1,0,Mediterraneibacter gnavus,,causally,26868655
+MGAT4A,1,0,Clostridioides difficile,,causally,32066975
+MGAT4B,1,0,Clostridioides difficile,,causally,32066975
+MIR146A,1,0,Lacticaseibacillus rhamnosus,,causally,22476320
+MIR155,1,0,Lacticaseibacillus rhamnosus,,causally,22476320
+MUC1,1,0,Mediterraneibacter gnavus,,causally,26868655
+MUC2,1,2,Mediterraneibacter gnavus,Acetate; Butyrate,causally; causally;causally,17374366; 26868655; 32240190
+MYC,0,1,,"1-(3-Chloro-2,6-dihydroxy-4-methoxyphenyl)-1-hexanone",causally,25913757
+MYD88,2,0,Escherichia coli; Parabacteroides goldsteinii,,causally,33902702; 36585238
+NBPF13P,1,0,Thomasclavelia spiroformis,,correlatively,35927305
+NFE2L2,0,2,,10-Oxo-11-octadecenoic acid; urolithin A,causally,26879219; 30626868
+NFKB1,8,1,Alistipes onderdonkii; Bifidobacterium adolescentis; Escherichia coli; Faecalibacterium prausnitzii; Parabacteroides distasonis; Parabacteroides goldsteinii; Phocaeicola vulgatus; Streptococcus salivarius,3-Indolepropionic acid,causally; causally;causally; causally;causally;causally,17485456; 20876719; 31506421; 33902702; 36585238
+NLRP3,0,3,,3-(4-Hydroxyphenyl)propionic acid; 4-Hydroxyphenylacetic acid; Caffeic Acid,causally,33096252
+NLRP6,0,1,,Pioglitazone,causally,31255176
+NOS3,0,1,,Acetate,causally,34670619
+NOX1,0,1,,urolithin A,causally,30626868
+NQO1,0,2,,"2,2',4,4',5-Pentabromodiphenyl ether; urolithin A",causally; correlatively,30626868; 31123037
+NR1H4,1,0,Bacteroidota,,causally,30983011
+OCLN,4,4,Bifidobacterium longum subsp. infantis; Escherichia coli; Lacticaseibacillus rhamnosus; Lactiplantibacillus plantarum,Acetate; Butyrate; Indole; urolithin A,causally; causally;causally,20412608; 21143932; 24278294; 28230606; 30626868; 31315566; 31732863; 32240190
+ONECUT2,0,1,,urolithin A,causally,30626868
+PAK1,0,1,,urolithin A,causally,31976617
+PALS1,1,0,Lactiplantibacillus plantarum,,causally,21143932
+PARD6B,1,0,Lactiplantibacillus plantarum,,causally,21143932
+PDCD6IP,1,0,Enterococcus faecalis,,causally,19166300
+PEMT,0,1,,urolithin A,causally,30626868
+PFN1P2,0,1,,urolithin A,causally,30626868
+PGP,1,0,Lactobacillus acidophilus,,causally,26867563
+PLIN2,3,0,Enterococcus faecalis; Lancefieldella parvula; Segatella copri,,causally,18234854; 28266623
+PPARG,2,2,Enterococcus faecalis; Streptococcus salivarius,10-keto-12Z-octadecenoic acid; Butyrate,causally,18234854; 25749343; 25946041
+PRKCZ,1,0,Escherichia coli,,causally,17087734
+PTGER3,1,0,Ligilactobacillus murinus,,causally,37794592
+PTGS2,1,0,Lacticaseibacillus paracasei,,causally,30767231
+RAC1,0,1,,urolithin A,causally,31976617
+REG3B,0,1,,Butyrate,causally,32240190
+REG3G,0,1,,Butyrate,causally,32240190
+RELA,1,0,Lactobacillus acidophilus,,causally,24130731
+RHEB,0,1,,5-hydroxy-1H-imidazole-4-carboxamide,causally,30401435
+RMRP,1,0,Thomasclavelia spiroformis,,correlatively,35927305
+RNF144B,0,1,,urolithin A,causally,30626868
+RNR1,1,0,Thomasclavelia spiroformis,,correlatively,35927305
+RORA,1,0,Collinsella,,causally,27102666
+SERINC2,0,1,,urolithin A,causally,30626868
+SESN3,0,1,,urolithin A,causally,30626868
+SFN,0,1,,urolithin A,causally,30626868
+SLC17A4,0,1,,urolithin A,causally,30626868
+SLC19A2,1,0,Escherichia coli,,causally,19628653
+SLC19A3,1,0,Escherichia coli,,causally,19628653
+SLC22A6,0,1,,Indoxyl sulfate,causally,31341083
+SLC26A3,1,0,Lactobacillus acidophilus,,causally,25059823
+SLC40A1,0,1,,urolithin A,causally,30626868
+SLC5A8,1,3,Lactiplantibacillus plantarum,Butyrate; Propionate; Pyruvate,causally,20671196; 21687703
+SLC9A3,1,0,Lactobacillus acidophilus,,causally,23086913
+SLITRK6,0,1,,urolithin A,causally,30626868
+SMN1,0,1,,Trimethylamine oxide,causally,31299216
+SMURF2,0,1,,Trimethylamine oxide,causally,31299216
+SNAI1,1,0,Lactiplantibacillus plantarum,,causally,21143932
+SOD1,0,1,,Diosgenin,causally,29085554
+SORBS2,0,1,,urolithin A,causally,30626868
+SSTR1,0,1,,Serotonin,causally,29576437
+SSTR3,0,1,,Serotonin,causally,29576437
+ST6GAL1,1,0,Mediterraneibacter gnavus,,causally,26868655
+SULT2A1,0,1,,Lithocholic acid,causally,33434516
+TAB2,1,0,Escherichia coli,,causally,33902702
+TCF7L2,0,1,,"1-(3-Chloro-2,6-dihydroxy-4-methoxyphenyl)-1-hexanone",causally,25913757
+TGFB1,2,0,Escherichia coli; Faecalibacterium prausnitzii,,causally,23643066; 33902702
+TGFBR1,0,1,,Trimethylamine oxide,causally,31299216
+THEM6,0,1,,urolithin A,causally,30626868
+TJP1,3,5,Escherichia coli; Lacticaseibacillus rhamnosus; Lactiplantibacillus plantarum,3-Indolepropionic acid; Acetate; Butyrate; Indole; urolithin A,causally; causally;causally,20412608; 21143932; 24278294; 28018313; 30626868; 31506421; 31732863; 32240190
+TJP2,3,0,Akkermansia muciniphila; Escherichia coli; Lactiplantibacillus plantarum,,causally; causally;causally;causally,17087734; 21143932; 31191842
+TJP3,1,0,Akkermansia muciniphila,,causally,31191842
+TLR2,4,1,Akkermansia muciniphila; Bacillota; Bacteroides fragilis; Faecalibacterium prausnitzii,Propionate,causally; causally;causally; correlatively,28249045; 29112296; 30507089; 31677982; 37131293
+TLR4,4,1,Akkermansia muciniphila; Bacteroides fragilis; Faecalibacterium prausnitzii; Lacticaseibacillus rhamnosus,Butyrate,causally; causally;causally,22476320; 28249045; 29112296; 30507089; 31295342
+TLR5,1,0,Streptococcus salivarius,,causally,21602373
+TLR6,1,0,Faecalibacterium prausnitzii,,causally,29112296
+TLR8,0,1,,Propionate,causally,37131293
+TLR9,0,1,,Propionate,causally,37131293
+TNF,13,5,Akkermansia muciniphila; Bifidobacterium animalis subsp. lactis; Blautia hansenii; Clostridium; Enterococcus durans; Lacticaseibacillus paracasei; Lactiplantibacillus plantarum; Limosilactobacillus fermentum; Marvinbryantia sp.; Parabacteroides goldsteinii; Sporofaciens musculi; Streptococcus macedonicus; Turicibacter,3-Indolepropionic acid; Acetate; Butyrate; Succinate; Trimethylamine oxide,causally; causally;causally; causally;correlatively; correlatively,18077037; 18820681; 21178864; 28239378; 28249045; 28658542; 30767231; 30954457; 31506421; 31780030; 33609322; 35698210; 36585238; 37960213
+TP53,0,2,,"1-Piperazinepentanamide, N-((1S,2R)-2,3-dihydro-2-hydroxy-1H-inden-1-yl)-2-(((1,1-dimethylethyl)amino)carbonyl)-4-(furo(2,3-b)pyridin-5-ylmethyl)-gamma-hydroxy-alpha-(phenylmethyl)-, (alphaR,gammaS,2S)-; urolithin A",causally,29805567; 32179165
+TPH1,0,1,,Acetate,causally,25550456
+UPK3B,0,1,,urolithin A,causally,30626868
+VAMP5,0,1,,urolithin A,causally,30626868
+VCL,1,0,Lactiplantibacillus plantarum,,causally,21143932
+VDR,0,1,,Lithocholic acid,causally,33434516
+VEGFA,1,1,Lactiplantibacillus plantarum,Acetate,causally,21143932; 34670619

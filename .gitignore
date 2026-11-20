@@ -1,0 +1,46 @@
+# Local credentials and editor state
+.Renviron
+.Renviron.*
+!.Renviron.example
+.env
+.env.*
+.netrc
+*.pem
+*.key
+.Rhistory
+.Rproj.user/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Source data, generated figures, and manuscript files
+/01_data/
+/03_figures/
+/04_manuscript/
+*.docx
+*.docm
+
+# Model, analysis, and interpreter caches
+*.rds
+*.RDS
+*.RData
+*.rdata
+*.h5ad
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+*.log
+*.part
+
+# Individual-level outputs regenerated in the analysis workspace
+/02_results/GMSig4_PatientScores_*.csv
+/02_results/GMSig4_ICI_Subgroup_ExactScores.csv
+/02_results/scRNA_TNBC_patient_pseudobulk_and_props.csv
+/02_results/scRNA_TNBC_PatientLevel_CellComm.csv
+/02_results/scRNA_TNBC_UMAP_metadata_keygenes.csv

@@ -1,0 +1,194 @@
+id.exposure,chr.exposure,pos.exposure,SNP,effect_allele.exposure,other_allele.exposure,eaf.exposure,beta.exposure,se.exposure,pval.exposure,samplesize.exposure,exposure,mr_keep.exposure,pval_origin.exposure,data_source.exposure
+ieu-a-1126,10,123337335,rs2981579,G,A,0.5944,-0.2376,0.0063,1e-200,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,16,52574343,rs35850695,A,G,0.255,0.2097,0.0069,3.59749e-200,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,11,69331418,rs78540526,T,C,0.0756,0.2758,0.0113,1.81134e-131,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,5,56027240,rs59957907,G,A,0.1589,0.1734,0.0082,3.8699e-98,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,2,217920769,rs4442975,T,G,0.5021,-0.1274,0.0061,1.13999e-95,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,5,44706498,rs10941679,G,A,0.2522,0.1278,0.0071,5.6079e-73,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,8,128372172,rs10096351,G,A,0.5441,0.1055,0.0062,1.96607e-64,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,3,27268398,rs7626742,T,G,0.5327,0.1046,0.0062,1.61213e-63,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,6,151955914,rs60954078,G,A,0.07,0.1817,0.0117,2.83988e-54,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,9,110886840,rs548980,T,C,0.6233,0.0993,0.0064,5.20116e-54,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,1,121280613,rs11249433,G,A,0.403,0.0988,0.0065,1.75995e-52,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,10,64299890,rs10995201,G,A,0.1591,-0.1317,0.0087,1.55704e-51,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,14,68979835,rs11624333,C,T,0.2595,-0.0968,0.0071,6.5013e-42,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,11,1898664,rs1973765,C,T,0.4001,-0.0817,0.0064,9.7051e-38,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,10,80852378,rs1268974,G,A,0.6132,-0.0793,0.0063,3.71022e-36,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,22,28552698,rs62237573,T,C,0.0092,0.4256,0.034,6.87385e-36,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,22,40979164,rs6001974,G,A,0.1063,0.1208,0.0098,1.05196e-34,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,21,16574455,rs2403907,A,C,0.3159,-0.0796,0.0067,1.8681e-32,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,5,158230013,rs11135046,T,G,0.5529,-0.0717,0.0062,4.68058e-31,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,17,53174966,rs1812715,G,A,0.6939,0.0748,0.0067,1.65082e-28,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,8,76305785,rs72658071,T,A,0.0877,0.1182,0.0107,2.57988e-28,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,19,18593553,rs8105994,C,T,0.3459,-0.0722,0.0065,2.8721e-28,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,16,80650805,rs13329835,G,A,0.2243,0.0786,0.0073,8.75387e-27,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,6,152437016,rs2747652,C,T,0.5263,0.0663,0.0062,1.30707e-26,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,4,175833091,rs9884717,G,A,0.1182,-0.1029,0.0097,4.95108e-26,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,2,218294217,rs12990503,G,C,0.7372,-0.073,0.007,9.99079e-26,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,16,53802494,rs11642015,T,C,0.4155,-0.0624,0.0063,3.63664e-23,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,8,36849946,rs4286946,G,C,0.1739,-0.0799,0.0083,8.62581e-22,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,8,29509616,rs9693444,C,A,0.6757,-0.0626,0.0066,1.59993e-21,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,14,37136545,rs7149262,A,C,0.2113,-0.0724,0.0076,2.47116e-21,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,5,1295349,rs2853669,G,A,0.3061,-0.0651,0.0069,4.04669e-21,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,8,76247693,rs1397734,G,A,0.826,0.0773,0.0082,7.09414e-21,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,2,121239360,rs4848599,C,T,0.8845,0.0933,0.01,1.58489e-20,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,9,110306944,rs10978911,C,G,0.1361,0.0839,0.0091,2.35776e-20,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,1,10581051,rs2506885,T,A,0.3596,-0.0629,0.0068,3.72306e-20,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,10,80887337,rs7904249,A,G,0.1592,0.0764,0.0084,6.98072e-20,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,19,44283031,rs56681946,C,T,0.3546,0.0607,0.0066,6.99037e-20,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,9,22003223,rs3217992,T,C,0.3743,-0.0581,0.0064,1.18495e-19,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,10,22032942,rs7072776,G,A,0.7124,-0.0618,0.0068,1.74904e-19,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,3,46888198,rs56387622,C,T,0.1012,-0.0942,0.0106,5.46512e-19,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,3,4742251,rs6762558,G,A,0.388,0.056,0.0063,1.08993e-18,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,2,202123430,rs3769821,T,C,0.6683,-0.0565,0.0065,3.96917e-18,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,18,24500899,rs170801,A,C,0.2817,-0.0591,0.007,3.17468e-17,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,7,139942304,rs11977670,A,G,0.4315,0.0522,0.0063,1.04809e-16,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,15,91509215,rs77554484,A,C,0.1319,-0.0741,0.0093,1.2841e-15,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,1,18807339,rs2992756,C,T,0.5194,-0.0506,0.0063,1.60398e-15,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,13,32972626,rs11571833,T,A,0.0081,0.2727,0.0346,3.10027e-15,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,3,141147414,rs7650602,C,T,0.4422,0.0489,0.0063,6.22444e-15,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,18,24337424,rs527616,G,C,0.6211,0.0499,0.0064,6.70039e-15,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,10,115128491,rs12250948,C,T,0.7844,-0.0576,0.0074,1.0361e-14,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,1,149906413,rs11205303,C,T,0.3998,0.0497,0.0064,1.13894e-14,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,1,242034263,rs72755295,G,A,0.0309,0.1376,0.0179,1.64589e-14,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,11,129461016,rs11822830,G,A,0.5959,0.0483,0.0063,1.9829e-14,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,10,114777670,rs10885405,T,C,0.46,0.0465,0.0062,5.43626e-14,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,6,82254932,rs9361840,G,A,0.2368,0.0541,0.0072,7.13839e-14,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,8,129165056,rs1121948,G,A,0.1963,0.0575,0.0077,7.4817e-14,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,5,56240748,rs56891541,TCC,T,0.2467,0.0535,0.0072,8.98669e-14,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,6,13713366,rs418053,C,G,0.5685,-0.0465,0.0063,1.19509e-13,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,6,152031496,rs76956704,T,C,0.03,0.1352,0.0182,1.27087e-13,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,18,42888797,rs9952980,C,T,0.3504,-0.0478,0.0065,1.6531e-13,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,22,29134719,rs5997389,A,G,0.0903,0.0791,0.0108,2.19079e-13,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,18,42411803,rs9954058,C,G,0.0721,-0.0891,0.0122,2.79319e-13,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,1,201437832,rs35383942,T,C,0.0562,0.101,0.0139,3.79315e-13,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,7,94113799,rs17268829,C,T,0.2804,0.0495,0.0068,4.48952e-13,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,22,38564041,rs9622746,G,C,0.355,-0.0466,0.0064,5.09448e-13,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,16,53861592,rs7184573,A,G,0.3602,-0.047,0.0065,5.26866e-13,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,7,130674481,rs68056147,A,G,0.299,0.0501,0.0069,5.36043e-13,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,4,38816338,rs6815814,C,A,0.2525,0.052,0.0072,6.13056e-13,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,14,91841069,rs941764,G,A,0.3429,0.0463,0.0065,8.20729e-13,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,2,19310918,rs11684853,T,G,0.5606,-0.0442,0.0062,1.11712e-12,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,5,81457358,rs2407064,A,C,0.7516,0.0515,0.0072,1.19207e-12,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,11,803017,rs6597981,G,A,0.5178,0.0439,0.0062,1.34586e-12,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,14,93070286,rs78440108,T,C,0.1718,-0.0595,0.0084,1.61808e-12,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,2,121157485,rs73949122,G,C,0.1664,-0.0593,0.0084,1.84587e-12,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,11,65583066,rs3903072,T,G,0.4727,-0.0434,0.0062,2.25424e-12,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,2,25129473,rs6725517,G,A,0.4088,-0.0468,0.0067,2.93022e-12,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,10,123093182,rs9420318,A,G,0.3214,-0.0464,0.0066,2.9621e-12,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,6,130349119,rs6569648,T,C,0.7643,0.0512,0.0073,2.97577e-12,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,3,63941697,rs3821902,G,T,0.1358,0.0623,0.0089,2.9902e-12,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,7,144048902,rs62485509,T,G,0.2292,-0.0545,0.0079,4.45143e-12,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,7,101552440,rs71559437,A,G,0.122,-0.0686,0.0099,5.0501e-12,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,9,119394364,rs35910339,G,C,0.6889,0.0462,0.0067,5.40879e-12,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,17,44182983,rs78381082,G,A,0.172,-0.0611,0.0089,5.4275e-12,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,22,39358037,rs12628403,C,A,0.096,0.0849,0.0123,5.67153e-12,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,18,29990368,rs72933507,C,T,0.0482,-0.1028,0.0149,5.98412e-12,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,2,172972971,rs2016394,A,G,0.4748,-0.0425,0.0062,6.23448e-12,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,19,19545696,rs2965183,A,G,0.3521,0.0445,0.0065,6.31393e-12,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,5,16233619,rs4702131,C,T,0.5612,-0.0424,0.0062,1.00207e-11,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,3,30677269,rs12487185,G,A,0.3128,0.045,0.0066,1.20587e-11,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,5,90662839,rs12110303,T,G,0.1597,-0.0606,0.0089,1.23595e-11,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,8,117209548,rs13267382,G,A,0.6493,-0.0437,0.0065,1.59514e-11,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,14,37228504,rs2253012,T,C,0.4318,0.0433,0.0065,3.1268e-11,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,4,106073509,rs62331151,G,A,0.2265,0.0488,0.0073,3.18566e-11,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,14,68509589,rs72725173,A,G,0.1578,0.0559,0.0085,3.87525e-11,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,1,155148781,rs4971059,A,G,0.3632,0.0424,0.0064,4.82503e-11,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,8,106358620,rs12546444,T,A,0.1001,-0.0717,0.011,7.45418e-11,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,17,77771548,rs8082452,G,T,0.4562,-0.0418,0.0065,1.13899e-10,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,16,54683802,rs3893264,C,T,0.189,0.0521,0.0081,1.44202e-10,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,3,172285159,rs73031214,T,C,0.2172,0.0474,0.0074,1.91201e-10,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,10,9084428,rs34195518,CT,C,0.1207,0.0611,0.0096,2.014e-10,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,20,48945911,rs6122906,G,A,0.1816,0.0507,0.008,2.44698e-10,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,8,128213561,rs35961416,CA,C,0.4117,-0.0417,0.0066,2.712e-10,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,5,58343067,rs1498608,A,T,0.0949,-0.0671,0.0107,3.48097e-10,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,1,114173410,rs1230666,G,A,0.8721,-0.0592,0.0095,3.86696e-10,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,6,26680698,rs71557345,A,G,0.0806,-0.0806,0.0129,3.87097e-10,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,17,29180996,rs62070645,A,C,0.2663,-0.0439,0.007,4.06996e-10,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,5,169591487,rs4562056,T,G,0.3323,0.0416,0.0067,4.719e-10,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,3,99723580,rs9833888,T,G,0.2259,0.0457,0.0074,5.15098e-10,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,2,10138983,rs78425380,C,T,0.1139,0.0603,0.0099,1.034e-09,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,3,87037543,rs13066793,G,A,0.0925,-0.0685,0.0112,1.037e-09,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,4,126843504,rs77528541,T,G,0.1361,-0.0583,0.0096,1.414e-09,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,6,81094287,rs12207986,A,G,0.5362,0.0375,0.0062,1.45001e-09,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,13,73957681,rs6562760,G,A,0.766,0.0443,0.0073,1.493e-09,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,4,89243818,rs10022462,T,C,0.4379,0.0375,0.0062,1.554e-09,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,20,5948227,rs16991615,A,G,0.0626,0.0758,0.0126,1.91699e-09,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,2,121088182,rs11903787,A,G,0.2405,-0.0451,0.0076,2.36401e-09,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,5,1279964,rs10054203,C,G,0.4094,0.0383,0.0065,3.211e-09,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,5,111217786,rs6882649,T,G,0.6651,0.0388,0.0066,3.67198e-09,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,1,217220574,rs11117758,A,G,0.2086,-0.0449,0.0076,3.90301e-09,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,4,84415251,rs28869016,G,A,0.4978,0.0372,0.0063,4.00996e-09,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,11,69079744,rs117737783,A,G,0.0728,0.0747,0.0127,4.03097e-09,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,19,46180184,rs11672660,T,C,0.213,0.0472,0.008,4.12601e-09,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,7,28356889,rs17156577,C,T,0.1121,0.0578,0.0098,4.246e-09,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,10,22047015,rs66572733,G,C,0.037,0.095,0.0162,4.74198e-09,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,5,32581186,rs12519859,A,G,0.4748,0.0365,0.0063,5.76806e-09,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,1,145698023,rs1778523,G,C,0.3567,-0.0384,0.0066,7.55405e-09,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,5,132442263,rs56083805,C,T,0.2416,-0.044,0.0076,7.97003e-09,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,16,87085237,rs4496150,A,C,0.2466,-0.0416,0.0072,8.09096e-09,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,1,118195592,rs17185310,A,G,0.3034,0.0395,0.0069,8.70102e-09,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,9,129396434,rs10760444,A,G,0.5667,-0.0358,0.0062,9.05607e-09,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,1,41380440,rs4233486,T,C,0.6514,0.0396,0.0069,9.08511e-09,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,1,203848783,rs7550984,A,G,0.1251,0.0527,0.0093,1.38e-08,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,5,1248354,rs12513872,A,G,0.7485,0.0413,0.0073,1.464e-08,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,1,88156923,rs17426269,A,G,0.1488,0.0487,0.0086,1.74201e-08,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,7,21940960,rs7971,G,A,0.3531,-0.0365,0.0065,1.93099e-08,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,14,105212261,rs10623258,CTT,C,0.4525,0.0354,0.0063,2.26402e-08,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,2,227226952,rs12479355,G,A,0.2088,-0.0426,0.0076,2.35798e-08,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,9,136149830,rs532436,A,G,0.2027,0.0431,0.0078,2.90603e-08,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,1,46600917,rs1707302,G,A,0.6641,0.0364,0.0066,2.94802e-08,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,1,88429024,rs11583393,A,C,0.249,-0.0396,0.0072,3.61102e-08,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,19,13095195,rs56013747,C,A,0.8273,-0.0497,0.009,3.73801e-08,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,11,69280923,rs57212245,A,G,0.0783,-0.0652,0.0119,4.08903e-08,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1126,22,46274072,rs77848624,G,A,0.1686,0.0497,0.0091,4.48797e-08,228951,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,TRUE,reported,igd
+ieu-a-1128,6,151952332,rs9397437,A,G,0.0682,0.2733,0.0206,2.75931e-40,127442,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,TRUE,reported,igd
+ieu-a-1128,19,17393925,rs56069439,A,C,0.2971,0.155,0.0121,1.24997e-37,127442,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,TRUE,reported,igd
+ieu-a-1128,5,1279790,rs10069690,T,C,0.2601,0.1613,0.013,1.53993e-35,127442,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,TRUE,reported,igd
+ieu-a-1128,16,52599188,rs4784227,T,C,0.2403,0.1368,0.0128,1.72385e-26,127442,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,TRUE,reported,igd
+ieu-a-1128,1,204497913,rs2169137,C,G,0.7396,-0.128,0.0128,1.41808e-23,127442,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,TRUE,reported,igd
+ieu-a-1128,1,10566272,rs616402,T,C,0.307,-0.1172,0.0124,2.64972e-21,127442,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,TRUE,reported,igd
+ieu-a-1128,6,152437016,rs2747652,C,T,0.526,0.0991,0.0113,1.92619e-18,127442,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,TRUE,reported,igd
+ieu-a-1128,2,121079515,rs4528762,C,A,0.2646,-0.1213,0.0147,1.92088e-16,127442,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,TRUE,reported,igd
+ieu-a-1128,13,32972626,rs11571833,T,A,0.0081,0.4346,0.0588,1.49108e-13,127442,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,TRUE,reported,igd
+ieu-a-1128,5,1299379,rs2735846,G,C,0.5045,-0.0831,0.0117,1.35301e-12,127442,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,TRUE,reported,igd
+ieu-a-1128,1,202189087,rs12129456,G,T,0.4095,-0.0835,0.0118,1.41091e-12,127442,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,TRUE,reported,igd
+ieu-a-1128,8,36832310,rs56687477,A,G,0.1577,-0.1114,0.016,3.18713e-12,127442,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,TRUE,reported,igd
+ieu-a-1128,22,40855788,rs183438976,T,C,0.0997,0.1285,0.0186,4.51232e-12,127442,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,TRUE,reported,igd
+ieu-a-1128,16,53809123,rs55872725,T,C,0.4152,-0.0784,0.0115,8.59014e-12,127442,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,TRUE,reported,igd
+ieu-a-1128,9,21963048,rs2263146,T,C,0.3504,0.0797,0.0118,1.19702e-11,127442,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,TRUE,reported,igd
+ieu-a-1128,6,152031496,rs76956704,T,C,0.03,0.2193,0.0325,1.49486e-11,127442,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,TRUE,reported,igd
+ieu-a-1128,5,158244083,rs1432679,T,C,0.5656,-0.073,0.0113,1.05499e-10,127442,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,TRUE,reported,igd
+ieu-a-1128,2,29179452,rs12472404,C,G,0.2316,-0.0879,0.0137,1.237e-10,127442,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,TRUE,reported,igd
+ieu-a-1128,10,114777670,rs10885405,T,C,0.4613,0.0716,0.0113,2.003e-10,127442,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,TRUE,reported,igd
+ieu-a-1128,13,73956279,rs4143044,G,T,0.7661,0.0833,0.0135,6.89096e-10,127442,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,TRUE,reported,igd
+ieu-a-1128,8,128372172,rs10096351,G,A,0.5455,0.07,0.0114,7.14398e-10,127442,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,TRUE,reported,igd
+ieu-a-1128,14,69016645,rs17828955,C,T,0.2649,-0.0797,0.013,7.76104e-10,127442,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,TRUE,reported,igd
+ieu-a-1128,10,64299890,rs10995201,G,A,0.1582,-0.0963,0.0159,1.56899e-09,127442,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,TRUE,reported,igd
+ieu-a-1128,2,121246568,rs10179592,C,T,0.8991,0.1156,0.0193,2.29599e-09,127442,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,TRUE,reported,igd
+ieu-a-1128,5,44514350,rs7710996,G,A,0.7729,-0.0773,0.0132,5.18501e-09,127442,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,TRUE,reported,igd
+ieu-a-1128,8,170692,rs66823261,C,T,0.2304,0.0836,0.0143,5.63002e-09,127442,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,TRUE,reported,igd
+ieu-a-1128,19,44293278,rs8104447,C,T,0.407,0.067,0.0115,6.185e-09,127442,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,TRUE,reported,igd
+ieu-a-1128,2,218294217,rs12990503,G,C,0.7368,-0.0734,0.0126,6.47993e-09,127442,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,TRUE,reported,igd
+ieu-a-1128,8,76360637,rs189268208,G,A,0.0858,0.1116,0.0196,1.32099e-08,127442,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,TRUE,reported,igd
+ieu-a-1128,2,202122995,rs3769823,G,A,0.7071,-0.0684,0.0121,1.76202e-08,127442,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,TRUE,reported,igd
+ieu-a-1128,2,25129473,rs6725517,G,A,0.4065,-0.0683,0.0122,1.98299e-08,127442,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,TRUE,reported,igd
+ieu-a-1128,6,82295951,rs56309329,T,A,0.2368,0.0734,0.0131,2.09701e-08,127442,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,TRUE,reported,igd
+ieu-a-1128,16,4106788,rs11076805,A,C,0.2543,-0.0782,0.014,2.151e-08,127442,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,TRUE,reported,igd
+ieu-a-1128,5,94760804,rs2731830,A,G,0.9644,-0.2345,0.0419,2.25102e-08,127442,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,TRUE,reported,igd
+ieu-a-1128,11,108267402,rs199504893,C,CA,0.5874,0.066,0.0118,2.50501e-08,127442,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,TRUE,reported,igd
+ieu-a-1128,6,130349119,rs6569648,T,C,0.7651,0.0741,0.0135,4.25804e-08,127442,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,TRUE,reported,igd
+ieu-a-1128,17,39449318,rs191981806,C,T,0.0275,0.1963,0.036,4.93606e-08,127442,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,TRUE,reported,igd
+ieu-a-1135,6,151952332,rs9397437,A,G,0.069152,0.27995,0.02917,8.24898e-22,55149,ER- Breast cancer (Oncoarray) || id:ieu-a-1135,TRUE,reported,igd
+ieu-a-1135,5,1279790,rs10069690,T,C,0.258595,0.16997,0.01801,3.76444e-21,55149,ER- Breast cancer (Oncoarray) || id:ieu-a-1135,TRUE,reported,igd
+ieu-a-1135,19,17401404,rs67397200,G,C,0.295697,0.15918,0.01744,7.00326e-20,55149,ER- Breast cancer (Oncoarray) || id:ieu-a-1135,TRUE,reported,igd
+ieu-a-1135,16,52599188,rs4784227,T,C,0.240383,0.13483,0.01846,2.79383e-13,55149,ER- Breast cancer (Oncoarray) || id:ieu-a-1135,TRUE,reported,igd
+ieu-a-1135,1,10566272,rs616402,T,C,0.303524,-0.12368,0.01799,6.25461e-12,55149,ER- Breast cancer (Oncoarray) || id:ieu-a-1135,TRUE,reported,igd
+ieu-a-1135,1,204491551,rs35946963,CAG,C,0.741049,-0.12001,0.01815,3.748e-11,55149,ER- Breast cancer (Oncoarray) || id:ieu-a-1135,TRUE,reported,igd
+ieu-a-1135,2,121079515,rs4528762,C,A,0.265796,-0.1174,0.01946,1.62439e-09,55149,ER- Breast cancer (Oncoarray) || id:ieu-a-1135,TRUE,reported,igd
+ieu-a-1135,13,32968550,rs11571815,A,G,0.0079461,0.45564,0.07826,5.80965e-09,55149,ER- Breast cancer (Oncoarray) || id:ieu-a-1135,TRUE,reported,igd
+ieu-a-1135,2,121247093,rs7574050,C,T,0.937882,0.20657,0.03587,8.48614e-09,55149,ER- Breast cancer (Oncoarray) || id:ieu-a-1135,TRUE,reported,igd
+ieu-a-1135,3,4735157,rs72997345,T,C,0.0118918,0.44407,0.07763,1.06089e-08,55149,ER- Breast cancer (Oncoarray) || id:ieu-a-1135,TRUE,reported,igd
+ieu-a-1135,3,70112668,rs74450259,T,C,0.0390487,0.24014,0.0424,1.47999e-08,55149,ER- Breast cancer (Oncoarray) || id:ieu-a-1135,TRUE,reported,igd
+ieu-a-1135,11,108314362,rs4255510,C,A,0.420466,-0.09374,0.01661,1.66521e-08,55149,ER- Breast cancer (Oncoarray) || id:ieu-a-1135,TRUE,reported,igd
+ieu-a-1135,8,128372172,rs10096351,G,A,0.543728,0.0927,0.01645,1.73149e-08,55149,ER- Breast cancer (Oncoarray) || id:ieu-a-1135,TRUE,reported,igd

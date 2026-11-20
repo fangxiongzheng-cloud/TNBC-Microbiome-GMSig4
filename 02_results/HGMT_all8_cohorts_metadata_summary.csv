@@ -1,0 +1,9 @@
+project_id,assay_type,pmid,country,n_runs_bacteria,n_genera,n_BC,n_Health,n_BreastDiseases,has_KO,phenotype_breakdown
+PRJNA345373,16S,26032724,,94,237,47,47,0,False,Health:47; Breast Neoplasms:47
+PRJNA383849,16S,29360814,,288,518,144,144,0,False,Breast Neoplasms:144; Health:144
+PRJNA453965,WGS,30081953,China,133,755,62,71,0,True,Health:71; Breast Neoplasms:62
+PRJNA494824,WGS,32138779,USA,31,588,8,0,0,True,"Adenocarcinoma of Lung:10; Breast Neoplasms:8; Prostatic Neoplasms:3; Rectal Neoplasms:2; Pancreatic Neoplasms:2; Colonic Neoplasms:2; Ovarian Neoplasms:2; Leukemia, Myelogenous, Chronic, BCR-ABL Positive:1; Small Cell Lung Carcinoma:1"
+PRJNA566060,16S,33211236,China,36,258,36,0,0,False,Breast Neoplasms:36
+PRJNA658160,16S,33460452,Ghana,935,762,397,430,108,False,Health:430; Breast Neoplasms:397; Breast Diseases:108
+PRJNA718520,WGS,33963313,France,76,959,76,0,0,True,Breast Neoplasms:76
+PRJNA751260,16S,35675827,China,36,314,18,9,9,False,Breast Neoplasms:18; Health:9; Breast Diseases:9

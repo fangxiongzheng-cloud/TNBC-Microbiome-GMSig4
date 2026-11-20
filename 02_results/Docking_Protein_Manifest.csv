@@ -1,0 +1,12 @@
+gene,uniprot,best_pdb,resolution,source,pdb_path
+IDO1,P14902,9FOH,1.6,AlphaFold:P14902,01_data/docking/proteins/IDO1_P14902_AF.pdb
+PEMT,Q9UBM1,,,AlphaFold:Q9UBM1,01_data/docking/proteins/PEMT_Q9UBM1_AF.pdb
+ENO1,P06733,5NI9,1.33,RCSB_PDB:5NI9 (1.33A),01_data/docking/proteins/ENO1_5NI9.pdb
+FFAR2,O15552,,,AlphaFold:O15552,01_data/docking/proteins/FFAR2_O15552_AF.pdb
+TGFBR1,P36897,9J9D,1.34,AlphaFold:P36897,01_data/docking/proteins/TGFBR1_P36897_AF.pdb
+CASP1,P29466,8WRA,1.45,RCSB_PDB:8WRA (1.45A),01_data/docking/proteins/CASP1_8WRA.pdb
+NLRP3,Q96P20,3QF2,1.7,RCSB_PDB:3QF2 (1.70A),01_data/docking/proteins/NLRP3_3QF2.pdb
+DAPK3,O43293,3BHY,1.24,RCSB_PDB:3BHY (1.24A),01_data/docking/proteins/DAPK3_3BHY.pdb
+TCF7L2,Q9NQB0,1JDH,1.9,RCSB_PDB:1JDH (1.90A),01_data/docking/proteins/TCF7L2_1JDH.pdb
+MAGI3,Q5TCQ9,3SOE,1.6,RCSB_PDB:3SOE (1.60A),01_data/docking/proteins/MAGI3_3SOE.pdb
+MUC1,P15941,6BSC,1.3,RCSB_PDB:6BSC (1.30A),01_data/docking/proteins/MUC1_6BSC.pdb

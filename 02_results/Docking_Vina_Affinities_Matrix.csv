@@ -1,0 +1,122 @@
+gene,source,box_mode,metabolite,affinity_kcal_mol,second_pose_affinity,gutMGene_evidence,pose_pdbqt
+IDO1,AlphaFold:P14902,FoldedCore_Box(60x51x60),Indole-3-carboxylic_acid,-6.677,-6.624,gutMGene2: inhibition (PMID:37770127),01_data/docking/poses/IDO1__Indole-3-carboxylic_acid_out.pdbqt
+IDO1,AlphaFold:P14902,FoldedCore_Box(60x51x60),Urolithin_A,-7.209,-7.022,,01_data/docking/poses/IDO1__Urolithin_A_out.pdbqt
+IDO1,AlphaFold:P14902,FoldedCore_Box(60x51x60),Indole,-5.684,-5.615,,01_data/docking/poses/IDO1__Indole_out.pdbqt
+IDO1,AlphaFold:P14902,FoldedCore_Box(60x51x60),3-Indolepropionic_acid,-6.13,-5.853,,01_data/docking/poses/IDO1__3-Indolepropionic_acid_out.pdbqt
+IDO1,AlphaFold:P14902,FoldedCore_Box(60x51x60),Butyrate,-4.062,-3.91,,01_data/docking/poses/IDO1__Butyrate_out.pdbqt
+IDO1,AlphaFold:P14902,FoldedCore_Box(60x51x60),Propionate,-3.823,-3.73,,01_data/docking/poses/IDO1__Propionate_out.pdbqt
+IDO1,AlphaFold:P14902,FoldedCore_Box(60x51x60),Caffeic_acid,-7.229,-6.847,,01_data/docking/poses/IDO1__Caffeic_acid_out.pdbqt
+IDO1,AlphaFold:P14902,FoldedCore_Box(60x51x60),3-(4-Hydroxyphenyl)propionic_acid,-6.601,-6.163,,01_data/docking/poses/IDO1__3-(4-Hydroxyphenyl)propionic_acid_out.pdbqt
+IDO1,AlphaFold:P14902,FoldedCore_Box(60x51x60),Trimethylamine_N-oxide,-2.862,-2.842,,01_data/docking/poses/IDO1__Trimethylamine_N-oxide_out.pdbqt
+IDO1,AlphaFold:P14902,FoldedCore_Box(60x51x60),Lithocholic_acid,-7.595,-7.03,,01_data/docking/poses/IDO1__Lithocholic_acid_out.pdbqt
+IDO1,AlphaFold:P14902,FoldedCore_Box(60x51x60),Nicotinic_acid,-5.112,-5.085,,01_data/docking/poses/IDO1__Nicotinic_acid_out.pdbqt
+PEMT,AlphaFold:Q9UBM1,FoldedCore_Box(56x40x52),Indole-3-carboxylic_acid,-7.109,-6.631,,01_data/docking/poses/PEMT__Indole-3-carboxylic_acid_out.pdbqt
+PEMT,AlphaFold:Q9UBM1,FoldedCore_Box(56x40x52),Urolithin_A,-7.836,-7.764,gutMGene2: activation (PMID:30626868) + TNBC MR FDR=0.048,01_data/docking/poses/PEMT__Urolithin_A_out.pdbqt
+PEMT,AlphaFold:Q9UBM1,FoldedCore_Box(56x40x52),Indole,-5.976,-5.716,,01_data/docking/poses/PEMT__Indole_out.pdbqt
+PEMT,AlphaFold:Q9UBM1,FoldedCore_Box(56x40x52),3-Indolepropionic_acid,-6.902,-6.563,,01_data/docking/poses/PEMT__3-Indolepropionic_acid_out.pdbqt
+PEMT,AlphaFold:Q9UBM1,FoldedCore_Box(56x40x52),Butyrate,-4.328,-4.201,,01_data/docking/poses/PEMT__Butyrate_out.pdbqt
+PEMT,AlphaFold:Q9UBM1,FoldedCore_Box(56x40x52),Propionate,-4.014,-3.603,,01_data/docking/poses/PEMT__Propionate_out.pdbqt
+PEMT,AlphaFold:Q9UBM1,FoldedCore_Box(56x40x52),Caffeic_acid,-6.581,-6.364,,01_data/docking/poses/PEMT__Caffeic_acid_out.pdbqt
+PEMT,AlphaFold:Q9UBM1,FoldedCore_Box(56x40x52),3-(4-Hydroxyphenyl)propionic_acid,-6.333,-6.209,,01_data/docking/poses/PEMT__3-(4-Hydroxyphenyl)propionic_acid_out.pdbqt
+PEMT,AlphaFold:Q9UBM1,FoldedCore_Box(56x40x52),Trimethylamine_N-oxide,-2.991,-2.99,,01_data/docking/poses/PEMT__Trimethylamine_N-oxide_out.pdbqt
+PEMT,AlphaFold:Q9UBM1,FoldedCore_Box(56x40x52),Lithocholic_acid,-9.615,-8.444,,01_data/docking/poses/PEMT__Lithocholic_acid_out.pdbqt
+PEMT,AlphaFold:Q9UBM1,FoldedCore_Box(56x40x52),Nicotinic_acid,-5.593,-5.449,,01_data/docking/poses/PEMT__Nicotinic_acid_out.pdbqt
+ENO1,RCSB_PDB:5NI9 (1.33A),"CoCrystal_Pocket(MRD, 8 atoms)",Indole-3-carboxylic_acid,-4.971,-4.918,,01_data/docking/poses/ENO1__Indole-3-carboxylic_acid_out.pdbqt
+ENO1,RCSB_PDB:5NI9 (1.33A),"CoCrystal_Pocket(MRD, 8 atoms)",Urolithin_A,-6.345,-6.136,,01_data/docking/poses/ENO1__Urolithin_A_out.pdbqt
+ENO1,RCSB_PDB:5NI9 (1.33A),"CoCrystal_Pocket(MRD, 8 atoms)",Indole,-4.618,-4.422,,01_data/docking/poses/ENO1__Indole_out.pdbqt
+ENO1,RCSB_PDB:5NI9 (1.33A),"CoCrystal_Pocket(MRD, 8 atoms)",3-Indolepropionic_acid,-5.338,-5.169,,01_data/docking/poses/ENO1__3-Indolepropionic_acid_out.pdbqt
+ENO1,RCSB_PDB:5NI9 (1.33A),"CoCrystal_Pocket(MRD, 8 atoms)",Butyrate,-3.363,-3.328,,01_data/docking/poses/ENO1__Butyrate_out.pdbqt
+ENO1,RCSB_PDB:5NI9 (1.33A),"CoCrystal_Pocket(MRD, 8 atoms)",Propionate,-3.138,-3.112,,01_data/docking/poses/ENO1__Propionate_out.pdbqt
+ENO1,RCSB_PDB:5NI9 (1.33A),"CoCrystal_Pocket(MRD, 8 atoms)",Caffeic_acid,-5.365,-5.132,,01_data/docking/poses/ENO1__Caffeic_acid_out.pdbqt
+ENO1,RCSB_PDB:5NI9 (1.33A),"CoCrystal_Pocket(MRD, 8 atoms)",3-(4-Hydroxyphenyl)propionic_acid,-4.919,-4.848,,01_data/docking/poses/ENO1__3-(4-Hydroxyphenyl)propionic_acid_out.pdbqt
+ENO1,RCSB_PDB:5NI9 (1.33A),"CoCrystal_Pocket(MRD, 8 atoms)",Trimethylamine_N-oxide,-2.434,-2.397,,01_data/docking/poses/ENO1__Trimethylamine_N-oxide_out.pdbqt
+ENO1,RCSB_PDB:5NI9 (1.33A),"CoCrystal_Pocket(MRD, 8 atoms)",Lithocholic_acid,-6.896,-6.712,,01_data/docking/poses/ENO1__Lithocholic_acid_out.pdbqt
+ENO1,RCSB_PDB:5NI9 (1.33A),"CoCrystal_Pocket(MRD, 8 atoms)",Nicotinic_acid,-4.221,-4.026,,01_data/docking/poses/ENO1__Nicotinic_acid_out.pdbqt
+FFAR2,AlphaFold:O15552,FoldedCore_Box(60x57x60),Indole-3-carboxylic_acid,-5.58,-5.463,,01_data/docking/poses/FFAR2__Indole-3-carboxylic_acid_out.pdbqt
+FFAR2,AlphaFold:O15552,FoldedCore_Box(60x57x60),Urolithin_A,-6.523,-6.47,,01_data/docking/poses/FFAR2__Urolithin_A_out.pdbqt
+FFAR2,AlphaFold:O15552,FoldedCore_Box(60x57x60),Indole,-4.98,-4.779,,01_data/docking/poses/FFAR2__Indole_out.pdbqt
+FFAR2,AlphaFold:O15552,FoldedCore_Box(60x57x60),3-Indolepropionic_acid,-6.048,-6.029,,01_data/docking/poses/FFAR2__3-Indolepropionic_acid_out.pdbqt
+FFAR2,AlphaFold:O15552,FoldedCore_Box(60x57x60),Butyrate,-3.874,-3.705,gutMGene2: activation (SCFA receptor) + PureTNBC MR,01_data/docking/poses/FFAR2__Butyrate_out.pdbqt
+FFAR2,AlphaFold:O15552,FoldedCore_Box(60x57x60),Propionate,-3.661,-3.237,gutMGene2: activation (SCFA receptor) + PureTNBC MR,01_data/docking/poses/FFAR2__Propionate_out.pdbqt
+FFAR2,AlphaFold:O15552,FoldedCore_Box(60x57x60),Caffeic_acid,-5.893,-5.635,,01_data/docking/poses/FFAR2__Caffeic_acid_out.pdbqt
+FFAR2,AlphaFold:O15552,FoldedCore_Box(60x57x60),3-(4-Hydroxyphenyl)propionic_acid,-5.482,-5.356,,01_data/docking/poses/FFAR2__3-(4-Hydroxyphenyl)propionic_acid_out.pdbqt
+FFAR2,AlphaFold:O15552,FoldedCore_Box(60x57x60),Trimethylamine_N-oxide,-2.554,-2.549,,01_data/docking/poses/FFAR2__Trimethylamine_N-oxide_out.pdbqt
+FFAR2,AlphaFold:O15552,FoldedCore_Box(60x57x60),Lithocholic_acid,-7.368,-7.291,,01_data/docking/poses/FFAR2__Lithocholic_acid_out.pdbqt
+FFAR2,AlphaFold:O15552,FoldedCore_Box(60x57x60),Nicotinic_acid,-5.042,-4.997,,01_data/docking/poses/FFAR2__Nicotinic_acid_out.pdbqt
+TGFBR1,AlphaFold:P36897,FoldedCore_Box(60x60x60),Indole-3-carboxylic_acid,-6.619,-6.538,,01_data/docking/poses/TGFBR1__Indole-3-carboxylic_acid_out.pdbqt
+TGFBR1,AlphaFold:P36897,FoldedCore_Box(60x60x60),Urolithin_A,-8.255,-8.253,,01_data/docking/poses/TGFBR1__Urolithin_A_out.pdbqt
+TGFBR1,AlphaFold:P36897,FoldedCore_Box(60x60x60),Indole,-6.081,-5.992,,01_data/docking/poses/TGFBR1__Indole_out.pdbqt
+TGFBR1,AlphaFold:P36897,FoldedCore_Box(60x60x60),3-Indolepropionic_acid,-7.938,-7.106,,01_data/docking/poses/TGFBR1__3-Indolepropionic_acid_out.pdbqt
+TGFBR1,AlphaFold:P36897,FoldedCore_Box(60x60x60),Butyrate,-4.429,-4.331,,01_data/docking/poses/TGFBR1__Butyrate_out.pdbqt
+TGFBR1,AlphaFold:P36897,FoldedCore_Box(60x60x60),Propionate,-4.069,-3.951,,01_data/docking/poses/TGFBR1__Propionate_out.pdbqt
+TGFBR1,AlphaFold:P36897,FoldedCore_Box(60x60x60),Caffeic_acid,-6.672,-6.389,,01_data/docking/poses/TGFBR1__Caffeic_acid_out.pdbqt
+TGFBR1,AlphaFold:P36897,FoldedCore_Box(60x60x60),3-(4-Hydroxyphenyl)propionic_acid,-6.211,-6.163,,01_data/docking/poses/TGFBR1__3-(4-Hydroxyphenyl)propionic_acid_out.pdbqt
+TGFBR1,AlphaFold:P36897,FoldedCore_Box(60x60x60),Trimethylamine_N-oxide,-3.488,-3.483,gutMGene2: activation (PMID:31299216) + ER- MR,01_data/docking/poses/TGFBR1__Trimethylamine_N-oxide_out.pdbqt
+TGFBR1,AlphaFold:P36897,FoldedCore_Box(60x60x60),Lithocholic_acid,-9.029,-8.133,,01_data/docking/poses/TGFBR1__Lithocholic_acid_out.pdbqt
+TGFBR1,AlphaFold:P36897,FoldedCore_Box(60x60x60),Nicotinic_acid,-5.612,-5.585,,01_data/docking/poses/TGFBR1__Nicotinic_acid_out.pdbqt
+CASP1,RCSB_PDB:8WRA (1.45A),FoldedCore_Box(56x43x60),Indole-3-carboxylic_acid,-5.661,-5.432,,01_data/docking/poses/CASP1__Indole-3-carboxylic_acid_out.pdbqt
+CASP1,RCSB_PDB:8WRA (1.45A),FoldedCore_Box(56x43x60),Urolithin_A,-6.802,-6.666,,01_data/docking/poses/CASP1__Urolithin_A_out.pdbqt
+CASP1,RCSB_PDB:8WRA (1.45A),FoldedCore_Box(56x43x60),Indole,-4.636,-4.552,,01_data/docking/poses/CASP1__Indole_out.pdbqt
+CASP1,RCSB_PDB:8WRA (1.45A),FoldedCore_Box(56x43x60),3-Indolepropionic_acid,-5.984,-5.513,,01_data/docking/poses/CASP1__3-Indolepropionic_acid_out.pdbqt
+CASP1,RCSB_PDB:8WRA (1.45A),FoldedCore_Box(56x43x60),Butyrate,-3.772,-3.74,,01_data/docking/poses/CASP1__Butyrate_out.pdbqt
+CASP1,RCSB_PDB:8WRA (1.45A),FoldedCore_Box(56x43x60),Propionate,-3.572,-3.545,,01_data/docking/poses/CASP1__Propionate_out.pdbqt
+CASP1,RCSB_PDB:8WRA (1.45A),FoldedCore_Box(56x43x60),Caffeic_acid,-6.589,-6.219,gutMGene2: inhibition (PMID:33096252),01_data/docking/poses/CASP1__Caffeic_acid_out.pdbqt
+CASP1,RCSB_PDB:8WRA (1.45A),FoldedCore_Box(56x43x60),3-(4-Hydroxyphenyl)propionic_acid,-5.691,-5.641,,01_data/docking/poses/CASP1__3-(4-Hydroxyphenyl)propionic_acid_out.pdbqt
+CASP1,RCSB_PDB:8WRA (1.45A),FoldedCore_Box(56x43x60),Trimethylamine_N-oxide,-2.592,-2.592,,01_data/docking/poses/CASP1__Trimethylamine_N-oxide_out.pdbqt
+CASP1,RCSB_PDB:8WRA (1.45A),FoldedCore_Box(56x43x60),Lithocholic_acid,-6.721,-6.347,,01_data/docking/poses/CASP1__Lithocholic_acid_out.pdbqt
+CASP1,RCSB_PDB:8WRA (1.45A),FoldedCore_Box(56x43x60),Nicotinic_acid,-4.914,-4.853,,01_data/docking/poses/CASP1__Nicotinic_acid_out.pdbqt
+NLRP3,RCSB_PDB:3QF2 (1.70A),FoldedCore_Box(37x31x32),Indole-3-carboxylic_acid,-4.828,-4.827,,01_data/docking/poses/NLRP3__Indole-3-carboxylic_acid_out.pdbqt
+NLRP3,RCSB_PDB:3QF2 (1.70A),FoldedCore_Box(37x31x32),Urolithin_A,-5.724,-5.677,,01_data/docking/poses/NLRP3__Urolithin_A_out.pdbqt
+NLRP3,RCSB_PDB:3QF2 (1.70A),FoldedCore_Box(37x31x32),Indole,-4.219,-4.086,,01_data/docking/poses/NLRP3__Indole_out.pdbqt
+NLRP3,RCSB_PDB:3QF2 (1.70A),FoldedCore_Box(37x31x32),3-Indolepropionic_acid,-4.861,-4.758,,01_data/docking/poses/NLRP3__3-Indolepropionic_acid_out.pdbqt
+NLRP3,RCSB_PDB:3QF2 (1.70A),FoldedCore_Box(37x31x32),Butyrate,-3.052,-3.047,,01_data/docking/poses/NLRP3__Butyrate_out.pdbqt
+NLRP3,RCSB_PDB:3QF2 (1.70A),FoldedCore_Box(37x31x32),Propionate,-2.9,-2.789,,01_data/docking/poses/NLRP3__Propionate_out.pdbqt
+NLRP3,RCSB_PDB:3QF2 (1.70A),FoldedCore_Box(37x31x32),Caffeic_acid,-4.573,-4.479,gutMGene2: inhibition (PMID:33096252) + TNBC MR,01_data/docking/poses/NLRP3__Caffeic_acid_out.pdbqt
+NLRP3,RCSB_PDB:3QF2 (1.70A),FoldedCore_Box(37x31x32),3-(4-Hydroxyphenyl)propionic_acid,-4.534,-4.534,,01_data/docking/poses/NLRP3__3-(4-Hydroxyphenyl)propionic_acid_out.pdbqt
+NLRP3,RCSB_PDB:3QF2 (1.70A),FoldedCore_Box(37x31x32),Trimethylamine_N-oxide,-2.046,-2.046,,01_data/docking/poses/NLRP3__Trimethylamine_N-oxide_out.pdbqt
+NLRP3,RCSB_PDB:3QF2 (1.70A),FoldedCore_Box(37x31x32),Lithocholic_acid,-6.118,-6.053,,01_data/docking/poses/NLRP3__Lithocholic_acid_out.pdbqt
+NLRP3,RCSB_PDB:3QF2 (1.70A),FoldedCore_Box(37x31x32),Nicotinic_acid,-3.931,-3.814,,01_data/docking/poses/NLRP3__Nicotinic_acid_out.pdbqt
+DAPK3,RCSB_PDB:3BHY (1.24A),"CoCrystal_Pocket(7CP, 25 atoms)",Indole-3-carboxylic_acid,-6.21,-6.18,,01_data/docking/poses/DAPK3__Indole-3-carboxylic_acid_out.pdbqt
+DAPK3,RCSB_PDB:3BHY (1.24A),"CoCrystal_Pocket(7CP, 25 atoms)",Urolithin_A,-7.647,-7.639,gutMGene2: activation (PMID:30626868),01_data/docking/poses/DAPK3__Urolithin_A_out.pdbqt
+DAPK3,RCSB_PDB:3BHY (1.24A),"CoCrystal_Pocket(7CP, 25 atoms)",Indole,-5.479,-5.338,,01_data/docking/poses/DAPK3__Indole_out.pdbqt
+DAPK3,RCSB_PDB:3BHY (1.24A),"CoCrystal_Pocket(7CP, 25 atoms)",3-Indolepropionic_acid,-6.459,-6.247,,01_data/docking/poses/DAPK3__3-Indolepropionic_acid_out.pdbqt
+DAPK3,RCSB_PDB:3BHY (1.24A),"CoCrystal_Pocket(7CP, 25 atoms)",Butyrate,-3.927,-3.813,,01_data/docking/poses/DAPK3__Butyrate_out.pdbqt
+DAPK3,RCSB_PDB:3BHY (1.24A),"CoCrystal_Pocket(7CP, 25 atoms)",Propionate,-3.603,-3.469,,01_data/docking/poses/DAPK3__Propionate_out.pdbqt
+DAPK3,RCSB_PDB:3BHY (1.24A),"CoCrystal_Pocket(7CP, 25 atoms)",Caffeic_acid,-6.636,-6.15,,01_data/docking/poses/DAPK3__Caffeic_acid_out.pdbqt
+DAPK3,RCSB_PDB:3BHY (1.24A),"CoCrystal_Pocket(7CP, 25 atoms)",3-(4-Hydroxyphenyl)propionic_acid,-6.208,-5.79,,01_data/docking/poses/DAPK3__3-(4-Hydroxyphenyl)propionic_acid_out.pdbqt
+DAPK3,RCSB_PDB:3BHY (1.24A),"CoCrystal_Pocket(7CP, 25 atoms)",Trimethylamine_N-oxide,-2.403,-2.38,,01_data/docking/poses/DAPK3__Trimethylamine_N-oxide_out.pdbqt
+DAPK3,RCSB_PDB:3BHY (1.24A),"CoCrystal_Pocket(7CP, 25 atoms)",Lithocholic_acid,-7.737,-7.627,,01_data/docking/poses/DAPK3__Lithocholic_acid_out.pdbqt
+DAPK3,RCSB_PDB:3BHY (1.24A),"CoCrystal_Pocket(7CP, 25 atoms)",Nicotinic_acid,-4.682,-4.55,,01_data/docking/poses/DAPK3__Nicotinic_acid_out.pdbqt
+TCF7L2,RCSB_PDB:1JDH (1.90A),FoldedCore_Box(60x48x60),Indole-3-carboxylic_acid,-5.664,-5.379,,01_data/docking/poses/TCF7L2__Indole-3-carboxylic_acid_out.pdbqt
+TCF7L2,RCSB_PDB:1JDH (1.90A),FoldedCore_Box(60x48x60),Urolithin_A,-6.571,-6.53,,01_data/docking/poses/TCF7L2__Urolithin_A_out.pdbqt
+TCF7L2,RCSB_PDB:1JDH (1.90A),FoldedCore_Box(60x48x60),Indole,-4.957,-4.798,,01_data/docking/poses/TCF7L2__Indole_out.pdbqt
+TCF7L2,RCSB_PDB:1JDH (1.90A),FoldedCore_Box(60x48x60),3-Indolepropionic_acid,-5.843,-5.546,,01_data/docking/poses/TCF7L2__3-Indolepropionic_acid_out.pdbqt
+TCF7L2,RCSB_PDB:1JDH (1.90A),FoldedCore_Box(60x48x60),Butyrate,-3.635,-3.587,,01_data/docking/poses/TCF7L2__Butyrate_out.pdbqt
+TCF7L2,RCSB_PDB:1JDH (1.90A),FoldedCore_Box(60x48x60),Propionate,-3.342,-3.107,,01_data/docking/poses/TCF7L2__Propionate_out.pdbqt
+TCF7L2,RCSB_PDB:1JDH (1.90A),FoldedCore_Box(60x48x60),Caffeic_acid,-5.68,-5.604,,01_data/docking/poses/TCF7L2__Caffeic_acid_out.pdbqt
+TCF7L2,RCSB_PDB:1JDH (1.90A),FoldedCore_Box(60x48x60),3-(4-Hydroxyphenyl)propionic_acid,-5.38,-5.162,,01_data/docking/poses/TCF7L2__3-(4-Hydroxyphenyl)propionic_acid_out.pdbqt
+TCF7L2,RCSB_PDB:1JDH (1.90A),FoldedCore_Box(60x48x60),Trimethylamine_N-oxide,-2.643,-2.636,,01_data/docking/poses/TCF7L2__Trimethylamine_N-oxide_out.pdbqt
+TCF7L2,RCSB_PDB:1JDH (1.90A),FoldedCore_Box(60x48x60),Lithocholic_acid,-6.785,-6.659,,01_data/docking/poses/TCF7L2__Lithocholic_acid_out.pdbqt
+TCF7L2,RCSB_PDB:1JDH (1.90A),FoldedCore_Box(60x48x60),Nicotinic_acid,-4.806,-4.463,,01_data/docking/poses/TCF7L2__Nicotinic_acid_out.pdbqt
+MAGI3,RCSB_PDB:3SOE (1.60A),FoldedCore_Box(32x32x47),Indole-3-carboxylic_acid,-5.184,-5.149,,01_data/docking/poses/MAGI3__Indole-3-carboxylic_acid_out.pdbqt
+MAGI3,RCSB_PDB:3SOE (1.60A),FoldedCore_Box(32x32x47),Urolithin_A,-6.326,-6.063,,01_data/docking/poses/MAGI3__Urolithin_A_out.pdbqt
+MAGI3,RCSB_PDB:3SOE (1.60A),FoldedCore_Box(32x32x47),Indole,-4.666,-4.619,,01_data/docking/poses/MAGI3__Indole_out.pdbqt
+MAGI3,RCSB_PDB:3SOE (1.60A),FoldedCore_Box(32x32x47),3-Indolepropionic_acid,-4.837,-4.809,,01_data/docking/poses/MAGI3__3-Indolepropionic_acid_out.pdbqt
+MAGI3,RCSB_PDB:3SOE (1.60A),FoldedCore_Box(32x32x47),Butyrate,-3.585,-3.423,,01_data/docking/poses/MAGI3__Butyrate_out.pdbqt
+MAGI3,RCSB_PDB:3SOE (1.60A),FoldedCore_Box(32x32x47),Propionate,-3.451,-3.404,,01_data/docking/poses/MAGI3__Propionate_out.pdbqt
+MAGI3,RCSB_PDB:3SOE (1.60A),FoldedCore_Box(32x32x47),Caffeic_acid,-5.336,-5.253,,01_data/docking/poses/MAGI3__Caffeic_acid_out.pdbqt
+MAGI3,RCSB_PDB:3SOE (1.60A),FoldedCore_Box(32x32x47),3-(4-Hydroxyphenyl)propionic_acid,-4.915,-4.716,,01_data/docking/poses/MAGI3__3-(4-Hydroxyphenyl)propionic_acid_out.pdbqt
+MAGI3,RCSB_PDB:3SOE (1.60A),FoldedCore_Box(32x32x47),Trimethylamine_N-oxide,-2.219,-2.205,,01_data/docking/poses/MAGI3__Trimethylamine_N-oxide_out.pdbqt
+MAGI3,RCSB_PDB:3SOE (1.60A),FoldedCore_Box(32x32x47),Lithocholic_acid,-6.465,-6.444,,01_data/docking/poses/MAGI3__Lithocholic_acid_out.pdbqt
+MAGI3,RCSB_PDB:3SOE (1.60A),FoldedCore_Box(32x32x47),Nicotinic_acid,-4.614,-4.537,,01_data/docking/poses/MAGI3__Nicotinic_acid_out.pdbqt
+MUC1,RCSB_PDB:6BSC (1.30A),FoldedCore_Box(33x38x28),Indole-3-carboxylic_acid,-6.464,-6.16,,01_data/docking/poses/MUC1__Indole-3-carboxylic_acid_out.pdbqt
+MUC1,RCSB_PDB:6BSC (1.30A),FoldedCore_Box(33x38x28),Urolithin_A,-8.19,-8.115,,01_data/docking/poses/MUC1__Urolithin_A_out.pdbqt
+MUC1,RCSB_PDB:6BSC (1.30A),FoldedCore_Box(33x38x28),Indole,-5.708,-5.528,,01_data/docking/poses/MUC1__Indole_out.pdbqt
+MUC1,RCSB_PDB:6BSC (1.30A),FoldedCore_Box(33x38x28),3-Indolepropionic_acid,-6.985,-6.688,,01_data/docking/poses/MUC1__3-Indolepropionic_acid_out.pdbqt
+MUC1,RCSB_PDB:6BSC (1.30A),FoldedCore_Box(33x38x28),Butyrate,-3.806,-3.736,,01_data/docking/poses/MUC1__Butyrate_out.pdbqt
+MUC1,RCSB_PDB:6BSC (1.30A),FoldedCore_Box(33x38x28),Propionate,-3.407,-3.277,,01_data/docking/poses/MUC1__Propionate_out.pdbqt
+MUC1,RCSB_PDB:6BSC (1.30A),FoldedCore_Box(33x38x28),Caffeic_acid,-6.577,-6.545,,01_data/docking/poses/MUC1__Caffeic_acid_out.pdbqt
+MUC1,RCSB_PDB:6BSC (1.30A),FoldedCore_Box(33x38x28),3-(4-Hydroxyphenyl)propionic_acid,-6.023,-5.991,,01_data/docking/poses/MUC1__3-(4-Hydroxyphenyl)propionic_acid_out.pdbqt
+MUC1,RCSB_PDB:6BSC (1.30A),FoldedCore_Box(33x38x28),Trimethylamine_N-oxide,-2.557,-2.555,,01_data/docking/poses/MUC1__Trimethylamine_N-oxide_out.pdbqt
+MUC1,RCSB_PDB:6BSC (1.30A),FoldedCore_Box(33x38x28),Lithocholic_acid,-10.053,-9.979,,01_data/docking/poses/MUC1__Lithocholic_acid_out.pdbqt
+MUC1,RCSB_PDB:6BSC (1.30A),FoldedCore_Box(33x38x28),Nicotinic_acid,-5.073,-4.953,,01_data/docking/poses/MUC1__Nicotinic_acid_out.pdbqt

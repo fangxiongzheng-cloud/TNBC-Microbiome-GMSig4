@@ -1,0 +1,114 @@
+﻿gene,via_direct_microbe,via_metabolite,linked_genera,linked_metabolites
+ALPI,False,True,Agathobacter; Bacteroides; Blautia; Butyricimonas; Clostridium; Collinsella; Dialister; Dorea; Eubacterium; Faecalibacterium; Lachnospira; Parasutterella; Phascolarctobacterium; Roseburia; Ruminococcus; Streptococcus; Succinivibrio; Sutterella,Acetate; Butyrate; Propionate
+ANGPTL4,True,True,Agathobacter; Bacteroides; Blautia; Butyricimonas; Clostridium; Collinsella; Dialister; Dorea; Eubacterium; Faecalibacterium; Lachnospira; Parasutterella; Phascolarctobacterium; Roseburia; Ruminococcus; Streptococcus; Succinivibrio; Sutterella,Acetate; Butyrate; Propionate
+APOE,True,False,Blautia; Ruminococcus,
+APP,False,True,Agathobacter; Bacteroides; Blautia; Clostridium; Collinsella; Dorea; Eubacterium; Faecalibacterium; Lachnospira; Roseburia; Ruminococcus; Streptococcus; Succinivibrio,Acetate
+B4GALT1,True,False,Mediterraneibacter,
+BAX,False,True,Bacteroides,Genipin
+BCL2,False,True,Bacteroides,Genipin
+CASP1,False,True,Clostridium; Eubacterium; Flavonifractor,3-(4-Hydroxyphenyl)propionic acid; 4-Hydroxyphenylacetic acid
+CASP3,False,True,Bacteroides,Genipin
+CCL2,True,True,Agathobacter; Bacteroides; Blautia; Butyricimonas; Clostridium; Collinsella; Dialister; Dorea; Eubacterium; Faecalibacterium; Lachnospira; Parabacteroides; Parasutterella; Phascolarctobacterium; Roseburia; Ruminococcus; Streptococcus; Succinivibrio; Sutterella,Acetate; Butyrate; Propionate; Succinate
+CCL20,True,False,Streptococcus,
+CCR6,True,False,Faecalibacterium,
+CD14,False,True,Blautia; Clostridium; Collinsella; Holdemanella; Oscillibacter; Roseburia,Trimethylamine oxide
+CD163,False,True,Blautia; Clostridium; Collinsella; Holdemanella; Oscillibacter; Roseburia,Trimethylamine oxide
+CD44,False,True,Blautia; Clostridium; Collinsella; Holdemanella; Oscillibacter; Roseburia,Trimethylamine oxide
+CDKN1A,True,False,Clostridium,
+CHGA,False,True,Agathobacter; Blautia; Butyricimonas; Clostridium; Dorea; Eubacterium; Faecalibacterium; Lachnospira; Phascolarctobacterium; Roseburia; Streptococcus,Butyrate
+CLDN3,False,True,Agathobacter; Bacteroides; Blautia; Butyricimonas; Clostridium; Collinsella; Dialister; Dorea; Eubacterium; Faecalibacterium; Lachnospira; Parasutterella; Phascolarctobacterium; Roseburia; Ruminococcus; Streptococcus; Succinivibrio; Sutterella,Acetate; Butyrate; Propionate
+COX1,True,False,Muribaculaceae,
+CXCL1,True,False,Collinsella,
+CXCL5,True,False,Collinsella,
+CXCL6,True,False,Agathobacter; Streptococcus,
+CXCL8,True,True,Agathobacter; Bacteroides; Blautia; Butyricimonas; Clostridium; Collinsella; Dorea; Eubacterium; Faecalibacterium; Lachnospira; Parabacteroides; Phascolarctobacterium; Roseburia; Ruminococcus; Streptococcus; Succinivibrio,Acetate; Butyrate; Succinate
+CXCR2,False,True,Agathobacter; Blautia; Butyricimonas; Clostridium; Dorea; Eubacterium; Faecalibacterium; Lachnospira; Phascolarctobacterium; Roseburia; Streptococcus,Butyrate
+CXCR3,True,False,Faecalibacterium,
+CXCR6,True,False,Faecalibacterium,
+DCLK1,False,True,Agathobacter; Bacteroides; Blautia; Butyricimonas; Clostridium; Collinsella; Dialister; Dorea; Eubacterium; Faecalibacterium; Lachnospira; Parasutterella; Phascolarctobacterium; Roseburia; Ruminococcus; Streptococcus; Succinivibrio; Sutterella,Acetate; Butyrate; Propionate
+DEFB1,False,True,Agathobacter; Bacteroides; Blautia; Butyricimonas; Clostridium; Dialister; Dorea; Eubacterium; Faecalibacterium; Lachnospira; Parasutterella; Phascolarctobacterium; Roseburia; Ruminococcus; Streptococcus; Sutterella,Butyrate; Propionate
+DUOX2,True,False,Agathobacter,
+EGFR,False,True,Oscillibacter,Indoxyl sulfate; p-Cresol sulfate
+ENO1,True,False,Fusobacterium,
+ENO1-IT1,True,False,Fusobacterium,
+FABP2,True,False,Streptococcus,
+FFAR2,True,True,Agathobacter; Bacteroides; Blautia; Butyricimonas; Clostridium; Collinsella; Dialister; Dorea; Eubacterium; Faecalibacterium; Lachnospira; Parasutterella; Phascolarctobacterium; Roseburia; Ruminococcus; Streptococcus; Succinivibrio; Sutterella,Acetate; Butyrate; Propionate
+FFAR3,False,True,Agathobacter; Bacteroides; Blautia; Butyricimonas; Clostridium; Collinsella; Dialister; Dorea; Eubacterium; Faecalibacterium; Lachnospira; Parasutterella; Phascolarctobacterium; Roseburia; Ruminococcus; Streptococcus; Succinivibrio; Sutterella,Acetate; Butyrate; Propionate
+FOS,False,True,Agathobacter; Blautia; Butyricimonas; Clostridium; Dorea; Eubacterium; Faecalibacterium; Lachnospira; Phascolarctobacterium; Roseburia; Streptococcus,Butyrate
+FOXP3,True,True,Agathobacter; Bacteroides; Blautia; Clostridium; Collinsella; Dorea; Eubacterium; Faecalibacterium; Lachnospira; Roseburia; Ruminococcus; Streptococcus; Succinivibrio,Acetate
+GCK,False,True,Agathobacter; Blautia; Butyricimonas; Clostridium; Dorea; Eubacterium; Faecalibacterium; Lachnospira; Phascolarctobacterium; Roseburia; Streptococcus,Butyrate
+GHRL,False,True,Agathobacter; Bacteroides; Blautia; Butyricimonas; Clostridium; Collinsella; Dialister; Dorea; Eubacterium; Faecalibacterium; Lachnospira; Parasutterella; Phascolarctobacterium; Roseburia; Ruminococcus; Streptococcus; Succinivibrio; Sutterella,Acetate; Butyrate; Propionate
+GOT1,False,True,Bacteroides; Parabacteroides; Ruminococcus; Succinivibrio,Succinate
+GPT,False,True,Bacteroides; Parabacteroides; Ruminococcus; Succinivibrio,Succinate
+HBA1,False,True,Blautia; Clostridium; Collinsella; Holdemanella; Oscillibacter; Roseburia,Trimethylamine oxide
+HCAR2,True,True,Agathobacter; Blautia; Butyricimonas; Clostridium; Dorea; Eubacterium; Faecalibacterium; Lachnospira; Phascolarctobacterium; Roseburia; Streptococcus,Butyrate
+HDAC1,False,True,Agathobacter; Blautia; Butyricimonas; Clostridium; Dorea; Eubacterium; Faecalibacterium; Lachnospira; Phascolarctobacterium; Roseburia; Streptococcus,Butyrate
+HDAC11,False,True,Agathobacter; Blautia; Butyricimonas; Clostridium; Dorea; Eubacterium; Faecalibacterium; Lachnospira; Phascolarctobacterium; Roseburia; Streptococcus,Butyrate
+HDAC2,False,True,Agathobacter; Blautia; Butyricimonas; Clostridium; Dorea; Eubacterium; Faecalibacterium; Lachnospira; Phascolarctobacterium; Roseburia; Streptococcus,Butyrate
+HDAC3,True,True,Agathobacter; Blautia; Butyricimonas; Clostridium; Dorea; Eubacterium; Faecalibacterium; Lachnospira; Phascolarctobacterium; Roseburia; Streptococcus,Butyrate
+HDAC4,False,True,Agathobacter; Blautia; Butyricimonas; Clostridium; Dorea; Eubacterium; Faecalibacterium; Lachnospira; Phascolarctobacterium; Roseburia; Streptococcus,Butyrate
+HDAC5,False,True,Agathobacter; Blautia; Butyricimonas; Clostridium; Dorea; Eubacterium; Faecalibacterium; Lachnospira; Phascolarctobacterium; Roseburia; Streptococcus,Butyrate
+HDAC7,False,True,Agathobacter; Blautia; Butyricimonas; Clostridium; Dorea; Eubacterium; Faecalibacterium; Lachnospira; Phascolarctobacterium; Roseburia; Streptococcus,Butyrate
+HDAC8,False,True,Agathobacter; Blautia; Butyricimonas; Clostridium; Dorea; Eubacterium; Faecalibacterium; Lachnospira; Phascolarctobacterium; Roseburia; Streptococcus,Butyrate
+HDAC9,False,True,Agathobacter; Bacteroides; Blautia; Butyricimonas; Clostridium; Collinsella; Dorea; Eubacterium; Faecalibacterium; Lachnospira; Phascolarctobacterium; Roseburia; Ruminococcus; Streptococcus; Succinivibrio,Acetate; Butyrate
+HK2,True,False,Fusobacterium,
+ICAM1,False,True,Clostridium; Eubacterium; Flavonifractor,3-(4-Hydroxyphenyl)propionic acid; 4-Hydroxyphenylacetic acid
+IFNG,True,False,Bacteroides; Faecalibacterium; Streptococcus,
+IL10,True,True,Agathobacter; Bacteroides; Blautia; Butyricimonas; Clostridium; Dorea; Eubacterium; Faecalibacterium; Flavonifractor; Lachnospira; Phascolarctobacterium; Roseburia; Streptococcus,3-(4-Hydroxyphenyl)propionic acid; 4-Hydroxyphenylacetic acid; Butyrate
+IL12A,True,True,Agathobacter; Blautia; Butyricimonas; Clostridium; Collinsella; Dorea; Eubacterium; Faecalibacterium; Holdemanella; Lachnospira; Oscillibacter; Phascolarctobacterium; Roseburia; Streptococcus,Butyrate; Trimethylamine oxide
+IL12B,True,True,Agathobacter; Blautia; Butyricimonas; Clostridium; Dorea; Eubacterium; Faecalibacterium; Lachnospira; Phascolarctobacterium; Roseburia; Streptococcus,Butyrate
+IL17A,True,True,Bacteroides; Clostridium; Collinsella; Dialister; Eubacterium; Faecalibacterium; Parasutterella; Phascolarctobacterium; Roseburia; Ruminococcus; Sutterella,Propionate
+IL1A,True,False,Faecalibacterium,
+IL1B,True,True,Agathobacter; Bacteroides; Blautia; Butyricimonas; Clostridium; Collinsella; Coprococcus; Dorea; Eubacterium; Faecalibacterium; Holdemanella; Lachnospira; Oscillibacter; Parabacteroides; Phascolarctobacterium; Roseburia; Ruminococcus; Streptococcus; Succinivibrio; Turicibacter,3-Indolepropionic acid; Butyrate; Succinate; Trimethylamine oxide
+IL2,True,False,Faecalibacterium,
+IL22,False,True,Bacteroides; Clostridium; Dialister; Eubacterium; Parasutterella; Phascolarctobacterium; Roseburia; Ruminococcus; Sutterella,Propionate
+IL22RA1,False,True,Agathobacter; Blautia; Butyricimonas; Clostridium; Dorea; Eubacterium; Faecalibacterium; Lachnospira; Phascolarctobacterium; Roseburia; Streptococcus,Butyrate
+IL4,True,False,Bacteroides,
+IL4R,False,True,Agathobacter; Bacteroides; Blautia; Butyricimonas; Clostridium; Dialister; Dorea; Eubacterium; Faecalibacterium; Lachnospira; Parasutterella; Phascolarctobacterium; Roseburia; Ruminococcus; Streptococcus; Sutterella,Butyrate; Propionate
+IL5,True,False,Faecalibacterium,
+IL6,True,True,Agathobacter; Bacteroides; Blautia; Butyricimonas; Clostridium; Collinsella; Coprococcus; Dialister; Dorea; Eubacterium; Faecalibacterium; Holdemanella; Lachnospira; Oscillibacter; Parasutterella; Phascolarctobacterium; Roseburia; Ruminococcus; Streptococcus; Succinivibrio; Sutterella; Turicibacter,3-Indolepropionic acid; Acetate; Butyrate; Propionate; Trimethylamine oxide
+IRS1,False,True,Streptococcus,5-hydroxy-1H-imidazole-4-carboxamide
+JUN,False,True,Agathobacter; Bacteroides; Blautia; Butyricimonas; Clostridium; Dialister; Dorea; Eubacterium; Faecalibacterium; Lachnospira; Parasutterella; Phascolarctobacterium; Roseburia; Ruminococcus; Streptococcus; Sutterella,Butyrate; Propionate
+LCN2,False,True,Blautia; Clostridium; Collinsella; Holdemanella; Oscillibacter; Roseburia,Trimethylamine oxide
+LDHA,True,False,Fusobacterium,
+LGR5,False,True,Agathobacter; Bacteroides; Blautia; Butyricimonas; Clostridium; Collinsella; Dialister; Dorea; Eubacterium; Faecalibacterium; Lachnospira; Parasutterella; Phascolarctobacterium; Roseburia; Ruminococcus; Streptococcus; Succinivibrio; Sutterella,Acetate; Butyrate; Propionate
+LYZ,False,True,Agathobacter; Blautia; Butyricimonas; Clostridium; Dorea; Eubacterium; Faecalibacterium; Lachnospira; Phascolarctobacterium; Roseburia; Streptococcus,Butyrate
+MAPK1,False,True,Bacteroides; Parabacteroides; Ruminococcus; Succinivibrio,Succinate
+MAPK3,False,True,Bacteroides; Parabacteroides; Ruminococcus; Succinivibrio,Succinate
+MAPK8,False,True,Bacteroides,Genipin
+MGAT3,True,False,Mediterraneibacter,
+MUC1,True,False,Mediterraneibacter,
+MUC2,True,True,Agathobacter; Bacteroides; Blautia; Butyricimonas; Clostridium; Collinsella; Dorea; Eubacterium; Faecalibacterium; Lachnospira; Mediterraneibacter; Phascolarctobacterium; Roseburia; Ruminococcus; Streptococcus; Succinivibrio,Acetate; Butyrate
+MYD88,True,False,Parabacteroides,
+NBPF13P,True,False,Thomasclavelia,
+NFKB1,True,True,Clostridium; Coprococcus; Eubacterium; Faecalibacterium; Parabacteroides; Streptococcus,3-Indolepropionic acid
+NLRP3,False,True,Clostridium; Eubacterium; Flavonifractor,3-(4-Hydroxyphenyl)propionic acid; 4-Hydroxyphenylacetic acid
+NOS3,False,True,Agathobacter; Bacteroides; Blautia; Clostridium; Collinsella; Dorea; Eubacterium; Faecalibacterium; Lachnospira; Roseburia; Ruminococcus; Streptococcus; Succinivibrio,Acetate
+OCLN,False,True,Agathobacter; Bacteroides; Blautia; Butyricimonas; Clostridium; Collinsella; Dorea; Eubacterium; Faecalibacterium; Lachnospira; Phascolarctobacterium; Roseburia; Ruminococcus; Streptococcus; Succinivibrio,Acetate; Butyrate
+PPARG,True,True,Agathobacter; Blautia; Butyricimonas; Clostridium; Dorea; Eubacterium; Faecalibacterium; Lachnospira; Phascolarctobacterium; Roseburia; Streptococcus,Butyrate
+PTGER3,True,False,Ligilactobacillus,
+REG3B,False,True,Agathobacter; Blautia; Butyricimonas; Clostridium; Dorea; Eubacterium; Faecalibacterium; Lachnospira; Phascolarctobacterium; Roseburia; Streptococcus,Butyrate
+REG3G,False,True,Agathobacter; Blautia; Butyricimonas; Clostridium; Dorea; Eubacterium; Faecalibacterium; Lachnospira; Phascolarctobacterium; Roseburia; Streptococcus,Butyrate
+RHEB,False,True,Streptococcus,5-hydroxy-1H-imidazole-4-carboxamide
+RMRP,True,False,Thomasclavelia,
+RNR1,True,False,Thomasclavelia,
+RORA,True,False,Collinsella,
+SLC22A6,False,True,Oscillibacter,Indoxyl sulfate
+SLC5A8,False,True,Agathobacter; Bacteroides; Blautia; Butyricimonas; Clostridium; Dialister; Dorea; Eubacterium; Faecalibacterium; Lachnospira; Parasutterella; Phascolarctobacterium; Roseburia; Ruminococcus; Streptococcus; Sutterella,Butyrate; Propionate; Pyruvate
+SMN1,False,True,Blautia; Clostridium; Collinsella; Holdemanella; Oscillibacter; Roseburia,Trimethylamine oxide
+SMURF2,False,True,Blautia; Clostridium; Collinsella; Holdemanella; Oscillibacter; Roseburia,Trimethylamine oxide
+ST6GAL1,True,False,Mediterraneibacter,
+SULT2A1,False,True,Clostridium; Eubacterium; Lachnospira,Lithocholic acid
+TGFB1,True,False,Faecalibacterium,
+TGFBR1,False,True,Blautia; Clostridium; Collinsella; Holdemanella; Oscillibacter; Roseburia,Trimethylamine oxide
+TJP1,False,True,Agathobacter; Bacteroides; Blautia; Butyricimonas; Clostridium; Collinsella; Coprococcus; Dorea; Eubacterium; Faecalibacterium; Lachnospira; Phascolarctobacterium; Roseburia; Ruminococcus; Streptococcus; Succinivibrio,3-Indolepropionic acid; Acetate; Butyrate
+TLR2,True,True,Bacteroides; Clostridium; Dialister; Eubacterium; Faecalibacterium; Parasutterella; Phascolarctobacterium; Roseburia; Ruminococcus; Sutterella,Propionate
+TLR4,True,True,Agathobacter; Bacteroides; Blautia; Butyricimonas; Clostridium; Dorea; Eubacterium; Faecalibacterium; Lachnospira; Phascolarctobacterium; Roseburia; Streptococcus,Butyrate
+TLR5,True,False,Streptococcus,
+TLR6,True,False,Faecalibacterium,
+TLR8,False,True,Bacteroides; Clostridium; Dialister; Eubacterium; Parasutterella; Phascolarctobacterium; Roseburia; Ruminococcus; Sutterella,Propionate
+TLR9,False,True,Bacteroides; Clostridium; Dialister; Eubacterium; Parasutterella; Phascolarctobacterium; Roseburia; Ruminococcus; Sutterella,Propionate
+TNF,True,True,Agathobacter; Bacteroides; Blautia; Butyricimonas; Clostridium; Collinsella; Coprococcus; Dorea; Eubacterium; Faecalibacterium; Holdemanella; Lachnospira; Oscillibacter; Parabacteroides; Phascolarctobacterium; Roseburia; Ruminococcus; Streptococcus; Succinivibrio; Turicibacter,3-Indolepropionic acid; Acetate; Butyrate; Succinate; Trimethylamine oxide
+TPH1,False,True,Agathobacter; Bacteroides; Blautia; Clostridium; Collinsella; Dorea; Eubacterium; Faecalibacterium; Lachnospira; Roseburia; Ruminococcus; Streptococcus; Succinivibrio,Acetate
+VDR,False,True,Clostridium; Eubacterium; Lachnospira,Lithocholic acid
+VEGFA,False,True,Agathobacter; Bacteroides; Blautia; Clostridium; Collinsella; Dorea; Eubacterium; Faecalibacterium; Lachnospira; Roseburia; Ruminococcus; Streptococcus; Succinivibrio,Acetate

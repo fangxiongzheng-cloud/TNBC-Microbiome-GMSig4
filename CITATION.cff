@@ -1,0 +1,35 @@
+cff-version: "1.2.0"
+message: >-
+  If you use this code or the accompanying results, please cite this repository
+  and the associated manuscript prepared for submission to Computers in Biology
+  and Medicine.
+title: >-
+  A Multi-Scale Computational Framework Uniting Gut Microbiome Metagenomics,
+  Subtype-Stratified Mendelian Randomization, and Immunotherapy-Predictive
+  Modeling (GMSig-4) in Triple-Negative Breast Cancer
+type: software
+license: MIT
+authors:
+  - given-names: Fangxiong
+    family-names: Zheng
+  - given-names: Jinxi
+    family-names: Wang
+  - given-names: Jiayi
+    family-names: Li
+  - given-names: Tengfei
+    family-names: Ma
+  - given-names: Yuchen
+    family-names: Zhang
+  - given-names: Shuangzhe
+    family-names: Li
+  - given-names: Zhongxin
+    family-names: Lu
+    email: luzhongxin@zxhospital.com
+    affiliation: >-
+      Department of Medical Laboratory, The Central Hospital of Wuhan, Tongji
+      Medical College, Huazhong University of Science and Technology, Wuhan
+      430014, Hubei, China
+contact:
+  - given-names: Zhongxin
+    family-names: Lu
+    email: luzhongxin@zxhospital.com

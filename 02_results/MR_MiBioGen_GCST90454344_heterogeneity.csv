@@ -1,0 +1,423 @@
+id.exposure,id.outcome,outcome,exposure,method,Q,Q_df,Q_pval
+genus.Intestinimonas.id.2062,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Intestinimonas.id.2062,MR Egger,17.1438852553959,15,0.310335969893374
+genus.Intestinimonas.id.2062,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Intestinimonas.id.2062,Inverse variance weighted,18.7519354676603,16,0.281736659781637
+genus.Streptococcus.id.1853,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Streptococcus.id.1853,MR Egger,14.221674140539,13,0.358419949440617
+genus.Streptococcus.id.1853,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Streptococcus.id.1853,Inverse variance weighted,16.2685422634,14,0.297251303190911
+family.Streptococcaceae.id.1850,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Streptococcaceae.id.1850,MR Egger,14.3716149262693,12,0.277609680790998
+family.Streptococcaceae.id.1850,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Streptococcaceae.id.1850,Inverse variance weighted,16.1344762570645,13,0.241944422418733
+order.Victivallales.id.2254,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",order.Victivallales.id.2254,MR Egger,4.69559504137528,6,0.583404884273634
+order.Victivallales.id.2254,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",order.Victivallales.id.2254,Inverse variance weighted,7.28513700353471,7,0.399807492750371
+class.Lentisphaeria.id.2250,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",class.Lentisphaeria.id.2250,MR Egger,4.69559504137528,6,0.583404884273634
+class.Lentisphaeria.id.2250,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",class.Lentisphaeria.id.2250,Inverse variance weighted,7.28513700353471,7,0.399807492750371
+phylum.Lentisphaerae.id.2238,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",phylum.Lentisphaerae.id.2238,MR Egger,4.96208607518148,7,0.664590191485345
+phylum.Lentisphaerae.id.2238,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",phylum.Lentisphaerae.id.2238,Inverse variance weighted,7.58868121362503,8,0.474643376875703
+genus.Peptococcus.id.2037,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Peptococcus.id.2037,MR Egger,7.06743198608588,10,0.719063997177796
+genus.Peptococcus.id.2037,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Peptococcus.id.2037,Inverse variance weighted,7.11437172352879,11,0.789747227477203
+genus.Senegalimassilia.id.11160,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Senegalimassilia.id.11160,MR Egger,1.64085474134669,3,0.650162164927586
+genus.Senegalimassilia.id.11160,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Senegalimassilia.id.11160,Inverse variance weighted,1.66109797237805,4,0.797771493232036
+genus.Hungatella.id.11306,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Hungatella.id.11306,MR Egger,3.12113448213823,3,0.373323073287644
+genus.Hungatella.id.11306,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Hungatella.id.11306,Inverse variance weighted,3.58684096686708,4,0.464797403945854
+genus.Howardella.id.2000,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Howardella.id.2000,MR Egger,4.9678256976492,8,0.761009373671754
+genus.Howardella.id.2000,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Howardella.id.2000,Inverse variance weighted,5.18280042999784,9,0.818090741646728
+genus.unknowngenus.id.826,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.unknowngenus.id.826,MR Egger,13.4636826060544,12,0.336257580917891
+genus.unknowngenus.id.826,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.unknowngenus.id.826,Inverse variance weighted,14.9266197143776,13,0.3119561354495
+genus.Subdoligranulum.id.2070,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Subdoligranulum.id.2070,MR Egger,9.47825794545453,9,0.394347124733183
+genus.Subdoligranulum.id.2070,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Subdoligranulum.id.2070,Inverse variance weighted,9.79742856746977,10,0.458441867528686
+genus.Coprococcus2.id.11302,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Coprococcus2.id.11302,MR Egger,13.2841577978573,6,0.0387389861821981
+genus.Coprococcus2.id.11302,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Coprococcus2.id.11302,Inverse variance weighted,14.490637309679,7,0.0431121061711171
+order.MollicutesRF9.id.11579,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",order.MollicutesRF9.id.11579,MR Egger,7.74171241736785,11,0.736237021467974
+order.MollicutesRF9.id.11579,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",order.MollicutesRF9.id.11579,Inverse variance weighted,8.13701801166776,12,0.77433328544458
+genus.unknowngenus.id.1000005472,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.unknowngenus.id.1000005472,MR Egger,7.74171241736785,11,0.736237021467974
+genus.unknowngenus.id.1000005472,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.unknowngenus.id.1000005472,Inverse variance weighted,8.13701801166776,12,0.77433328544458
+family.unknownfamily.id.1000005471,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.unknownfamily.id.1000005471,MR Egger,7.74171241736785,11,0.736237021467974
+family.unknownfamily.id.1000005471,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.unknownfamily.id.1000005471,Inverse variance weighted,8.13701801166776,12,0.77433328544458
+genus..Clostridiuminnocuumgroup.id.14397,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus..Clostridiuminnocuumgroup.id.14397,MR Egger,11.0146841988104,7,0.137979784518879
+genus..Clostridiuminnocuumgroup.id.14397,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus..Clostridiuminnocuumgroup.id.14397,Inverse variance weighted,11.0667544466561,8,0.197945415790643
+genus.Butyrivibrio.id.1993,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Butyrivibrio.id.1993,MR Egger,7.58623123022501,13,0.869473558058278
+genus.Butyrivibrio.id.1993,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Butyrivibrio.id.1993,Inverse variance weighted,7.88181423123011,14,0.895391845600959
+genus.Butyricicoccus.id.2055,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Butyricicoccus.id.2055,MR Egger,2.54364805620636,6,0.863551126674675
+genus.Butyricicoccus.id.2055,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Butyricicoccus.id.2055,Inverse variance weighted,2.71221785879008,7,0.910287952838118
+genus.CandidatusSoleaferrea.id.11350,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.CandidatusSoleaferrea.id.11350,MR Egger,11.3685509490742,8,0.181678079773653
+genus.CandidatusSoleaferrea.id.11350,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.CandidatusSoleaferrea.id.11350,Inverse variance weighted,11.4024490951562,9,0.249128185512692
+family.Ruminococcaceae.id.2050,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Ruminococcaceae.id.2050,MR Egger,6.63143833673506,8,0.576868168019392
+family.Ruminococcaceae.id.2050,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Ruminococcaceae.id.2050,Inverse variance weighted,7.2977243663653,9,0.606152416426638
+genus.LachnospiraceaeFCS020group.id.11314,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.LachnospiraceaeFCS020group.id.11314,MR Egger,9.90491179697649,10,0.448875004031892
+genus.LachnospiraceaeFCS020group.id.11314,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.LachnospiraceaeFCS020group.id.11314,Inverse variance weighted,9.90585549789664,11,0.538874935282098
+genus.Odoribacter.id.952,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Odoribacter.id.952,MR Egger,1.86357088486472,5,0.867682174322925
+genus.Odoribacter.id.952,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Odoribacter.id.952,Inverse variance weighted,2.07500472167141,6,0.912672711816449
+genus.Enterorhabdus.id.820,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Enterorhabdus.id.820,MR Egger,3.10749215410734,4,0.54000075241891
+genus.Enterorhabdus.id.820,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Enterorhabdus.id.820,Inverse variance weighted,3.78381214306474,5,0.580942344870237
+genus.Coprococcus1.id.11301,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Coprococcus1.id.11301,MR Egger,9.0701119213735,9,0.430827593126745
+genus.Coprococcus1.id.11301,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Coprococcus1.id.11301,Inverse variance weighted,9.20936256279443,10,0.512356399344579
+phylum.Tenericutes.id.3919,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",phylum.Tenericutes.id.3919,MR Egger,3.43130267249967,10,0.969379612904483
+phylum.Tenericutes.id.3919,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",phylum.Tenericutes.id.3919,Inverse variance weighted,3.47417321072901,11,0.982861633673746
+class.Mollicutes.id.3920,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",class.Mollicutes.id.3920,MR Egger,3.43130267249967,10,0.969379612904483
+class.Mollicutes.id.3920,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",class.Mollicutes.id.3920,Inverse variance weighted,3.47417321072901,11,0.982861633673746
+family.Porphyromonadaceae.id.943,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Porphyromonadaceae.id.943,MR Egger,11.2479173901568,7,0.12816462197055
+family.Porphyromonadaceae.id.943,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Porphyromonadaceae.id.943,Inverse variance weighted,11.2505441689449,8,0.187903122644928
+genus.unknowngenus.id.2001,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.unknowngenus.id.2001,MR Egger,4.76205902008339,8,0.78267850058582
+genus.unknowngenus.id.2001,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.unknowngenus.id.2001,Inverse variance weighted,5.4813220166053,9,0.790495892344197
+genus..Eubacteriumruminantiumgroup.id.11340,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus..Eubacteriumruminantiumgroup.id.11340,MR Egger,10.5005135004061,16,0.839217429222326
+genus..Eubacteriumruminantiumgroup.id.11340,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus..Eubacteriumruminantiumgroup.id.11340,Inverse variance weighted,15.2029861970324,17,0.580863425594452
+family.Prevotellaceae.id.960,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Prevotellaceae.id.960,MR Egger,43.1297503854454,14,8.1671964613381e-05
+family.Prevotellaceae.id.960,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Prevotellaceae.id.960,Inverse variance weighted,44.1770763882361,15,0.000103159760865517
+genus.Dialister.id.2183,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Dialister.id.2183,MR Egger,4.85069437723443,9,0.847124482922315
+genus.Dialister.id.2183,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Dialister.id.2183,Inverse variance weighted,5.70385351251336,10,0.839500266521133
+genus..Eubacteriumxylanophilumgroup.id.14375,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus..Eubacteriumxylanophilumgroup.id.14375,MR Egger,6.93560785252635,7,0.435615046022715
+genus..Eubacteriumxylanophilumgroup.id.14375,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus..Eubacteriumxylanophilumgroup.id.14375,Inverse variance weighted,7.80582106987821,8,0.452664494789208
+genus..Eubacteriumfissicatenagroup.id.14373,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus..Eubacteriumfissicatenagroup.id.14373,MR Egger,9.07690046137815,7,0.247181978149547
+genus..Eubacteriumfissicatenagroup.id.14373,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus..Eubacteriumfissicatenagroup.id.14373,Inverse variance weighted,9.10275541985039,8,0.333701976500452
+class.Melainabacteria.id.1589,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",class.Melainabacteria.id.1589,MR Egger,8.09354210344818,8,0.424386438296817
+class.Melainabacteria.id.1589,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",class.Melainabacteria.id.1589,Inverse variance weighted,9.33113715509343,9,0.407285761183172
+genus.Anaerotruncus.id.2054,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Anaerotruncus.id.2054,MR Egger,8.90505714500587,11,0.630655682777793
+genus.Anaerotruncus.id.2054,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Anaerotruncus.id.2054,Inverse variance weighted,8.90552313925532,12,0.710978145074326
+genus.ErysipelotrichaceaeUCG003.id.11384,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.ErysipelotrichaceaeUCG003.id.11384,MR Egger,15.4155195671364,14,0.350353011638559
+genus.ErysipelotrichaceaeUCG003.id.11384,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.ErysipelotrichaceaeUCG003.id.11384,Inverse variance weighted,19.1276145227307,15,0.208009166376259
+genus.Ruminococcus1.id.11373,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Ruminococcus1.id.11373,MR Egger,8.66478281350976,8,0.371358564313589
+genus.Ruminococcus1.id.11373,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Ruminococcus1.id.11373,Inverse variance weighted,8.72702286150912,9,0.462844448854049
+genus.unknowngenus.id.2071,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.unknowngenus.id.2071,MR Egger,14.4664404734888,14,0.415570083583757
+genus.unknowngenus.id.2071,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.unknowngenus.id.2071,Inverse variance weighted,15.6312028549765,15,0.406976262796369
+class.Methanobacteria.id.119,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",class.Methanobacteria.id.119,MR Egger,6.28025501753556,8,0.615870905730304
+class.Methanobacteria.id.119,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",class.Methanobacteria.id.119,Inverse variance weighted,8.65663065533637,9,0.469554480289436
+family.Methanobacteriaceae.id.121,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Methanobacteriaceae.id.121,MR Egger,6.28025501753556,8,0.615870905730304
+family.Methanobacteriaceae.id.121,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Methanobacteriaceae.id.121,Inverse variance weighted,8.65663065533637,9,0.469554480289436
+order.Methanobacteriales.id.120,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",order.Methanobacteriales.id.120,MR Egger,6.28025501753556,8,0.615870905730304
+order.Methanobacteriales.id.120,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",order.Methanobacteriales.id.120,Inverse variance weighted,8.65663065533637,9,0.469554480289436
+genus.Methanobrevibacter.id.123,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Methanobrevibacter.id.123,MR Egger,5.00507164970145,4,0.286777508003581
+genus.Methanobrevibacter.id.123,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Methanobrevibacter.id.123,Inverse variance weighted,6.01157912451826,5,0.305093849514184
+phylum.Euryarchaeota.id.55,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",phylum.Euryarchaeota.id.55,MR Egger,6.76801211360017,10,0.747149481092624
+phylum.Euryarchaeota.id.55,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",phylum.Euryarchaeota.id.55,Inverse variance weighted,7.29846023709832,11,0.774424187436475
+genus..Eubacteriumcoprostanoligenesgroup.id.11375,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus..Eubacteriumcoprostanoligenesgroup.id.11375,MR Egger,8.9530935118086,11,0.626222137250498
+genus..Eubacteriumcoprostanoligenesgroup.id.11375,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus..Eubacteriumcoprostanoligenesgroup.id.11375,Inverse variance weighted,11.0040190700986,12,0.528574282341704
+order.Clostridiales.id.1863,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",order.Clostridiales.id.1863,MR Egger,10.555525011302,11,0.481214759844316
+order.Clostridiales.id.1863,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",order.Clostridiales.id.1863,Inverse variance weighted,10.7007024389279,12,0.554727661237845
+class.Clostridia.id.1859,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",class.Clostridia.id.1859,MR Egger,9.53257876685038,10,0.482412125170366
+class.Clostridia.id.1859,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",class.Clostridia.id.1859,Inverse variance weighted,9.53513915435403,11,0.572621064785797
+family.Rikenellaceae.id.967,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Rikenellaceae.id.967,MR Egger,11.8892729183195,17,0.8067952974647
+family.Rikenellaceae.id.967,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Rikenellaceae.id.967,Inverse variance weighted,11.9873769316852,18,0.847888522663472
+genus.unknowngenus.id.1868,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.unknowngenus.id.1868,MR Egger,21.7963059372907,10,0.0161765960809393
+genus.unknowngenus.id.1868,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.unknowngenus.id.1868,Inverse variance weighted,21.9633741551227,11,0.0246585292446805
+order.Bacillales.id.1674,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",order.Bacillales.id.1674,MR Egger,3.94493284707281,7,0.786097801991186
+order.Bacillales.id.1674,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",order.Bacillales.id.1674,Inverse variance weighted,4.25407484991747,8,0.833503166320664
+genus..Eubacteriumrectalegroup.id.14374,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus..Eubacteriumrectalegroup.id.14374,MR Egger,7.31139357499007,6,0.29300712087731
+genus..Eubacteriumrectalegroup.id.14374,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus..Eubacteriumrectalegroup.id.14374,Inverse variance weighted,7.33383072261248,7,0.39496829531509
+genus..Eubacteriumnodatumgroup.id.11297,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus..Eubacteriumnodatumgroup.id.11297,MR Egger,6.04521374138457,9,0.735384712710205
+genus..Eubacteriumnodatumgroup.id.11297,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus..Eubacteriumnodatumgroup.id.11297,Inverse variance weighted,6.07941409152883,10,0.808547647658085
+genus.RuminococcaceaeUCG011.id.11368,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.RuminococcaceaeUCG011.id.11368,MR Egger,7.33490324241333,6,0.290982606600758
+genus.RuminococcaceaeUCG011.id.11368,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.RuminococcaceaeUCG011.id.11368,Inverse variance weighted,7.51778749429159,7,0.377025560048205
+genus.Romboutsia.id.11347,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Romboutsia.id.11347,MR Egger,5.52476731164975,11,0.903120457231329
+genus.Romboutsia.id.11347,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Romboutsia.id.11347,Inverse variance weighted,5.79756720403866,12,0.925940549181505
+genus.Lachnoclostridium.id.11308,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Lachnoclostridium.id.11308,MR Egger,9.42184806748103,11,0.583014538616659
+genus.Lachnoclostridium.id.11308,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Lachnoclostridium.id.11308,Inverse variance weighted,10.3296885256323,12,0.587061621220119
+genus.unknowngenus.id.2041,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.unknowngenus.id.2041,MR Egger,21.4902928272342,10,0.0179225942499872
+genus.unknowngenus.id.2041,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.unknowngenus.id.2041,Inverse variance weighted,23.8207502725218,11,0.0135104438686171
+order.Rhodospirillales.id.2667,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",order.Rhodospirillales.id.2667,MR Egger,10.3005360331659,12,0.589613061333229
+order.Rhodospirillales.id.2667,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",order.Rhodospirillales.id.2667,Inverse variance weighted,12.009891894352,13,0.52683288469972
+genus.unknowngenus.id.2755,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.unknowngenus.id.2755,MR Egger,9.70922698796033,11,0.556716515719839
+genus.unknowngenus.id.2755,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.unknowngenus.id.2755,Inverse variance weighted,10.2818249017872,12,0.591251246752636
+family.Rhodospirillaceae.id.2717,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Rhodospirillaceae.id.2717,MR Egger,12.5133755430726,13,0.486061900878669
+family.Rhodospirillaceae.id.2717,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Rhodospirillaceae.id.2717,Inverse variance weighted,12.8064954216015,14,0.541813878623752
+genus.Olsenella.id.822,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Olsenella.id.822,MR Egger,2.10450962209816,9,0.989704948910266
+genus.Olsenella.id.822,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Olsenella.id.822,Inverse variance weighted,2.21175457597806,10,0.994444432128983
+class.Deltaproteobacteria.id.3087,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",class.Deltaproteobacteria.id.3087,MR Egger,6.65043813026118,11,0.826644316810999
+class.Deltaproteobacteria.id.3087,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",class.Deltaproteobacteria.id.3087,Inverse variance weighted,9.64713325265324,12,0.646886283903163
+family.Lachnospiraceae.id.1987,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Lachnospiraceae.id.1987,MR Egger,13.753557618933,15,0.54429608040976
+family.Lachnospiraceae.id.1987,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Lachnospiraceae.id.1987,Inverse variance weighted,15.4227674911682,16,0.493919361175028
+family.FamilyXIII.id.1957,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.FamilyXIII.id.1957,MR Egger,6.5959712736566,9,0.679102744836328
+family.FamilyXIII.id.1957,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.FamilyXIII.id.1957,Inverse variance weighted,9.15903701700696,10,0.517079932156779
+genus.Slackia.id.825,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Slackia.id.825,MR Egger,2.57353983335138,4,0.631517508978943
+genus.Slackia.id.825,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Slackia.id.825,Inverse variance weighted,4.01068233449164,5,0.547878981633518
+genus.LachnospiraceaeUCG010.id.11330,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.LachnospiraceaeUCG010.id.11330,MR Egger,16.0326536708733,8,0.0419151151273905
+genus.LachnospiraceaeUCG010.id.11330,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.LachnospiraceaeUCG010.id.11330,Inverse variance weighted,19.3954120583859,9,0.0220329970070848
+genus.Lactococcus.id.1851,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Lactococcus.id.1851,MR Egger,8.1327505869033,7,0.321033859740405
+genus.Lactococcus.id.1851,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Lactococcus.id.1851,Inverse variance weighted,8.23660859628466,8,0.410705573622381
+genus.Fusicatenibacter.id.11305,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Fusicatenibacter.id.11305,MR Egger,18.750108148352,16,0.281834515421934
+genus.Fusicatenibacter.id.11305,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Fusicatenibacter.id.11305,Inverse variance weighted,19.1177329204763,17,0.321816418046644
+genus.ChristensenellaceaeR.7group.id.11283,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.ChristensenellaceaeR.7group.id.11283,MR Egger,2.63256070803054,8,0.955262608374012
+genus.ChristensenellaceaeR.7group.id.11283,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.ChristensenellaceaeR.7group.id.11283,Inverse variance weighted,2.64285825469615,9,0.976791481497924
+genus.Adlercreutzia.id.812,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Adlercreutzia.id.812,MR Egger,8.26729173875134,6,0.21916759140166
+genus.Adlercreutzia.id.812,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Adlercreutzia.id.812,Inverse variance weighted,14.7650776829627,7,0.039131480130794
+genus.Oxalobacter.id.2978,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Oxalobacter.id.2978,MR Egger,7.5156138117503,9,0.583597286442945
+genus.Oxalobacter.id.2978,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Oxalobacter.id.2978,Inverse variance weighted,8.07295726550308,10,0.621710614222793
+genus.RuminococcaceaeUCG003.id.11361,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.RuminococcaceaeUCG003.id.11361,MR Egger,14.4681378520877,10,0.152689000844077
+genus.RuminococcaceaeUCG003.id.11361,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.RuminococcaceaeUCG003.id.11361,Inverse variance weighted,16.1374795836912,11,0.136103257072364
+genus.RuminococcaceaeUCG014.id.11371,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.RuminococcaceaeUCG014.id.11371,MR Egger,1.30862670368006,9,0.998333179246011
+genus.RuminococcaceaeUCG014.id.11371,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.RuminococcaceaeUCG014.id.11371,Inverse variance weighted,5.57277176547964,10,0.849790094124038
+order.Bifidobacteriales.id.432,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",order.Bifidobacteriales.id.432,MR Egger,13.4251556276133,10,0.200862388152199
+order.Bifidobacteriales.id.432,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",order.Bifidobacteriales.id.432,Inverse variance weighted,16.1780282822505,11,0.134649275533916
+family.Bifidobacteriaceae.id.433,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Bifidobacteriaceae.id.433,MR Egger,13.4251556276133,10,0.200862388152199
+family.Bifidobacteriaceae.id.433,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Bifidobacteriaceae.id.433,Inverse variance weighted,16.1780282822505,11,0.134649275533916
+genus..Eubacteriumhalliigroup.id.11338,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus..Eubacteriumhalliigroup.id.11338,MR Egger,12.5537335511883,14,0.561923965938508
+genus..Eubacteriumhalliigroup.id.11338,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus..Eubacteriumhalliigroup.id.11338,Inverse variance weighted,12.8431007919639,15,0.614415401697893
+genus.Anaerostipes.id.1991,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Anaerostipes.id.1991,MR Egger,7.65818164971438,11,0.743556642777941
+genus.Anaerostipes.id.1991,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Anaerostipes.id.1991,Inverse variance weighted,7.87430331273737,12,0.794874393381448
+genus.Prevotella9.id.11183,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Prevotella9.id.11183,MR Egger,14.1220879894611,12,0.29298002101875
+genus.Prevotella9.id.11183,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Prevotella9.id.11183,Inverse variance weighted,14.3099718344149,13,0.352382111706843
+family.ClostridialesvadinBB60group.id.11286,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.ClostridialesvadinBB60group.id.11286,MR Egger,14.2578299283504,13,0.355940224292131
+family.ClostridialesvadinBB60group.id.11286,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.ClostridialesvadinBB60group.id.11286,Inverse variance weighted,15.7125393847921,14,0.331242577530834
+genus.unknowngenus.id.1000000073,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.unknowngenus.id.1000000073,MR Egger,14.2578299283504,13,0.355940224292131
+genus.unknowngenus.id.1000000073,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.unknowngenus.id.1000000073,Inverse variance weighted,15.7125393847921,14,0.331242577530834
+genus.LachnospiraceaeUCG008.id.11328,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.LachnospiraceaeUCG008.id.11328,MR Egger,8.77428016268691,9,0.458365771590395
+genus.LachnospiraceaeUCG008.id.11328,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.LachnospiraceaeUCG008.id.11328,Inverse variance weighted,9.24098966417783,10,0.509395834875246
+order.Erysipelotrichales.id.2148,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",order.Erysipelotrichales.id.2148,MR Egger,17.3919890078956,11,0.0968035426429763
+order.Erysipelotrichales.id.2148,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",order.Erysipelotrichales.id.2148,Inverse variance weighted,17.3933947291877,12,0.135388673219231
+class.Erysipelotrichia.id.2147,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",class.Erysipelotrichia.id.2147,MR Egger,17.3919890078956,11,0.0968035426429763
+class.Erysipelotrichia.id.2147,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",class.Erysipelotrichia.id.2147,Inverse variance weighted,17.3933947291877,12,0.135388673219231
+family.Erysipelotrichaceae.id.2149,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Erysipelotrichaceae.id.2149,MR Egger,17.3919890078956,11,0.0968035426429763
+family.Erysipelotrichaceae.id.2149,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Erysipelotrichaceae.id.2149,Inverse variance weighted,17.3933947291877,12,0.135388673219231
+phylum.Proteobacteria.id.2375,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",phylum.Proteobacteria.id.2375,MR Egger,3.77045527597438,10,0.957108565286361
+phylum.Proteobacteria.id.2375,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",phylum.Proteobacteria.id.2375,Inverse variance weighted,4.09362449142062,11,0.967097744038829
+family.FamilyXI.id.1936,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.FamilyXI.id.1936,MR Egger,3.77949347561298,6,0.706487666867249
+family.FamilyXI.id.1936,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.FamilyXI.id.1936,Inverse variance weighted,4.19334616378563,7,0.75725790367887
+genus.Haemophilus.id.3698,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Haemophilus.id.3698,MR Egger,2.33213168489728,7,0.939198723020368
+genus.Haemophilus.id.3698,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Haemophilus.id.3698,Inverse variance weighted,4.87720225665296,8,0.770616715463997
+genus.Actinomyces.id.423,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Actinomyces.id.423,MR Egger,6.28345477307189,5,0.279606368550005
+genus.Actinomyces.id.423,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Actinomyces.id.423,Inverse variance weighted,9.8136527072378,6,0.13272205107526
+genus.Anaerofilum.id.2053,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Anaerofilum.id.2053,MR Egger,12.4307305647717,9,0.190101162620894
+genus.Anaerofilum.id.2053,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Anaerofilum.id.2053,Inverse variance weighted,12.4346245802011,10,0.25702087253716
+class.Alphaproteobacteria.id.2379,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",class.Alphaproteobacteria.id.2379,MR Egger,7.18986531170549,5,0.206898411125035
+class.Alphaproteobacteria.id.2379,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",class.Alphaproteobacteria.id.2379,Inverse variance weighted,7.28459369878289,6,0.295328150903641
+genus.Intestinibacter.id.11345,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Intestinibacter.id.11345,MR Egger,14.3032361157872,13,0.352840550090595
+genus.Intestinibacter.id.11345,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Intestinibacter.id.11345,Inverse variance weighted,17.1487411042215,14,0.248338062795923
+family.Peptostreptococcaceae.id.2042,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Peptostreptococcaceae.id.2042,MR Egger,46.6907991381454,12,5.27278118926959e-06
+family.Peptostreptococcaceae.id.2042,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Peptostreptococcaceae.id.2042,Inverse variance weighted,68.6740541812604,13,1.40686242471407e-09
+genus.Coprococcus3.id.11303,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Coprococcus3.id.11303,MR Egger,2.6533238671293,7,0.915116120732092
+genus.Coprococcus3.id.11303,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Coprococcus3.id.11303,Inverse variance weighted,3.29190167880763,8,0.914726806850631
+genus.LachnospiraceaeUCG001.id.11321,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.LachnospiraceaeUCG001.id.11321,MR Egger,20.6105313859579,11,0.0376379963566559
+genus.LachnospiraceaeUCG001.id.11321,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.LachnospiraceaeUCG001.id.11321,Inverse variance weighted,20.6283740143273,12,0.0560944297894542
+genus.Ruminiclostridium5.id.11355,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Ruminiclostridium5.id.11355,MR Egger,3.8994618828746,9,0.917904113614557
+genus.Ruminiclostridium5.id.11355,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Ruminiclostridium5.id.11355,Inverse variance weighted,4.07985226533403,10,0.943672803373956
+genus.Ruminiclostridium6.id.11356,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Ruminiclostridium6.id.11356,MR Egger,17.3807628859604,14,0.236454186276121
+genus.Ruminiclostridium6.id.11356,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Ruminiclostridium6.id.11356,Inverse variance weighted,17.5553922746751,15,0.286760352028128
+order.Pasteurellales.id.3688,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",order.Pasteurellales.id.3688,MR Egger,7.88942412555472,12,0.793710714089408
+order.Pasteurellales.id.3688,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",order.Pasteurellales.id.3688,Inverse variance weighted,8.15707077225492,13,0.833218879930887
+family.Pasteurellaceae.id.3689,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Pasteurellaceae.id.3689,MR Egger,7.88942412555472,12,0.793710714089408
+family.Pasteurellaceae.id.3689,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Pasteurellaceae.id.3689,Inverse variance weighted,8.15707077225492,13,0.833218879930887
+class.Actinobacteria.id.419,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",class.Actinobacteria.id.419,MR Egger,18.3190852105539,13,0.145775476779579
+class.Actinobacteria.id.419,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",class.Actinobacteria.id.419,Inverse variance weighted,18.5385921423195,14,0.183339560757444
+phylum.Actinobacteria.id.400,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",phylum.Actinobacteria.id.400,MR Egger,8.84392430307286,13,0.784626393670528
+phylum.Actinobacteria.id.400,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",phylum.Actinobacteria.id.400,Inverse variance weighted,11.6201470356241,14,0.63677833824659
+genus.Bifidobacterium.id.436,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Bifidobacterium.id.436,MR Egger,14.6071668017166,10,0.147053648101859
+genus.Bifidobacterium.id.436,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Bifidobacterium.id.436,Inverse variance weighted,15.8566356741571,11,0.146537236845563
+genus.Paraprevotella.id.962,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Paraprevotella.id.962,MR Egger,14.8682737982841,11,0.188607200121994
+genus.Paraprevotella.id.962,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Paraprevotella.id.962,Inverse variance weighted,15.2585983357553,12,0.227598196177458
+genus.unknowngenus.id.1000005479,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.unknowngenus.id.1000005479,MR Egger,5.91563237444891,6,0.432707143516957
+genus.unknowngenus.id.1000005479,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.unknowngenus.id.1000005479,Inverse variance weighted,7.68042761626423,7,0.361614908119043
+family.BacteroidalesS24.7group.id.11173,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.BacteroidalesS24.7group.id.11173,MR Egger,5.91563237444891,6,0.432707143516957
+family.BacteroidalesS24.7group.id.11173,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.BacteroidalesS24.7group.id.11173,Inverse variance weighted,7.68042761626423,7,0.361614908119043
+genus.RuminococcaceaeUCG005.id.11363,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.RuminococcaceaeUCG005.id.11363,MR Egger,5.080148827543,12,0.955248175558117
+genus.RuminococcaceaeUCG005.id.11363,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.RuminococcaceaeUCG005.id.11363,Inverse variance weighted,5.60112251160481,13,0.959474117108745
+family.Clostridiaceae1.id.1869,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Clostridiaceae1.id.1869,MR Egger,3.8219998908278,8,0.872815452232262
+family.Clostridiaceae1.id.1869,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Clostridiaceae1.id.1869,Inverse variance weighted,3.83169434093456,9,0.922136522919388
+genus.Holdemania.id.2157,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Holdemania.id.2157,MR Egger,15.035130607304,13,0.305164783179947
+genus.Holdemania.id.2157,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Holdemania.id.2157,Inverse variance weighted,15.1618175549963,14,0.367183271367444
+genus.Collinsella.id.815,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Collinsella.id.815,MR Egger,7.60822422379186,7,0.36840348751436
+genus.Collinsella.id.815,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Collinsella.id.815,Inverse variance weighted,9.39874860379398,8,0.309782059643355
+genus.unknowngenus.id.959,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.unknowngenus.id.959,MR Egger,8.53401069130346,10,0.576822546189143
+genus.unknowngenus.id.959,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.unknowngenus.id.959,Inverse variance weighted,8.97247246223851,11,0.624433354918567
+genus.Tyzzerella3.id.11335,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Tyzzerella3.id.11335,MR Egger,6.83290843250221,11,0.812448950453929
+genus.Tyzzerella3.id.11335,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Tyzzerella3.id.11335,Inverse variance weighted,7.40124029593013,12,0.829999685548798
+genus.Parasutterella.id.2892,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Parasutterella.id.2892,MR Egger,14.4832267907871,13,0.340713690168469
+genus.Parasutterella.id.2892,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Parasutterella.id.2892,Inverse variance weighted,14.6760520684106,14,0.400651389035505
+genus..Ruminococcustorquesgroup.id.14377,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus..Ruminococcustorquesgroup.id.14377,MR Egger,6.87344278309185,7,0.442174970447342
+genus..Ruminococcustorquesgroup.id.14377,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus..Ruminococcustorquesgroup.id.14377,Inverse variance weighted,6.87344534974197,8,0.550346629608205
+genus.RuminococcaceaeUCG002.id.11360,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.RuminococcaceaeUCG002.id.11360,MR Egger,28.7936279439979,20,0.0919031086998767
+genus.RuminococcaceaeUCG002.id.11360,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.RuminococcaceaeUCG002.id.11360,Inverse variance weighted,30.1838447972476,21,0.0883554657515723
+genus.Faecalibacterium.id.2057,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Faecalibacterium.id.2057,MR Egger,11.6160696309115,8,0.169173375619901
+genus.Faecalibacterium.id.2057,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Faecalibacterium.id.2057,Inverse variance weighted,12.8699759948829,9,0.168578514642313
+genus..Ruminococcusgauvreauiigroup.id.11342,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus..Ruminococcusgauvreauiigroup.id.11342,MR Egger,5.23775059023138,10,0.874740592638267
+genus..Ruminococcusgauvreauiigroup.id.11342,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus..Ruminococcusgauvreauiigroup.id.11342,Inverse variance weighted,5.63633716502486,11,0.896494334223267
+genus.LachnospiraceaeNK4A136group.id.11319,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.LachnospiraceaeNK4A136group.id.11319,MR Egger,13.9439968248641,13,0.377799812560892
+genus.LachnospiraceaeNK4A136group.id.11319,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.LachnospiraceaeNK4A136group.id.11319,Inverse variance weighted,13.9852232667803,14,0.450812522969939
+genus.RuminococcaceaeUCG004.id.11362,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.RuminococcaceaeUCG004.id.11362,MR Egger,11.1565183907016,9,0.265132839785166
+genus.RuminococcaceaeUCG004.id.11362,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.RuminococcaceaeUCG004.id.11362,Inverse variance weighted,11.8951491890448,10,0.292135087281969
+family.Enterobacteriaceae.id.3469,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Enterobacteriaceae.id.3469,MR Egger,3.55118518229209,5,0.61565720773542
+family.Enterobacteriaceae.id.3469,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Enterobacteriaceae.id.3469,Inverse variance weighted,3.78774055203511,6,0.705374930686458
+order.Enterobacteriales.id.3468,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",order.Enterobacteriales.id.3468,MR Egger,3.55118518229209,5,0.61565720773542
+order.Enterobacteriales.id.3468,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",order.Enterobacteriales.id.3468,Inverse variance weighted,3.78774055203511,6,0.705374930686458
+genus.Eisenbergiella.id.11304,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Eisenbergiella.id.11304,MR Egger,7.00917168058382,9,0.636164454808086
+genus.Eisenbergiella.id.11304,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Eisenbergiella.id.11304,Inverse variance weighted,7.59369102668526,10,0.668456651463152
+genus.Turicibacter.id.2162,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Turicibacter.id.2162,MR Egger,5.26671490468386,8,0.728725935518375
+genus.Turicibacter.id.2162,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Turicibacter.id.2162,Inverse variance weighted,5.3203003521476,9,0.805540965339858
+genus.Bilophila.id.3170,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Bilophila.id.3170,MR Egger,9.35492204060175,11,0.589167246641442
+genus.Bilophila.id.3170,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Bilophila.id.3170,Inverse variance weighted,9.54863687071462,12,0.655491723688174
+genus.Alistipes.id.968,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Alistipes.id.968,MR Egger,19.3598193318783,12,0.080207096083041
+genus.Alistipes.id.968,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Alistipes.id.968,Inverse variance weighted,19.3895066075012,13,0.111513200080018
+order.Coriobacteriales.id.810,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",order.Coriobacteriales.id.810,MR Egger,8.43043149232393,12,0.750654338648814
+order.Coriobacteriales.id.810,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",order.Coriobacteriales.id.810,Inverse variance weighted,8.44108809907235,13,0.813725153230716
+class.Coriobacteriia.id.809,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",class.Coriobacteriia.id.809,MR Egger,8.43043149232393,12,0.750654338648814
+class.Coriobacteriia.id.809,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",class.Coriobacteriia.id.809,Inverse variance weighted,8.44108809907235,13,0.813725153230716
+family.Coriobacteriaceae.id.811,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Coriobacteriaceae.id.811,MR Egger,8.43043149232393,12,0.750654338648814
+family.Coriobacteriaceae.id.811,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Coriobacteriaceae.id.811,Inverse variance weighted,8.44108809907235,13,0.813725153230716
+order.Lactobacillales.id.1800,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",order.Lactobacillales.id.1800,MR Egger,10.9142829403453,13,0.617998351567822
+order.Lactobacillales.id.1800,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",order.Lactobacillales.id.1800,Inverse variance weighted,11.3847546859147,14,0.655581103698617
+class.Bacilli.id.1673,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",class.Bacilli.id.1673,MR Egger,23.0908322260192,16,0.111327835024725
+class.Bacilli.id.1673,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",class.Bacilli.id.1673,Inverse variance weighted,23.1123168475542,17,0.145629754035929
+genus.FamilyXIIIAD3011group.id.11293,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.FamilyXIIIAD3011group.id.11293,MR Egger,18.0078016021091,11,0.08139976537496
+genus.FamilyXIIIAD3011group.id.11293,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.FamilyXIIIAD3011group.id.11293,Inverse variance weighted,18.552454819053,12,0.0999167215562366
+class.Betaproteobacteria.id.2867,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",class.Betaproteobacteria.id.2867,MR Egger,11.8646673437019,10,0.29421594819666
+class.Betaproteobacteria.id.2867,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",class.Betaproteobacteria.id.2867,Inverse variance weighted,12.0362980080648,11,0.360921008702035
+genus.LachnospiraceaeUCG004.id.11324,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.LachnospiraceaeUCG004.id.11324,MR Egger,11.7228138216933,10,0.304035821971351
+genus.LachnospiraceaeUCG004.id.11324,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.LachnospiraceaeUCG004.id.11324,Inverse variance weighted,12.2276389882508,11,0.346777919532985
+genus.Veillonella.id.2198,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Veillonella.id.2198,MR Egger,12.3013574935565,6,0.0555738227846478
+genus.Veillonella.id.2198,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Veillonella.id.2198,Inverse variance weighted,12.5302508981673,7,0.0844151502923764
+class.Bacteroidia.id.912,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",class.Bacteroidia.id.912,MR Egger,9.04541418967904,12,0.699046637963769
+class.Bacteroidia.id.912,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",class.Bacteroidia.id.912,Inverse variance weighted,9.53809587314799,13,0.731198909903181
+order.Bacteroidales.id.913,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",order.Bacteroidales.id.913,MR Egger,9.04541418967904,12,0.699046637963769
+order.Bacteroidales.id.913,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",order.Bacteroidales.id.913,Inverse variance weighted,9.53809587314799,13,0.731198909903181
+genus.Blautia.id.1992,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Blautia.id.1992,MR Egger,10.3800694940441,11,0.496558128324275
+genus.Blautia.id.1992,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Blautia.id.1992,Inverse variance weighted,10.7184338220942,12,0.553190612029025
+family.unknownfamily.id.1000001214,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.unknownfamily.id.1000001214,MR Egger,8.91771096239727,7,0.258618205201176
+family.unknownfamily.id.1000001214,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.unknownfamily.id.1000001214,Inverse variance weighted,9.26681831737367,8,0.32029000617202
+order.Gastranaerophilales.id.1591,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",order.Gastranaerophilales.id.1591,MR Egger,8.91771096239727,7,0.258618205201176
+order.Gastranaerophilales.id.1591,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",order.Gastranaerophilales.id.1591,Inverse variance weighted,9.26681831737367,8,0.32029000617202
+genus.unknowngenus.id.1000001215,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.unknowngenus.id.1000001215,MR Egger,8.91771096239727,7,0.258618205201176
+genus.unknowngenus.id.1000001215,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.unknowngenus.id.1000001215,Inverse variance weighted,9.26681831737367,8,0.32029000617202
+genus.Dorea.id.1997,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Dorea.id.1997,MR Egger,5.86496336858557,8,0.662354940394853
+genus.Dorea.id.1997,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Dorea.id.1997,Inverse variance weighted,5.91561749787242,9,0.748333070177935
+genus.Barnesiella.id.944,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Barnesiella.id.944,MR Egger,16.1490338486387,12,0.184505010482819
+genus.Barnesiella.id.944,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Barnesiella.id.944,Inverse variance weighted,17.5813171437176,13,0.17407315375141
+genus.Desulfovibrio.id.3173,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Desulfovibrio.id.3173,MR Egger,13.2727380509343,8,0.102803746052718
+genus.Desulfovibrio.id.3173,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Desulfovibrio.id.3173,Inverse variance weighted,13.8278960439407,9,0.128580351832801
+family.Veillonellaceae.id.2172,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Veillonellaceae.id.2172,MR Egger,17.2330401280477,17,0.438688815760152
+family.Veillonellaceae.id.2172,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Veillonellaceae.id.2172,Inverse variance weighted,17.9907024688155,18,0.456265263404934
+class.Gammaproteobacteria.id.3303,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",class.Gammaproteobacteria.id.3303,MR Egger,8.82438633586323,5,0.116277170698148
+class.Gammaproteobacteria.id.3303,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",class.Gammaproteobacteria.id.3303,Inverse variance weighted,8.85012324321819,6,0.182184143025206
+class.Verrucomicrobiae.id.4029,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",class.Verrucomicrobiae.id.4029,MR Egger,21.637184852484,9,0.0101027753864339
+class.Verrucomicrobiae.id.4029,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",class.Verrucomicrobiae.id.4029,Inverse variance weighted,23.2981100347881,10,0.00969811041133969
+genus.Akkermansia.id.4037,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Akkermansia.id.4037,MR Egger,21.6619342200161,9,0.0100144235330682
+genus.Akkermansia.id.4037,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Akkermansia.id.4037,Inverse variance weighted,23.3031956716921,10,0.00968109728780001
+family.Verrucomicrobiaceae.id.4036,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Verrucomicrobiaceae.id.4036,MR Egger,21.6440424253216,9,0.0100782206519317
+family.Verrucomicrobiaceae.id.4036,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Verrucomicrobiaceae.id.4036,Inverse variance weighted,23.299818199292,10,0.00969239287210909
+order.Verrucomicrobiales.id.4030,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",order.Verrucomicrobiales.id.4030,MR Egger,21.637184852484,9,0.0101027753864339
+order.Verrucomicrobiales.id.4030,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",order.Verrucomicrobiales.id.4030,Inverse variance weighted,23.2981100347881,10,0.00969811041133969
+phylum.Bacteroidetes.id.905,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",phylum.Bacteroidetes.id.905,MR Egger,3.29461751663264,10,0.973616341051929
+phylum.Bacteroidetes.id.905,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",phylum.Bacteroidetes.id.905,Inverse variance weighted,6.52591697967489,11,0.836074951952906
+family.Oxalobacteraceae.id.2966,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Oxalobacteraceae.id.2966,MR Egger,19.451490056731,12,0.0781996981269539
+family.Oxalobacteraceae.id.2966,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Oxalobacteraceae.id.2966,Inverse variance weighted,20.4068379458405,13,0.0855198468240084
+family.Alcaligenaceae.id.2875,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Alcaligenaceae.id.2875,MR Egger,9.96596365774834,10,0.443484483254309
+family.Alcaligenaceae.id.2875,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Alcaligenaceae.id.2875,Inverse variance weighted,11.1162257739184,11,0.433578276582394
+genus.Eggerthella.id.819,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Eggerthella.id.819,MR Egger,10.8481326516246,9,0.286262538119117
+genus.Eggerthella.id.819,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Eggerthella.id.819,Inverse variance weighted,11.4442254971095,10,0.323971281226819
+genus.Butyricimonas.id.945,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Butyricimonas.id.945,MR Egger,13.1280984414568,11,0.285035508310746
+genus.Butyricimonas.id.945,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Butyricimonas.id.945,Inverse variance weighted,14.5302061075042,12,0.268138188260218
+phylum.Firmicutes.id.1672,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",phylum.Firmicutes.id.1672,MR Egger,15.5476853786796,14,0.341769184716341
+phylum.Firmicutes.id.1672,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",phylum.Firmicutes.id.1672,Inverse variance weighted,17.642069149451,15,0.281950210422253
+genus.FamilyXIIIUCG001.id.11294,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.FamilyXIIIUCG001.id.11294,MR Egger,5.92574410528503,6,0.431559548292968
+genus.FamilyXIIIUCG001.id.11294,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.FamilyXIIIUCG001.id.11294,Inverse variance weighted,5.93396290134694,7,0.547481049225253
+order.Desulfovibrionales.id.3156,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",order.Desulfovibrionales.id.3156,MR Egger,5.45822451953064,10,0.858545333484882
+order.Desulfovibrionales.id.3156,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",order.Desulfovibrionales.id.3156,Inverse variance weighted,9.29581890406719,11,0.594607316660736
+family.Desulfovibrionaceae.id.3169,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Desulfovibrionaceae.id.3169,MR Egger,5.20301081355289,8,0.735674072042337
+family.Desulfovibrionaceae.id.3169,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Desulfovibrionaceae.id.3169,Inverse variance weighted,9.14283596603863,9,0.424195109089602
+genus.RuminococcaceaeNK4A214group.id.11358,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.RuminococcaceaeNK4A214group.id.11358,MR Egger,5.21296223977612,11,0.920415631189415
+genus.RuminococcaceaeNK4A214group.id.11358,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.RuminococcaceaeNK4A214group.id.11358,Inverse variance weighted,8.49238752398624,12,0.74556618827451
+genus.unknowngenus.id.1000006162,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.unknowngenus.id.1000006162,MR Egger,5.48236262800883,11,0.90557915430862
+genus.unknowngenus.id.1000006162,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.unknowngenus.id.1000006162,Inverse variance weighted,5.50931166805356,12,0.938773850051866
+family.unknownfamily.id.1000006161,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.unknownfamily.id.1000006161,MR Egger,5.48236262800883,11,0.90557915430862
+family.unknownfamily.id.1000006161,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.unknownfamily.id.1000006161,Inverse variance weighted,5.50931166805356,12,0.938773850051866
+order.NB1n.id.3953,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",order.NB1n.id.3953,MR Egger,5.48236262800883,11,0.90557915430862
+order.NB1n.id.3953,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",order.NB1n.id.3953,Inverse variance weighted,5.50931166805356,12,0.938773850051866
+phylum.Verrucomicrobia.id.3982,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",phylum.Verrucomicrobia.id.3982,MR Egger,22.5396069673662,10,0.0125796456906273
+phylum.Verrucomicrobia.id.3982,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",phylum.Verrucomicrobia.id.3982,Inverse variance weighted,22.5511066223306,11,0.0204349764055227
+genus..Eubacteriumbrachygroup.id.11296,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus..Eubacteriumbrachygroup.id.11296,MR Egger,9.47224141307959,8,0.304035923374409
+genus..Eubacteriumbrachygroup.id.11296,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus..Eubacteriumbrachygroup.id.11296,Inverse variance weighted,9.89167870992667,9,0.359325475623403
+genus.Clostridiumsensustricto1.id.1873,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Clostridiumsensustricto1.id.1873,MR Egger,4.36474775809241,5,0.498181010338256
+genus.Clostridiumsensustricto1.id.1873,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Clostridiumsensustricto1.id.1873,Inverse variance weighted,5.09107061184894,6,0.532186896338584
+genus.Escherichia.Shigella.id.3504,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Escherichia.Shigella.id.3504,MR Egger,5.42558852863236,8,0.711269479516264
+genus.Escherichia.Shigella.id.3504,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Escherichia.Shigella.id.3504,Inverse variance weighted,5.53259009301781,9,0.785632565035896
+genus.DefluviitaleaceaeUCG011.id.11287,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.DefluviitaleaceaeUCG011.id.11287,MR Egger,4.64508461541577,7,0.70318352252981
+genus.DefluviitaleaceaeUCG011.id.11287,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.DefluviitaleaceaeUCG011.id.11287,Inverse variance weighted,5.3068414370548,8,0.724333338383007
+family.Defluviitaleaceae.id.1924,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Defluviitaleaceae.id.1924,MR Egger,5.43175426075066,9,0.795165212658193
+family.Defluviitaleaceae.id.1924,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Defluviitaleaceae.id.1924,Inverse variance weighted,6.46833125384375,10,0.774502262352115
+genus.RuminococcaceaeUCG009.id.11366,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.RuminococcaceaeUCG009.id.11366,MR Egger,11.1550205197816,10,0.345568769197814
+genus.RuminococcaceaeUCG009.id.11366,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.RuminococcaceaeUCG009.id.11366,Inverse variance weighted,12.0882803140569,11,0.357044202672491
+genus.Ruminiclostridium9.id.11357,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Ruminiclostridium9.id.11357,MR Egger,5.51953504182479,7,0.596828631746507
+genus.Ruminiclostridium9.id.11357,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Ruminiclostridium9.id.11357,Inverse variance weighted,6.35683713713052,8,0.607327227866151
+genus.Sellimonas.id.14369,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Sellimonas.id.14369,MR Egger,1.77638731635151,7,0.971174693132419
+genus.Sellimonas.id.14369,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Sellimonas.id.14369,Inverse variance weighted,3.61635037584362,8,0.88997452126028
+class.Negativicutes.id.2164,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",class.Negativicutes.id.2164,MR Egger,14.5141561203912,10,0.150804185953173
+class.Negativicutes.id.2164,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",class.Negativicutes.id.2164,Inverse variance weighted,15.9026334855729,11,0.144784244693282
+order.Selenomonadales.id.2165,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",order.Selenomonadales.id.2165,MR Egger,14.5141561203912,10,0.150804185953173
+order.Selenomonadales.id.2165,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",order.Selenomonadales.id.2165,Inverse variance weighted,15.9026334855729,11,0.144784244693282
+genus.Parabacteroides.id.954,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Parabacteroides.id.954,MR Egger,7.81236386305341,4,0.0986984632173712
+genus.Parabacteroides.id.954,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Parabacteroides.id.954,Inverse variance weighted,7.83482438183411,5,0.165576796299913
+genus.Sutterella.id.2896,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Sutterella.id.2896,MR Egger,13.3739869047428,10,0.203506792766777
+genus.Sutterella.id.2896,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Sutterella.id.2896,Inverse variance weighted,13.6905218538981,11,0.250593594411126
+genus.Flavonifractor.id.2059,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Flavonifractor.id.2059,MR Egger,2.1069954081269,3,0.55049884156656
+genus.Flavonifractor.id.2059,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Flavonifractor.id.2059,Inverse variance weighted,3.11862269827915,4,0.538174118374835
+genus.Coprobacter.id.949,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Coprobacter.id.949,MR Egger,8.24533837086346,9,0.509623750992383
+genus.Coprobacter.id.949,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Coprobacter.id.949,Inverse variance weighted,15.3260542412248,10,0.120618942686287
+genus.RuminococcaceaeUCG013.id.11370,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.RuminococcaceaeUCG013.id.11370,MR Egger,6.38302085530036,10,0.782122832250113
+genus.RuminococcaceaeUCG013.id.11370,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.RuminococcaceaeUCG013.id.11370,Inverse variance weighted,6.40479430261728,11,0.845037202632016
+family.Bacteroidaceae.id.917,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Bacteroidaceae.id.917,MR Egger,17.5414992601326,7,0.0142191338636599
+family.Bacteroidaceae.id.917,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Bacteroidaceae.id.917,Inverse variance weighted,17.5932924737207,8,0.0244911106278594
+genus.Bacteroides.id.918,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Bacteroides.id.918,MR Egger,17.5414992601326,7,0.0142191338636599
+genus.Bacteroides.id.918,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Bacteroides.id.918,Inverse variance weighted,17.5932924737207,8,0.0244911106278594
+genus..Ruminococcusgnavusgroup.id.14376,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus..Ruminococcusgnavusgroup.id.14376,MR Egger,4.85598409683818,10,0.900588330335456
+genus..Ruminococcusgnavusgroup.id.14376,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus..Ruminococcusgnavusgroup.id.14376,Inverse variance weighted,6.08508847277308,11,0.867626945434507
+genus..Eubacteriumventriosumgroup.id.11341,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus..Eubacteriumventriosumgroup.id.11341,MR Egger,13.4832902654196,13,0.411211319940871
+genus..Eubacteriumventriosumgroup.id.11341,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus..Eubacteriumventriosumgroup.id.11341,Inverse variance weighted,13.8695441440214,14,0.459474768484084
+genus.Marvinbryantia.id.2005,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Marvinbryantia.id.2005,MR Egger,8.64135584725207,8,0.373447692428904
+genus.Marvinbryantia.id.2005,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Marvinbryantia.id.2005,Inverse variance weighted,9.02428308398256,9,0.43503567073884
+genus.Roseburia.id.2012,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Roseburia.id.2012,MR Egger,8.97677087208821,12,0.704913223632454
+genus.Roseburia.id.2012,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Roseburia.id.2012,Inverse variance weighted,8.97896931176086,13,0.774530031899089
+genus.Oscillibacter.id.2063,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Oscillibacter.id.2063,MR Egger,15.8610936437062,12,0.197681393366311
+genus.Oscillibacter.id.2063,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Oscillibacter.id.2063,Inverse variance weighted,15.8698492217288,13,0.256229440199079
+family.Victivallaceae.id.2255,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Victivallaceae.id.2255,MR Egger,16.7803372835455,10,0.0793680775365506
+family.Victivallaceae.id.2255,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Victivallaceae.id.2255,Inverse variance weighted,17.9069500590864,11,0.083764966042086
+genus.Lactobacillus.id.1837,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Lactobacillus.id.1837,MR Egger,9.05980191106025,8,0.337276297565966
+genus.Lactobacillus.id.1837,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Lactobacillus.id.1837,Inverse variance weighted,9.06026503070579,9,0.431729907961299
+family.Lactobacillaceae.id.1836,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Lactobacillaceae.id.1836,MR Egger,10.1133757538009,7,0.182239098657565
+family.Lactobacillaceae.id.1836,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Lactobacillaceae.id.1836,Inverse variance weighted,10.149643580776,8,0.254679645090368
+family.Christensenellaceae.id.1866,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Christensenellaceae.id.1866,MR Egger,5.8995542825192,9,0.74992774449354
+family.Christensenellaceae.id.1866,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Christensenellaceae.id.1866,Inverse variance weighted,5.99048202967636,10,0.81606226798605
+genus.Gordonibacter.id.821,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Gordonibacter.id.821,MR Egger,10.9604999727515,10,0.360603702282496
+genus.Gordonibacter.id.821,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Gordonibacter.id.821,Inverse variance weighted,12.1977419327115,11,0.34896470159649
+family.Peptococcaceae.id.2024,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Peptococcaceae.id.2024,MR Egger,5.80194350830961,7,0.563056553622763
+family.Peptococcaceae.id.2024,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Peptococcaceae.id.2024,Inverse variance weighted,10.0502852543333,8,0.261514279119001
+genus.LachnospiraceaeNC2004group.id.11316,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.LachnospiraceaeNC2004group.id.11316,MR Egger,2.56643887189464,7,0.92201161614735
+genus.LachnospiraceaeNC2004group.id.11316,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.LachnospiraceaeNC2004group.id.11316,Inverse variance weighted,5.07283777809553,8,0.749763524906597
+genus.Prevotella7.id.11182,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Prevotella7.id.11182,MR Egger,13.9867994692225,9,0.122795571919875
+genus.Prevotella7.id.11182,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Prevotella7.id.11182,Inverse variance weighted,14.1734237119518,10,0.165227177518593
+genus.Victivallis.id.2256,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Victivallis.id.2256,MR Egger,5.12049293585813,8,0.744623493269198
+genus.Victivallis.id.2256,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Victivallis.id.2256,Inverse variance weighted,5.12134701996267,9,0.82360438394765
+genus.Phascolarctobacterium.id.2168,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Phascolarctobacterium.id.2168,MR Egger,6.67294962889686,7,0.463707469988339
+genus.Phascolarctobacterium.id.2168,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Phascolarctobacterium.id.2168,Inverse variance weighted,7.16473488517904,8,0.51896795209221
+genus..Eubacteriumoxidoreducensgroup.id.11339,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus..Eubacteriumoxidoreducensgroup.id.11339,MR Egger,5.66371541691787,3,0.129168007794708
+genus..Eubacteriumoxidoreducensgroup.id.11339,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus..Eubacteriumoxidoreducensgroup.id.11339,Inverse variance weighted,5.74974794245894,4,0.218632982830232
+genus.Oscillospira.id.2064,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Oscillospira.id.2064,MR Egger,10.651500229403,6,0.0997631253096858
+genus.Oscillospira.id.2064,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Oscillospira.id.2064,Inverse variance weighted,12.7555149463614,7,0.0782940659977403
+genus.Catenibacterium.id.2153,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Catenibacterium.id.2153,MR Egger,4.39929690236873,3,0.221450589527287
+genus.Catenibacterium.id.2153,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Catenibacterium.id.2153,Inverse variance weighted,5.43865564383255,4,0.245174552485502
+genus.Ruminococcus2.id.11374,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Ruminococcus2.id.11374,MR Egger,9.90647760315844,13,0.701563565148522
+genus.Ruminococcus2.id.11374,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Ruminococcus2.id.11374,Inverse variance weighted,14.0379453300961,14,0.446887924352737
+genus.Holdemanella.id.11393,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Holdemanella.id.11393,MR Egger,6.91866108928186,9,0.645587725346191
+genus.Holdemanella.id.11393,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Holdemanella.id.11393,Inverse variance weighted,11.2548166832715,10,0.338013181787321
+genus.RikenellaceaeRC9gutgroup.id.11191,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.RikenellaceaeRC9gutgroup.id.11191,MR Egger,10.3305841079442,9,0.324391368305412
+genus.RikenellaceaeRC9gutgroup.id.11191,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.RikenellaceaeRC9gutgroup.id.11191,Inverse variance weighted,14.3746480974007,10,0.156578294610951
+phylum.Cyanobacteria.id.1500,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",phylum.Cyanobacteria.id.1500,MR Egger,5.83600376398031,6,0.441809721954989
+phylum.Cyanobacteria.id.1500,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",phylum.Cyanobacteria.id.1500,Inverse variance weighted,6.69785601260725,7,0.461002071734819
+genus.RuminococcaceaeUCG010.id.11367,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.RuminococcaceaeUCG010.id.11367,MR Egger,2.7985934448356,4,0.592075534407824
+genus.RuminococcaceaeUCG010.id.11367,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.RuminococcaceaeUCG010.id.11367,Inverse variance weighted,3.44416197031266,5,0.631852961794347
+genus.Alloprevotella.id.961,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Alloprevotella.id.961,MR Egger,0.0788529659975165,4,0.999242906130534
+genus.Alloprevotella.id.961,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Alloprevotella.id.961,Inverse variance weighted,3.30373898432899,5,0.653269294517507
+genus..Eubacteriumeligensgroup.id.14372,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus..Eubacteriumeligensgroup.id.14372,MR Egger,3.73407472401049,5,0.588301403284952
+genus..Eubacteriumeligensgroup.id.14372,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus..Eubacteriumeligensgroup.id.14372,Inverse variance weighted,4.09626575443368,6,0.66365074805228
+genus.LachnospiraceaeND3007group.id.11317,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.LachnospiraceaeND3007group.id.11317,MR Egger,2.50603004524482,1,0.113411310807206
+genus.LachnospiraceaeND3007group.id.11317,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.LachnospiraceaeND3007group.id.11317,Inverse variance weighted,5.10869465481018,2,0.0777429562093382
+genus.Lachnospira.id.2004,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Lachnospira.id.2004,MR Egger,3.3974816103095,4,0.493636674362417
+genus.Lachnospira.id.2004,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Lachnospira.id.2004,Inverse variance weighted,3.8431485365759,5,0.572212638345303
+genus.Erysipelatoclostridium.id.11381,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Erysipelatoclostridium.id.11381,MR Egger,28.2133501735373,13,0.00844946774849285
+genus.Erysipelatoclostridium.id.11381,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Erysipelatoclostridium.id.11381,Inverse variance weighted,28.424158673612,14,0.0124914556740093
+order.Burkholderiales.id.2874,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",order.Burkholderiales.id.2874,MR Egger,9.16415427338576,9,0.422261487947367
+order.Burkholderiales.id.2874,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",order.Burkholderiales.id.2874,Inverse variance weighted,9.16423862727238,10,0.516591004427028
+genus.Terrisporobacter.id.11348,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Terrisporobacter.id.11348,MR Egger,3.63023441657031,3,0.304259800256602
+genus.Terrisporobacter.id.11348,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Terrisporobacter.id.11348,Inverse variance weighted,4.00508044207094,4,0.405318723283507
+genus.Allisonella.id.2174,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Allisonella.id.2174,MR Egger,10.5749557067466,6,0.102435297007783
+genus.Allisonella.id.2174,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",genus.Allisonella.id.2174,Inverse variance weighted,10.7496357804394,7,0.149918752228332
+family.Acidaminococcaceae.id.2166,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Acidaminococcaceae.id.2166,MR Egger,5.09982479821693,5,0.403819409780373
+family.Acidaminococcaceae.id.2166,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Acidaminococcaceae.id.2166,Inverse variance weighted,7.51839345440288,6,0.275550942149887
+family.Actinomycetaceae.id.421,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Actinomycetaceae.id.421,MR Egger,1.315121198773,3,0.725545568325526
+family.Actinomycetaceae.id.421,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",family.Actinomycetaceae.id.421,Inverse variance weighted,1.5439825592615,4,0.818822989388297
+order.Actinomycetales.id.420,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",order.Actinomycetales.id.420,MR Egger,1.31651167307215,3,0.725216000530019
+order.Actinomycetales.id.420,GCST90454344,"Pure TNBC (GCST90454344, Zhang et al. 2020)",order.Actinomycetales.id.420,Inverse variance weighted,1.54313800076243,4,0.818973620082875

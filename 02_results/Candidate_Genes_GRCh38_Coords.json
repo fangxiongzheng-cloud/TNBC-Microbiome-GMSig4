@@ -1,0 +1,233 @@
+{
+  "MUC1": {
+    "ensembl_id": "ENSG00000185499",
+    "chr": "1",
+    "start": 155185824,
+    "end": 155192916,
+    "strand": -1
+  },
+  "TGFB1": {
+    "ensembl_id": "ENSG00000105329",
+    "chr": "19",
+    "start": 41288203,
+    "end": 41353961,
+    "strand": -1
+  },
+  "CXCR6": {
+    "ensembl_id": "ENSG00000172215",
+    "chr": "3",
+    "start": 45940915,
+    "end": 45948640,
+    "strand": 1
+  },
+  "ICAM1": {
+    "ensembl_id": "ENSG00000090339",
+    "chr": "19",
+    "start": 10271093,
+    "end": 10286617,
+    "strand": 1
+  },
+  "FOXP3": {
+    "ensembl_id": "ENSG00000049768",
+    "chr": "X",
+    "start": 49250436,
+    "end": 49264800,
+    "strand": -1
+  },
+  "CXCR2": {
+    "ensembl_id": "ENSG00000180871",
+    "chr": "2",
+    "start": 218125269,
+    "end": 218137251,
+    "strand": 1
+  },
+  "CTSD": {
+    "ensembl_id": "ENSG00000117984",
+    "chr": "11",
+    "start": 1752752,
+    "end": 1764573,
+    "strand": -1
+  },
+  "SFN": {
+    "ensembl_id": "ENSG00000175793",
+    "chr": "1",
+    "start": 26863149,
+    "end": 26864456,
+    "strand": 1
+  },
+  "TGFBR1": {
+    "ensembl_id": "ENSG00000106799",
+    "chr": "9",
+    "start": 99104038,
+    "end": 99154395,
+    "strand": 1
+  },
+  "MAGI3": {
+    "ensembl_id": "ENSG00000081026",
+    "chr": "1",
+    "start": 113390390,
+    "end": 113687431,
+    "strand": 1
+  },
+  "IFNG": {
+    "ensembl_id": "ENSG00000111537",
+    "chr": "12",
+    "start": 68154768,
+    "end": 68159748,
+    "strand": -1
+  },
+  "ST6GAL1": {
+    "ensembl_id": "ENSG00000073849",
+    "chr": "3",
+    "start": 186930325,
+    "end": 187078932,
+    "strand": 1
+  },
+  "NLRP3": {
+    "ensembl_id": "ENSG00000162711",
+    "chr": "1",
+    "start": 247332331,
+    "end": 247449668,
+    "strand": 1
+  },
+  "DAPK3": {
+    "ensembl_id": "ENSG00000167657",
+    "chr": "19",
+    "start": 3958453,
+    "end": 3971130,
+    "strand": -1
+  },
+  "IL12B": {
+    "ensembl_id": "ENSG00000113302",
+    "chr": "5",
+    "start": 159314780,
+    "end": 159330863,
+    "strand": -1
+  },
+  "ENO1": {
+    "ensembl_id": "ENSG00000074800",
+    "chr": "1",
+    "start": 8854043,
+    "end": 8879308,
+    "strand": -1
+  },
+  "F11R": {
+    "ensembl_id": "ENSG00000158769",
+    "chr": "1",
+    "start": 160985714,
+    "end": 161023123,
+    "strand": -1
+  },
+  "HDAC11": {
+    "ensembl_id": "ENSG00000163517",
+    "chr": "3",
+    "start": 13479724,
+    "end": 13506424,
+    "strand": 1
+  },
+  "BCL2": {
+    "ensembl_id": "ENSG00000171791",
+    "chr": "18",
+    "start": 63123346,
+    "end": 63320215,
+    "strand": -1
+  },
+  "HERC5": {
+    "ensembl_id": "ENSG00000138646",
+    "chr": "4",
+    "start": 88457086,
+    "end": 88506188,
+    "strand": 1
+  },
+  "TCF7L2": {
+    "ensembl_id": "ENSG00000148737",
+    "chr": "10",
+    "start": 112950015,
+    "end": 113167678,
+    "strand": 1
+  },
+  "CXCL10": {
+    "ensembl_id": "ENSG00000169245",
+    "chr": "4",
+    "start": 76021118,
+    "end": 76023518,
+    "strand": -1
+  },
+  "CLDN7": {
+    "ensembl_id": "ENSG00000181885",
+    "chr": "17",
+    "start": 7257359,
+    "end": 7264016,
+    "strand": -1
+  },
+  "CASP1": {
+    "ensembl_id": "ENSG00000137752",
+    "chr": "11",
+    "start": 105023581,
+    "end": 105035250,
+    "strand": -1
+  },
+  "CCR6": {
+    "ensembl_id": "ENSG00000112486",
+    "chr": "6",
+    "start": 167111790,
+    "end": 167139141,
+    "strand": 1
+  },
+  "MAPK3": {
+    "ensembl_id": "ENSG00000102882",
+    "chr": "16",
+    "start": 30114104,
+    "end": 30123506,
+    "strand": -1
+  },
+  "IDO1": {
+    "ensembl_id": "ENSG00000131203",
+    "chr": "8",
+    "start": 39902275,
+    "end": 39928888,
+    "strand": 1
+  },
+  "VEGFA": {
+    "ensembl_id": "ENSG00000112715",
+    "chr": "6",
+    "start": 43770184,
+    "end": 43786487,
+    "strand": 1
+  },
+  "AKT1": {
+    "ensembl_id": "ENSG00000142208",
+    "chr": "14",
+    "start": 104769348,
+    "end": 104799934,
+    "strand": -1
+  },
+  "LDHA": {
+    "ensembl_id": "ENSG00000134333",
+    "chr": "11",
+    "start": 18394347,
+    "end": 18408425,
+    "strand": 1
+  },
+  "NLRP6": {
+    "ensembl_id": "ENSG00000174885",
+    "chr": "11",
+    "start": 278407,
+    "end": 286691,
+    "strand": 1
+  },
+  "PEMT": {
+    "ensembl_id": "ENSG00000133027",
+    "chr": "17",
+    "start": 17505559,
+    "end": 17592105,
+    "strand": -1
+  },
+  "LYZ": {
+    "ensembl_id": "ENSG00000090382",
+    "chr": "12",
+    "start": 69348381,
+    "end": 69354237,
+    "strand": 1
+  }
+}

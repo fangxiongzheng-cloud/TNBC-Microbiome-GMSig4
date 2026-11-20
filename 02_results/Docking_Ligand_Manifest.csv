@@ -1,0 +1,12 @@
+metabolite,pubchem_cid,smiles,mw,formula
+Indole-3-carboxylic_acid,69867,C1=CC=C2C(=C1)C(=CN2)C(=O)O,161.16,C9H7NO2
+Urolithin_A,5488186,C1=CC2=C(C=C1O)C(=O)OC3=C2C=CC(=C3)O,228.20,C13H8O4
+Indole,798,C1=CC=C2C(=C1)C=CN2,117.15,C8H7N
+3-Indolepropionic_acid,3744,C1=CC=C2C(=C1)C(=CN2)CCC(=O)O,189.21,C11H11NO2
+Butyrate,264,CCCC(=O)O,88.11,C4H8O2
+Propionate,1032,CCC(=O)O,74.08,C3H6O2
+Caffeic_acid,689043,C1=CC(=C(C=C1/C=C/C(=O)O)O)O,180.16,C9H8O4
+3-(4-Hydroxyphenyl)propionic_acid,10394,C1=CC(=CC=C1CCC(=O)O)O,166.17,C9H10O3
+Trimethylamine_N-oxide,1145,C[N+](C)(C)[O-],75.11,C3H9NO
+Lithocholic_acid,9903,C[C@H](CCC(=O)O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@H]4[C@@]3(CC[C@H](C4)O)C)C,376.6,C24H40O3
+Nicotinic_acid,938,C1=CC(=CN=C1)C(=O)O,123.11,C6H5NO2

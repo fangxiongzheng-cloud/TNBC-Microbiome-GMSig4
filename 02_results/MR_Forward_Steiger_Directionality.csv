@@ -1,0 +1,57 @@
+id.exposure,id.outcome,exposure,outcome,snp_r2.exposure,snp_r2.outcome,correct_causal_direction,steiger_pval
+genus.Marvinbryantia.id.2005,ieu-a-1126,genus.Marvinbryantia.id.2005,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,0.0191262526955996,6.77622795463833e-05,TRUE,8.34957444812322e-43
+genus..Eubacteriumxylanophilumgroup.id.14375,ieu-a-1126,genus..Eubacteriumxylanophilumgroup.id.14375,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,0.0159090931709712,9.40110217239858e-05,TRUE,2.35465146282146e-37
+order.Lactobacillales.id.1800,ieu-a-1126,order.Lactobacillales.id.1800,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,0.0227505778340972,6.17559663663989e-05,TRUE,4.84795495555062e-68
+family.Ruminococcaceae.id.2050,ieu-a-1126,family.Ruminococcaceae.id.2050,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,0.0181411799111822,8.48818219898541e-05,TRUE,9.7680852121285e-50
+genus.Adlercreutzia.id.812,ieu-a-1126,genus.Adlercreutzia.id.812,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,0.0206848308057025,5.67595402844839e-05,TRUE,3.20415443499338e-34
+genus.Ruminiclostridium6.id.11356,ieu-a-1126,genus.Ruminiclostridium6.id.11356,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,0.0327719431257495,9.83401845028541e-05,TRUE,1.19476972728941e-72
+genus.Oxalobacter.id.2978,ieu-a-1126,genus.Oxalobacter.id.2978,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,0.0529413818011967,6.96453514730464e-05,TRUE,1.42194507949974e-50
+genus.LachnospiraceaeNK4A136group.id.11319,ieu-a-1126,genus.LachnospiraceaeNK4A136group.id.11319,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,0.0279545110100662,4.54724602046957e-05,TRUE,7.45660086230589e-82
+genus.Anaerostipes.id.1991,ieu-a-1126,genus.Anaerostipes.id.1991,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,0.0180842749689213,9.90788946234505e-05,TRUE,8.7768845306349e-53
+genus.Dorea.id.1997,ieu-a-1126,genus.Dorea.id.1997,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,0.0158088151600405,7.62861973643897e-05,TRUE,3.04443889479553e-45
+genus.Desulfovibrio.id.3173,ieu-a-1126,genus.Desulfovibrio.id.3173,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,0.0271040219058615,7.34757817465924e-05,TRUE,2.91619106551797e-45
+genus.Parabacteroides.id.954,ieu-a-1126,genus.Parabacteroides.id.954,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,0.00890217774172196,3.92510147161538e-05,TRUE,5.91325875651415e-25
+genus.FamilyXIIIUCG001.id.11294,ieu-a-1126,genus.FamilyXIIIUCG001.id.11294,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,0.0164756670507373,5.20410149740519e-05,TRUE,2.40326889320887e-36
+genus.Sellimonas.id.14369,ieu-a-1126,genus.Sellimonas.id.14369,Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1126,0.0634389031078378,6.65348253291142e-05,TRUE,2.57037169868163e-43
+order.Lactobacillales.id.1800,ieu-a-1128,order.Lactobacillales.id.1800,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,0.0227505778340972,0.000183964903007708,TRUE,6.02252708800253e-60
+genus.Adlercreutzia.id.812,ieu-a-1128,genus.Adlercreutzia.id.812,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,0.0206848308057025,0.000171830294033758,TRUE,7.84509459763586e-31
+genus.Marvinbryantia.id.2005,ieu-a-1128,genus.Marvinbryantia.id.2005,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,0.0191262526955996,8.48484230318061e-05,TRUE,1.0477802607104e-40
+genus.Ruminiclostridium6.id.11356,ieu-a-1128,genus.Ruminiclostridium6.id.11356,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,0.0327719431257495,0.000128898516570677,TRUE,5.99714717359342e-69
+genus.Sellimonas.id.14369,ieu-a-1128,genus.Sellimonas.id.14369,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,0.0634389031078378,2.55635377663306e-05,TRUE,6.59011157596269e-44
+genus.Dorea.id.1997,ieu-a-1128,genus.Dorea.id.1997,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,0.0158088151600405,9.09933402564802e-05,TRUE,1.32336068808237e-42
+genus.Parabacteroides.id.954,ieu-a-1128,genus.Parabacteroides.id.954,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,0.00890217774172196,6.66274233117603e-05,TRUE,5.95486315516311e-23
+genus.FamilyXIIIUCG001.id.11294,ieu-a-1128,genus.FamilyXIIIUCG001.id.11294,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,0.0164756670507373,8.9965664323817e-05,TRUE,7.15636279354621e-34
+genus.Desulfovibrio.id.3173,ieu-a-1128,genus.Desulfovibrio.id.3173,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,0.0271040219058615,0.000156888604850317,TRUE,5.55485999985363e-42
+genus.LachnospiraceaeNK4A136group.id.11319,ieu-a-1128,genus.LachnospiraceaeNK4A136group.id.11319,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,0.0279545110100662,0.000153449791740339,TRUE,6.37559163524662e-73
+family.Ruminococcaceae.id.2050,ieu-a-1128,family.Ruminococcaceae.id.2050,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,0.0181411799111822,4.82125092079069e-05,TRUE,3.34565985730767e-49
+genus..Eubacteriumxylanophilumgroup.id.14375,ieu-a-1128,genus..Eubacteriumxylanophilumgroup.id.14375,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,0.0159090931709712,0.000141619581414153,TRUE,1.16110262631406e-34
+genus.Oxalobacter.id.2978,ieu-a-1128,genus.Oxalobacter.id.2978,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,0.0529413818011967,9.78724974184536e-05,TRUE,3.48099288442136e-49
+genus.Anaerostipes.id.1991,ieu-a-1128,genus.Anaerostipes.id.1991,ER- Breast cancer (Combined Oncoarray; iCOGS; GWAS meta analysis) || id:ieu-a-1128,0.0180842749689213,0.00014601214948855,TRUE,1.22372359375178e-48
+genus.Adlercreutzia.id.812,ieu-a-1135,genus.Adlercreutzia.id.812,ER- Breast cancer (Oncoarray) || id:ieu-a-1135,0.0206848308057025,0.000546047377574794,TRUE,1.20778957928052e-24
+genus..Eubacteriumxylanophilumgroup.id.14375,ieu-a-1135,genus..Eubacteriumxylanophilumgroup.id.14375,ER- Breast cancer (Oncoarray) || id:ieu-a-1135,0.0159090931709712,0.000220882445760221,TRUE,1.08100506311036e-29
+genus.Desulfovibrio.id.3173,ieu-a-1135,genus.Desulfovibrio.id.3173,ER- Breast cancer (Oncoarray) || id:ieu-a-1135,0.0271040219058615,0.000359918679164172,TRUE,6.31619962521018e-36
+genus.Ruminiclostridium6.id.11356,ieu-a-1135,genus.Ruminiclostridium6.id.11356,ER- Breast cancer (Oncoarray) || id:ieu-a-1135,0.0327719431257495,0.000301239638852862,TRUE,2.85212876692918e-58
+genus.Oxalobacter.id.2978,ieu-a-1135,genus.Oxalobacter.id.2978,ER- Breast cancer (Oncoarray) || id:ieu-a-1135,0.0529413818011967,0.000273297813164346,TRUE,1.60132504376633e-44
+order.Lactobacillales.id.1800,ieu-a-1135,order.Lactobacillales.id.1800,ER- Breast cancer (Oncoarray) || id:ieu-a-1135,0.0227505778340972,0.000270719871347434,TRUE,1.45554857079207e-50
+genus.Marvinbryantia.id.2005,ieu-a-1135,genus.Marvinbryantia.id.2005,ER- Breast cancer (Oncoarray) || id:ieu-a-1135,0.0191262526955996,0.000211031403381887,TRUE,4.56827274548261e-34
+genus.Parabacteroides.id.954,ieu-a-1135,genus.Parabacteroides.id.954,ER- Breast cancer (Oncoarray) || id:ieu-a-1135,0.00890217774172196,0.000166104680187367,TRUE,2.00064625195681e-18
+family.Ruminococcaceae.id.2050,ieu-a-1135,family.Ruminococcaceae.id.2050,ER- Breast cancer (Oncoarray) || id:ieu-a-1135,0.0181411799111822,0.000135200273421102,TRUE,1.47242428185976e-40
+genus.Dorea.id.1997,ieu-a-1135,genus.Dorea.id.1997,ER- Breast cancer (Oncoarray) || id:ieu-a-1135,0.0158088151600405,0.000204573978169687,TRUE,1.08341326837935e-34
+genus.Anaerostipes.id.1991,ieu-a-1135,genus.Anaerostipes.id.1991,ER- Breast cancer (Oncoarray) || id:ieu-a-1135,0.0180842749689213,0.00025858715573189,TRUE,4.5451652423275e-40
+genus.LachnospiraceaeNK4A136group.id.11319,ieu-a-1135,genus.LachnospiraceaeNK4A136group.id.11319,ER- Breast cancer (Oncoarray) || id:ieu-a-1135,0.0279545110100662,0.000430376867610188,TRUE,7.66957836918218e-58
+genus.Sellimonas.id.14369,ieu-a-1135,genus.Sellimonas.id.14369,ER- Breast cancer (Oncoarray) || id:ieu-a-1135,0.0634389031078378,8.23522425503173e-05,TRUE,2.43350666815617e-41
+genus.FamilyXIIIUCG001.id.11294,ieu-a-1135,genus.FamilyXIIIUCG001.id.11294,ER- Breast cancer (Oncoarray) || id:ieu-a-1135,0.0164756670507373,0.000150974143664606,TRUE,1.92716083098312e-29
+family.Ruminococcaceae.id.2050,GCST010100,family.Ruminococcaceae.id.2050,"TNBC (GCST010100, Zhang et al. 2020)",0.0203691967752244,6.09552328141588e-05,TRUE,1.1944354283692e-53
+genus..Eubacteriumxylanophilumgroup.id.14375,GCST010100,genus..Eubacteriumxylanophilumgroup.id.14375,"TNBC (GCST010100, Zhang et al. 2020)",0.0159090931709712,0.000100682511485901,TRUE,1.58797264713288e-35
+genus.Adlercreutzia.id.812,GCST010100,genus.Adlercreutzia.id.812,"TNBC (GCST010100, Zhang et al. 2020)",0.0206848308057025,0.000149243463446882,TRUE,4.21131262048562e-31
+genus.Oxalobacter.id.2978,GCST010100,genus.Oxalobacter.id.2978,"TNBC (GCST010100, Zhang et al. 2020)",0.0579033929675429,0.000150875695171629,TRUE,1.13533932297126e-52
+genus.Anaerostipes.id.1991,GCST010100,genus.Anaerostipes.id.1991,"TNBC (GCST010100, Zhang et al. 2020)",0.0180842749689213,0.000143313560542479,TRUE,2.34318805426946e-48
+genus.Ruminiclostridium6.id.11356,GCST010100,genus.Ruminiclostridium6.id.11356,"TNBC (GCST010100, Zhang et al. 2020)",0.0327719431257495,0.000105961535398775,TRUE,2.19071468591976e-69
+genus.LachnospiraceaeNK4A136group.id.11319,GCST010100,genus.LachnospiraceaeNK4A136group.id.11319,"TNBC (GCST010100, Zhang et al. 2020)",0.0279545110100662,0.000145317526408704,TRUE,1.06810081739472e-72
+order.Lactobacillales.id.1800,GCST010100,order.Lactobacillales.id.1800,"TNBC (GCST010100, Zhang et al. 2020)",0.0240839241906266,0.000153614221546618,TRUE,2.30376313870492e-64
+genus.Dorea.id.1997,GCST010100,genus.Dorea.id.1997,"TNBC (GCST010100, Zhang et al. 2020)",0.0158088151600405,0.000110620683800642,TRUE,1.28198408718135e-41
+genus.Desulfovibrio.id.3173,GCST010100,genus.Desulfovibrio.id.3173,"TNBC (GCST010100, Zhang et al. 2020)",0.0271040219058615,0.000136561452097922,TRUE,3.01982002836865e-42
+genus.FamilyXIIIUCG001.id.11294,GCST010100,genus.FamilyXIIIUCG001.id.11294,"TNBC (GCST010100, Zhang et al. 2020)",0.0164756670507373,8.17601557900778e-05,TRUE,6.32215488366141e-34
+genus.Sellimonas.id.14369,GCST010100,genus.Sellimonas.id.14369,"TNBC (GCST010100, Zhang et al. 2020)",0.0634389031078378,7.14493532861996e-05,TRUE,1.03616430753938e-42
+genus.Parabacteroides.id.954,GCST010100,genus.Parabacteroides.id.954,"TNBC (GCST010100, Zhang et al. 2020)",0.010101750043854,4.58550744474134e-05,TRUE,3.34550513686772e-27
+genus.Marvinbryantia.id.2005,GCST010100,genus.Marvinbryantia.id.2005,"TNBC (GCST010100, Zhang et al. 2020)",0.0191262526955996,0.000100086320740711,TRUE,5.24569832882962e-40
