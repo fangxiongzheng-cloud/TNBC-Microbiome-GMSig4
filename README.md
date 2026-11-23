@@ -1,10 +1,10 @@
 # GMSig-4 in triple-negative breast cancer
 
-**A Multi-Scale Computational Framework Uniting Gut Microbiome Metagenomics, Subtype-Stratified Mendelian Randomization, and Immunotherapy-Predictive Modeling (GMSig-4) in Triple-Negative Breast Cancer**
+**A Frozen Four-Gene Tumor Expression Score (GMSig-4) Derived from Microbiome-Linked Host Targets Predicts Survival and Pan-Compartment Immune Depletion in Triple-Negative Breast Cancer**
 
 Fangxiong Zheng, Jinxi Wang, Jiayi Li, Tengfei Ma, Yuchen Zhang, Shuangzhe Li, and Zhongxin Lu
 
-This repository accompanies the manuscript prepared for *Computers in Biology and Medicine*. It contains the analysis and figure scripts for the completed study and the summary tables used to report the results. The workflow integrates gut microbiome profiles, germline genetic evidence, bulk tumor expression and clinical outcomes, and single-cell and structural analyses.
+This repository accompanies the manuscript prepared for the *Journal of Translational Medicine*. It contains the analysis and figure scripts for the completed study and the summary tables used to report the results. The workflow integrates gut microbiome profiles, germline genetic evidence, bulk tumor expression and clinical outcomes, and single-cell and structural analyses.
 
 The four-gene Ridge Cox score reported in the study is
 
@@ -14,12 +14,29 @@ GMSig-4 = -0.2518*Z_IFNG - 0.1509*Z_IDO1 - 0.0719*Z_CXCL10 + 0.1849*Z_ENO1
 
 Each `Z` is gene expression standardized within the cohort being scored. The displayed coefficients are rounded to four decimals. The analysis script fits the model in TCGA-TNBC using the original five-fold cross-validation and seed of 2026, then reuses the fitted coefficients at full precision for validation. The development model used 29 events for four predictors, yielding 7.25 events per variable (EPV).
 
+## JTM release v1.1.0
+
+The [v1.1.0 release](https://github.com/fangxiongzheng-cloud/TNBC-Microbiome-GMSig4/releases/tag/v1.1.0) archives the scripts, frozen model and processed results used in the JTM revision.
+
+| Analysis | Where to look |
+| --- | --- |
+| Frozen model | [Full-precision coefficients](02_results/JTM_upgrade/model_freeze/frozen_coefficients.json), [scoring function](00_scripts/26a_gmsig4_score.R) and [SHA-256 manifest](02_results/JTM_upgrade/model_freeze/sha256_manifest.csv). The manifest records the original analysis workspace. Its 16 model-freeze files and three `26a` scripts can be verified byte-for-byte in this release. Its other entries describe seven historical scripts that were adapted for the public repository and seven model or score files kept in the analysis workspace. |
+| External validation | `26b` handles eligibility and harmonization, `26c` evaluates the frozen score, and `26i` plots the results. See [eligibility](02_results/JTM_upgrade/cohort_eligibility) and [validation tables](02_results/JTM_upgrade/independent_validation) for METABRIC, GSE21653 and GSE25066. |
+| Spatial, proteomic and docking analyses | `26d`–`26e` audit structures and available data, `26g` and `26h` analyze GSE210616 and CPTAC, and `26j` and `26k` plot the results. See the [spatial tables](02_results/JTM_upgrade/spatial_gse210616), [CPTAC results](02_results/JTM_upgrade/cptac) and [docking audit](02_results/JTM_upgrade/docking). |
+| Reconciliation and method audit | `26f` reconciles the historical tables. The [reconciled tables](02_results/JTM_upgrade/reconciled_tables), [method audit](02_results/JTM_upgrade/method_audit) and [PRJNA383849 subject-level recomputation summary](02_results/PRJNA383849_subject_collapsed_recomputation.csv) record the checks behind the revision. |
+
+For GCST010098, GCST010100 and GCST90454344, the eQTLGen tables pool the primary inverse-variance weighted and Wald ratio tests in one Benjamini–Hochberg adjustment per outcome. The `fdr` column contains the revised values and `fdr_by_method_old` preserves the previous values. Each `MR_eQTLGen_*_results_unifiedBH.csv` is byte-identical to the corresponding `MR_eQTLGen_*_results.csv` used by the analysis scripts. The Figure 2 script applies the same per-outcome adjustment when combining endpoints.
+
+The [Figure 2 PDF](03_figures/Figure2.pdf) and [PNG](03_figures/Figure2.png) are the submission exports. The [plotting script](00_scripts/22_fig2_mr_coloc_mediation.R) reproduces the revised panel D colocalization posteriors and the panel E GTEx FDR annotation (0.121).
+
+The archived `14c`, `14e`, `14h` and several `26` scripts retain paths from the original Windows/WSL analysis environment. Review the path settings before running them elsewhere. Use a working copy when regenerating outputs to preserve the released model and its hashes.
+
 ## Local setup
 
-1. Start from the repository root. Scripts use `PROJECT_ROOT` and default to the current directory. To run from another working directory, set `PROJECT_ROOT` in the shell to the path of your analysis checkout.
+1. Start from the repository root. The portable scripts use `PROJECT_ROOT` and default to the current directory. The archived JTM scripts have the path settings described above. To run from another working directory, set `PROJECT_ROOT` in the shell to the path of your analysis checkout.
 2. Use **R 4.4.3** with **Bioconductor 3.20** and **Python 3.12**. Keep `Rscript` and `python` available in the active environment. Use Linux or WSL for docking if your platform lacks compatible Vina wheels. [Bioconductor releases](https://bioconductor.org/about/release-announcements/)
-3. Generate your own token in the OpenGWAS profile. Copy `.Renviron.example` to `.Renviron` in the analysis checkout and replace the JWT placeholder locally. Use `PROJECT_ROOT=.` when launching from the repository root and the checkout path when launching from elsewhere. Start a fresh R process after editing. Keep the token, source inputs, and subject-level outputs local. [OpenGWAS authentication guide](https://mrcieu.github.io/ieugwasr/articles/guide.html#authentication)
-4. Stage the public inputs under `01_data/` as described below. The released `02_results/` contains summary tables for review. Run in a separate checkout to preserve that snapshot because analyses write new tables there. Figures are generated under `03_figures/`.
+3. Generate your own token in the OpenGWAS profile. Copy `.Renviron.example` to `.Renviron` in the analysis checkout and replace the JWT placeholder locally. Use `PROJECT_ROOT=.` when launching from the repository root and the checkout path when launching from elsewhere. Start a fresh R process after editing. Keep the token and source inputs local. [OpenGWAS authentication guide](https://mrcieu.github.io/ieugwasr/articles/guide.html#authentication)
+4. Stage the public inputs under `01_data/` as described below. The released `02_results/` contains summary tables and selected derived score tables from public cohorts. Run in a separate checkout to preserve that snapshot because analyses write new tables there. Figures are generated under `03_figures/`.
 
 ### Dependencies
 
@@ -85,7 +102,7 @@ Run Module 1, the first two rows of Module 3, Module 2, the remaining rows of Mo
 | 3 | `21a_fetch_structures_and_ligands.py` → `21b_autodock_vina_pipeline.py` → `22_fig6_docking_and_mechanism.py` | Structure and ligand manifests, AutoDock Vina 1.2.7 affinities and poses, contact residues, and the data-driven Figure 6. |
 | 4 | `22_fig6_docking_and_mechanism_v2.py` (optional) | The illustrated layout requires local pocket renders named `<gene>_<metabolite>.png` in `01_data/docking/figure_assets/pockets3d/` and `panel6d_background.jpg` in `figure_assets/`. |
 
-Run `python 00_scripts/audit_release.py` to scan the clean release checkout. After recomputation, use `23_audit_all_results.py` to inspect the generated analysis outputs.
+The `00_scripts/audit_release.py` checker describes the two-directory v1.0.0 archive. Its allowlist predates the JTM model files, figures and nested result directories. After recomputation, use `23_audit_all_results.py` to inspect the generated analysis outputs.
 
 ## Public data accessions
 

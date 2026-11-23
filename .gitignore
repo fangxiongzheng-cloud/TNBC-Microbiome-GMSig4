@@ -16,19 +16,26 @@ Thumbs.db
 
 # Source data, generated figures, and manuscript files
 /01_data/
-/03_figures/
+/03_figures/*
+!/03_figures/Figure2.pdf
+!/03_figures/Figure2.png
 /04_manuscript/
+/05_JTM_Submission_Package/
+/06_JTM_Submission_Package_Revised/
 *.docx
 *.docm
 
 # Model, analysis, and interpreter caches
 *.rds
 *.RDS
+!/02_results/JTM_upgrade/model_freeze/reconstructed_training_cv_object.rds
 *.RData
 *.rdata
 *.h5ad
 *.h5
 *.hdf5
+*.gz
+*.pdbqt
 *.pkl
 *.pickle
 __pycache__/

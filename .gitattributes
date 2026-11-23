@@ -1,1 +1,5 @@
 *.sh text eol=lf
+
+# Preserve the exact source bytes recorded by the model-freeze manifest.
+/00_scripts/26a*.R -text
+/02_results/JTM_upgrade/model_freeze/** -text

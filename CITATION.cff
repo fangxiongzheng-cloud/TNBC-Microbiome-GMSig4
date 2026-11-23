@@ -1,13 +1,11 @@
 cff-version: "1.2.0"
 message: >-
   If you use this code or the accompanying results, please cite this repository
-  and the associated manuscript prepared for submission to Computers in Biology
-  and Medicine.
+  and the associated manuscript prepared for the Journal of Translational Medicine.
 title: >-
-  A Multi-Scale Computational Framework Uniting Gut Microbiome Metagenomics,
-  Subtype-Stratified Mendelian Randomization, and Immunotherapy-Predictive
-  Modeling (GMSig-4) in Triple-Negative Breast Cancer
+  A Frozen Four-Gene Tumor Expression Score (GMSig-4) Derived from Microbiome-Linked Host Targets Predicts Survival and Pan-Compartment Immune Depletion in Triple-Negative Breast Cancer
 type: software
+version: "1.1.0"
 license: MIT
 authors:
   - given-names: Fangxiong

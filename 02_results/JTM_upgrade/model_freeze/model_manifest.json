@@ -1,0 +1,73 @@
+{
+  "freeze_utc": "2026-11-22 13:13:52 UTC",
+  "model": "GMSig-4",
+  "source_model": "02_results/GMSig4_Model_Objects.rds",
+  "source_pipeline": "00_scripts/19f_signature_clinical_nomogram.R",
+  "weights": {
+    "IFNG": -0.251802755687135,
+    "IDO1": -0.150867350934661,
+    "CXCL10": -0.0719280374738463,
+    "ENO1": 0.184881748437269
+  },
+  "training": {
+    "dataset": "TCGA-BRCA",
+    "n": 172,
+    "OS_events": 29,
+    "eligibility": "Primary tumor, ER/PR/HER2 Negative as resolved in 19a; nonmissing OS/OS.time; OS.time>0",
+    "time_unit": "years = OS.time / 365.25",
+    "gene_means": {
+      "IFNG": 2.87903488372093,
+      "IDO1": 8.32608895348837,
+      "CXCL10": 10.0687930232558,
+      "ENO1": 14.8409191860465
+    },
+    "gene_sample_sd": {
+      "IFNG": 2.01750909927975,
+      "IDO1": 2.50993038468383,
+      "CXCL10": 2.14571055722566,
+      "ENO1": 0.782323262505113
+    },
+    "score_sd": 0.446545188201463,
+    "score_median": -0.0102359731895073
+  },
+  "fit": {
+    "family": "cox",
+    "penalty": "ridge",
+    "alpha": 0,
+    "nfolds": 5,
+    "seed": 2026,
+    "lambda_rule": "lambda.min",
+    "lambda_min_reconstructed": 0.111047382457078,
+    "lambda_1se_reconstructed": 90.0739555894297,
+    "coefficient_max_abs_error": 0,
+    "coefficient_reconstruction_matches": true,
+    "glmnet_internal_standardize": true,
+    "cox_ties": "Breslow in glmnet",
+    "folds_originally_saved": false,
+    "cv_object_originally_saved": false
+  },
+  "scoring": {
+    "formula": "sum_g beta_g * (x_g - cohort_mean_g) / cohort_sample_sd_g",
+    "no_score_rescaling": true,
+    "median_split": "score > cohort median",
+    "missing_or_zero_sd": "historical scale() had no explicit safety rule; new wrapper fails and requires prespecified handling",
+    "platform_portability": "cohort-relative; fixed-reference single-patient use not validated"
+  },
+  "baseline": {
+    "original_ridge_baseline_saved": false,
+    "original_ridge_baseline_reconstruction": "not estimated; would require explicitly chosen estimator/ties handling and validation",
+    "existing_nomograms": "nomo_tcga and nomo_g960 are separate unpenalized Cox models of GMSig4 plus clinical variables; their baselines exported only for provenance; cannot substitute for ridge baseline"
+  },
+  "reporting_issue": {
+    "file": "GMSig4_Prognostic_Validation_Summary.csv",
+    "column": "Continuous_HR_perSD",
+    "actual_estimand": "HR per one raw weighted-score unit; 19f uses coxph(y ~ risk_score) without scale(risk_score)"
+  },
+  "verification_passed": true,
+  "package_versions": {
+    "survival": "3.8.6",
+    "glmnet": "5.0",
+    "Matrix": "1.7.5",
+    "jsonlite": "2.0.0"
+  }
+}

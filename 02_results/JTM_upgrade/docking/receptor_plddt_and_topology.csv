@@ -1,0 +1,603 @@
+gene,uniprot_acc,resnum,resname,plddt,plddt_band,kept_in_21b_clean_pdb,kept_in_21b_pdbqt,uniprot_topology,is_transmembrane_or_intramembrane,uniprot_region_or_disordered,uniprot_functional_site,in_docking_contacts_csv,contacts_csv_min_dist_A,pose1_min_heavy_dist_A,pose2_min_heavy_dist_A,pose3_min_heavy_dist_A,dist_to_aligned_2D0T_HEM_A,dist_to_aligned_2D0T_PIM_A,dist_to_aligned_9FOH_A1IEE_A
+PEMT,Q9UBM1,1,MET,45.44,very_low_<50,False,False,Topological domain: Lumenal,False,,,False,,35.5605,28.346,28.9171,,,
+PEMT,Q9UBM1,2,THR,54.69,low_50_70,False,False,Topological domain: Lumenal,False,,,False,,39.5816,30.7731,32.0054,,,
+PEMT,Q9UBM1,3,ARG,62.53,low_50_70,True,True,Topological domain: Lumenal,False,,,False,,38.2501,28.1344,29.7542,,,
+PEMT,Q9UBM1,4,LEU,63.78,low_50_70,True,True,Topological domain: Lumenal,False,,,False,,32.5683,23.2544,24.4622,,,
+PEMT,Q9UBM1,5,LEU,66.25,low_50_70,True,True,Topological domain: Lumenal,False,,,False,,36.9175,27.2586,28.7722,,,
+PEMT,Q9UBM1,6,GLY,82.06,confident_70_90,True,True,Topological domain: Lumenal,False,,,False,,38.9394,27.81,29.8347,,,
+PEMT,Q9UBM1,7,TYR,85.31,confident_70_90,True,True,Topological domain: Lumenal,False,,,False,,35.1841,23.5932,25.8252,,,
+PEMT,Q9UBM1,8,VAL,89.69,confident_70_90,True,True,Topological domain: Lumenal,False,,,False,,32.3513,21.729,23.6368,,,
+PEMT,Q9UBM1,9,ASP,90.81,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,34.072,23.2017,25.4329,,,
+PEMT,Q9UBM1,10,PRO,90.19,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,32.7744,22.9489,24.9136,,,
+PEMT,Q9UBM1,11,LEU,91.38,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,34.9064,24.7581,26.8372,,,
+PEMT,Q9UBM1,12,ASP,93.5,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,32.6957,21.625,24.2229,,,
+PEMT,Q9UBM1,13,PRO,96.69,very_high_>=90,True,True,Intramembrane: Helical,True,,,False,,31.0676,20.1121,22.6713,,,
+PEMT,Q9UBM1,14,SER,96.94,very_high_>=90,True,True,Intramembrane: Helical,True,,,False,,28.943,17.3642,19.959,,,
+PEMT,Q9UBM1,15,PHE,97.25,very_high_>=90,True,True,Intramembrane: Helical,True,,,False,,27.8779,17.1865,19.4689,,,
+PEMT,Q9UBM1,16,VAL,97.56,very_high_>=90,True,True,Intramembrane: Helical,True,,,False,,27.0425,17.2911,19.4189,,,
+PEMT,Q9UBM1,17,ALA,98.06,very_high_>=90,True,True,Intramembrane: Helical,True,,,False,,25.0382,14.5927,17.0216,,,
+PEMT,Q9UBM1,18,ALA,98.38,very_high_>=90,True,True,Intramembrane: Helical,True,,,False,,23.0971,12.57,14.7845,,,
+PEMT,Q9UBM1,19,VAL,98.19,very_high_>=90,True,True,Intramembrane: Helical,True,,,False,,22.4173,13.7153,15.23,,,
+PEMT,Q9UBM1,20,ILE,98.31,very_high_>=90,True,True,Intramembrane: Helical,True,,,False,,21.3264,13.2125,14.4651,,,
+PEMT,Q9UBM1,21,THR,98.19,very_high_>=90,True,True,Intramembrane: Helical,True,,,False,,19.0567,9.7234,11.4627,,,
+PEMT,Q9UBM1,22,ILE,98.44,very_high_>=90,True,True,Intramembrane: Helical,True,,,False,,17.3758,9.0771,10.193,,,
+PEMT,Q9UBM1,23,THR,98.0,very_high_>=90,True,True,Intramembrane: Helical,True,,,False,,17.2121,10.8698,11.1246,,,
+PEMT,Q9UBM1,24,PHE,97.88,very_high_>=90,True,True,Intramembrane: Helical,True,,,False,,16.6735,10.2891,10.3076,,,
+PEMT,Q9UBM1,25,ASN,95.56,very_high_>=90,True,True,Intramembrane: Helical,True,,,False,,13.9226,6.2748,7.1932,,,
+PEMT,Q9UBM1,26,PRO,95.75,very_high_>=90,True,True,Intramembrane: Helical,True,,,False,,12.0407,6.5881,6.6203,,,
+PEMT,Q9UBM1,27,LEU,95.94,very_high_>=90,True,True,Intramembrane: Helical,True,,,False,,14.1691,8.6051,8.6102,,,
+PEMT,Q9UBM1,28,TYR,97.5,very_high_>=90,True,True,Intramembrane: Helical,True,,,False,,13.8366,8.7232,8.6714,,,
+PEMT,Q9UBM1,29,TRP,96.69,very_high_>=90,True,True,Intramembrane: Helical,True,,,False,,9.078,3.2617,3.2307,,,
+PEMT,Q9UBM1,30,ASN,95.75,very_high_>=90,True,True,Intramembrane: Helical,True,,,False,,8.9222,6.0812,6.0278,,,
+PEMT,Q9UBM1,31,VAL,96.31,very_high_>=90,True,True,Intramembrane: Helical,True,,,False,,12.8402,9.7897,9.702,,,
+PEMT,Q9UBM1,32,VAL,96.94,very_high_>=90,True,True,Intramembrane: Helical,True,,,False,,12.9891,10.8146,10.7153,,,
+PEMT,Q9UBM1,33,ALA,96.5,very_high_>=90,True,True,Intramembrane: Helical,True,,,False,,9.295,8.3032,8.1645,,,
+PEMT,Q9UBM1,34,ARG,95.62,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,10.7464,10.9188,10.7857,,,
+PEMT,Q9UBM1,35,TRP,96.38,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,13.95,13.5523,13.4243,,,
+PEMT,Q9UBM1,36,GLU,96.69,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,12.1444,13.6447,13.5085,,,
+PEMT,Q9UBM1,37,HIS,95.69,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,10.1564,13.9391,13.7916,,,
+PEMT,Q9UBM1,38,LYS,94.75,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,14.2936,16.497,16.3532,,,
+PEMT,Q9UBM1,39,THR,95.62,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,16.4187,18.4989,18.3661,,,
+PEMT,Q9UBM1,40,ARG,95.88,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,10.8867,16.4134,16.2667,,,
+PEMT,Q9UBM1,41,LYS,95.25,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,17.1386,19.2157,19.0818,,,
+PEMT,Q9UBM1,42,LEU,93.75,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,14.8963,14.2479,14.0143,,,
+PEMT,Q9UBM1,43,SER,95.88,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,13.0879,17.2191,17.0244,,,
+PEMT,Q9UBM1,44,ARG,95.88,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,17.5189,20.7368,20.4493,,,
+PEMT,Q9UBM1,45,ALA,95.75,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,19.6196,21.3258,20.9075,,,
+PEMT,Q9UBM1,46,PHE,94.94,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,17.2891,17.2207,16.7886,,,
+PEMT,Q9UBM1,47,GLY,94.94,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,18.0529,21.8544,21.5763,,,
+PEMT,Q9UBM1,48,SER,95.5,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,14.3182,17.6968,17.5029,,,
+PEMT,Q9UBM1,49,PRO,95.62,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,10.7826,14.5203,14.3937,,,
+PEMT,Q9UBM1,50,TYR,96.81,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,9.7187,14.1127,13.9791,,,
+PEMT,Q9UBM1,51,LEU,96.81,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,13.5602,14.9404,14.6549,,,
+PEMT,Q9UBM1,52,ALA,96.69,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,12.4176,12.7055,12.3666,,,
+PEMT,Q9UBM1,53,CYS,97.25,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,7.6996,9.8039,9.7097,,,
+PEMT,Q9UBM1,54,TYR,97.12,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,10.7575,11.2343,10.9182,,,
+PEMT,Q9UBM1,55,SER,96.5,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,14.0631,11.7824,11.3018,,,
+PEMT,Q9UBM1,56,LEU,96.44,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,10.792,8.4316,8.0682,,,
+PEMT,Q9UBM1,57,SER,97.31,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,10.3205,7.4662,7.0812,,,
+PEMT,Q9UBM1,58,VAL,97.88,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,14.4836,9.5142,9.11,,,
+PEMT,Q9UBM1,59,THR,97.62,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,15.8609,9.4498,8.8531,,,
+PEMT,Q9UBM1,60,ILE,97.5,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,11.0432,4.5851,3.9547,,,
+PEMT,Q9UBM1,61,LEU,97.0,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,15.1473,4.447,4.2071,,,
+PEMT,Q9UBM1,62,LEU,98.12,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,18.442,8.9526,8.603,,,
+PEMT,Q9UBM1,63,LEU,97.94,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,17.2367,8.3522,9.035,,,
+PEMT,Q9UBM1,64,ASN,97.56,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,14.1101,3.4183,3.6154,,,
+PEMT,Q9UBM1,65,PHE,97.88,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,19.6173,7.137,7.6716,,,
+PEMT,Q9UBM1,66,LEU,98.31,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,21.8458,10.4459,11.1356,,,
+PEMT,Q9UBM1,67,ARG,98.19,very_high_>=90,True,True,Topological domain: Cytoplasmic,False,,,False,,15.4153,3.1553,5.7487,,,
+PEMT,Q9UBM1,68,SER,98.0,very_high_>=90,True,True,Topological domain: Cytoplasmic,False,,,False,,20.607,7.2549,8.3482,,,
+PEMT,Q9UBM1,69,HIS,98.31,very_high_>=90,True,True,Topological domain: Cytoplasmic,False,,,False,,24.2841,11.3405,12.4872,,,
+PEMT,Q9UBM1,70,CYS,98.5,very_high_>=90,True,True,Topological domain: Cytoplasmic,False,,,False,,25.5584,13.1427,15.0097,,,
+PEMT,Q9UBM1,71,PHE,98.56,very_high_>=90,True,True,Topological domain: Cytoplasmic,False,,,False,,23.3729,10.8921,13.351,,,
+PEMT,Q9UBM1,72,THR,98.19,very_high_>=90,True,True,Topological domain: Cytoplasmic,False,,,False,,26.6367,13.1283,14.0989,,,
+PEMT,Q9UBM1,73,GLN,98.19,very_high_>=90,True,True,Topological domain: Cytoplasmic,False,,,False,,29.2279,16.1047,17.7624,,,
+PEMT,Q9UBM1,74,ALA,97.88,very_high_>=90,True,True,Topological domain: Cytoplasmic,False,,,False,,29.0199,16.7689,19.3528,,,
+PEMT,Q9UBM1,75,MET,96.25,very_high_>=90,True,True,Topological domain: Cytoplasmic,False,,,False,,28.9192,15.9155,17.6302,,,
+PEMT,Q9UBM1,76,LEU,95.5,very_high_>=90,True,True,Topological domain: Cytoplasmic,False,,,False,,32.2679,19.1483,20.0472,,,
+PEMT,Q9UBM1,77,SER,95.31,very_high_>=90,True,True,Topological domain: Cytoplasmic,False,,,False,,33.6787,21.2005,23.3214,,,
+PEMT,Q9UBM1,78,GLN,94.5,very_high_>=90,True,True,Topological domain: Cytoplasmic,False,,,False,,33.7629,21.6485,24.155,,,
+PEMT,Q9UBM1,79,PRO,94.19,very_high_>=90,True,True,Topological domain: Cytoplasmic,False,,,False,,36.0718,23.8613,26.1394,,,
+PEMT,Q9UBM1,80,ARG,94.06,very_high_>=90,True,True,Topological domain: Cytoplasmic,False,,,False,,36.2289,22.8984,23.6872,,,
+PEMT,Q9UBM1,81,MET,93.19,very_high_>=90,True,True,Topological domain: Cytoplasmic,False,,,False,,33.9248,24.354,25.9783,,,
+PEMT,Q9UBM1,82,GLU,91.94,very_high_>=90,True,True,Topological domain: Cytoplasmic,False,,,False,,38.75,27.6956,29.5163,,,
+PEMT,Q9UBM1,83,SER,92.38,very_high_>=90,True,True,Topological domain: Cytoplasmic,False,,,False,,36.6182,27.436,29.0242,,,
+PEMT,Q9UBM1,84,LEU,93.56,very_high_>=90,True,True,Topological domain: Cytoplasmic,False,,,False,,31.4665,21.4513,23.1532,,,
+PEMT,Q9UBM1,85,ASP,94.81,very_high_>=90,True,True,Topological domain: Cytoplasmic,False,,,False,,36.0956,25.7524,26.3785,,,
+PEMT,Q9UBM1,86,THR,96.94,very_high_>=90,True,True,Topological domain: Cytoplasmic,False,,,False,,34.6199,25.3897,25.8401,,,
+PEMT,Q9UBM1,87,PRO,97.5,very_high_>=90,True,True,Topological domain: Cytoplasmic,False,,,False,,33.6293,25.224,25.2652,,,
+PEMT,Q9UBM1,88,ALA,97.81,very_high_>=90,True,True,Topological domain: Cytoplasmic,False,,,False,,31.16,23.761,24.1354,,,
+PEMT,Q9UBM1,89,ALA,97.56,very_high_>=90,True,True,Topological domain: Cytoplasmic,False,,,False,,29.6858,21.0018,21.5982,,,
+PEMT,Q9UBM1,90,TYR,98.0,very_high_>=90,True,True,Topological domain: Cytoplasmic,False,,,False,,29.4637,20.0966,20.2368,,,
+PEMT,Q9UBM1,91,SER,98.31,very_high_>=90,True,True,Topological domain: Cytoplasmic,False,,,False,,27.7792,20.2812,20.2232,,,
+PEMT,Q9UBM1,92,LEU,98.25,very_high_>=90,True,True,Topological domain: Cytoplasmic,False,,,False,,25.2626,18.0504,18.3743,,,
+PEMT,Q9UBM1,93,GLY,98.5,very_high_>=90,True,True,Topological domain: Cytoplasmic,False,,,False,,24.7362,15.7459,15.7554,,,
+PEMT,Q9UBM1,94,LEU,98.5,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,24.2773,15.6217,15.5361,,,
+PEMT,Q9UBM1,95,ALA,98.62,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,21.7275,15.6045,15.4081,,,
+PEMT,Q9UBM1,96,LEU,98.62,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,19.8278,12.6094,12.541,,,
+PEMT,Q9UBM1,97,LEU,98.25,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,20.257,10.6593,10.7322,,,
+PEMT,Q9UBM1,98,GLY,98.56,very_high_>=90,True,True,Transmembrane: Helical,True,,Binding site: S-adenosyl-L-methionine; Mutagenesis: Impairs binding to S-adenosyl-L-methionine.,False,,19.1297,12.1018,11.8026,,,
+PEMT,Q9UBM1,99,LEU,98.44,very_high_>=90,True,True,Transmembrane: Helical,True,,Binding site: S-adenosyl-L-methionine,False,,16.0788,11.5114,10.9986,,,
+PEMT,Q9UBM1,100,GLY,98.56,very_high_>=90,True,True,Transmembrane: Helical,True,,Binding site: S-adenosyl-L-methionine; Mutagenesis: Abolishes binding to S-adenosyl-L-methionine.,False,,15.4051,8.1088,7.641,,,
+PEMT,Q9UBM1,101,VAL,98.5,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,16.1146,8.1531,7.7104,,,
+PEMT,Q9UBM1,102,VAL,98.56,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,14.064,10.1052,9.7023,,,
+PEMT,Q9UBM1,103,LEU,98.44,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,11.2257,8.9034,7.908,,,
+PEMT,Q9UBM1,104,VAL,98.12,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,12.0148,3.9116,3.3553,,,
+PEMT,Q9UBM1,105,LEU,98.12,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,12.7547,6.576,6.1661,,,
+PEMT,Q9UBM1,106,SER,98.0,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,10.2301,9.7716,9.1684,,,
+PEMT,Q9UBM1,107,SER,97.56,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,7.9318,8.3532,7.6313,,,
+PEMT,Q9UBM1,108,PHE,97.12,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,9.5399,5.7207,5.9193,,,
+PEMT,Q9UBM1,109,PHE,97.06,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,10.3038,9.5366,9.7382,,,
+PEMT,Q9UBM1,110,ALA,96.19,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,7.1525,11.8045,12.078,,,
+PEMT,Q9UBM1,111,LEU,95.56,very_high_>=90,True,True,Transmembrane: Helical,True,,,True,3.3086,3.3086,7.7801,8.3035,,,
+PEMT,Q9UBM1,112,GLY,95.31,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,7.2942,8.5192,8.9341,,,
+PEMT,Q9UBM1,113,PHE,95.31,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,7.313,7.3797,7.6077,,,
+PEMT,Q9UBM1,114,ALA,94.56,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,4.2427,8.0989,8.3477,,,
+PEMT,Q9UBM1,115,GLY,94.31,very_high_>=90,True,True,Topological domain: Lumenal,False,,,True,3.5927,3.5927,6.8323,7.3282,,,
+PEMT,Q9UBM1,116,THR,95.69,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,5.5265,3.1856,3.6228,,,
+PEMT,Q9UBM1,117,PHE,95.44,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,6.3932,3.7629,3.5226,,,
+PEMT,Q9UBM1,118,LEU,94.81,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,4.7306,3.9326,3.7975,,,
+PEMT,Q9UBM1,119,GLY,95.88,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,4.0941,8.4682,8.588,,,
+PEMT,Q9UBM1,120,ASP,95.81,very_high_>=90,True,True,Topological domain: Lumenal,False,,,True,3.2161,3.2161,8.7296,8.5958,,,
+PEMT,Q9UBM1,121,TYR,96.19,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,5.1767,8.1985,8.0558,,,
+PEMT,Q9UBM1,122,PHE,96.5,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,7.3993,10.4755,10.2643,,,
+PEMT,Q9UBM1,123,GLY,93.31,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,7.4855,14.6029,14.4598,,,
+PEMT,Q9UBM1,124,ILE,93.75,very_high_>=90,True,True,Topological domain: Lumenal,False,,,True,3.9256,3.9256,13.0695,13.3304,,,
+PEMT,Q9UBM1,125,LEU,93.0,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,5.4043,14.6187,14.4875,,,
+PEMT,Q9UBM1,126,LYS,89.44,confident_70_90,True,True,Topological domain: Lumenal,False,,,True,3.7874,3.7874,12.4261,12.9654,,,
+PEMT,Q9UBM1,127,GLU,88.38,confident_70_90,True,True,Topological domain: Lumenal,False,,,False,,7.6156,18.0134,18.3335,,,
+PEMT,Q9UBM1,128,ALA,88.0,confident_70_90,True,True,Topological domain: Lumenal,False,,,False,,5.7606,16.3003,16.5146,,,
+PEMT,Q9UBM1,129,ARG,87.94,confident_70_90,True,True,Topological domain: Lumenal,False,,,True,2.9908,2.9908,14.2701,14.0096,,,
+PEMT,Q9UBM1,130,VAL,90.94,very_high_>=90,True,True,Topological domain: Lumenal,False,,,True,3.7384,3.7384,13.6355,14.1961,,,
+PEMT,Q9UBM1,131,THR,92.94,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,5.8211,16.8119,16.6764,,,
+PEMT,Q9UBM1,132,VAL,94.75,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,7.8675,16.0523,15.1639,,,
+PEMT,Q9UBM1,133,PHE,96.56,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,9.7761,14.8359,14.2591,,,
+PEMT,Q9UBM1,134,PRO,97.38,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,7.9425,12.3117,11.0395,,,
+PEMT,Q9UBM1,135,PHE,96.25,very_high_>=90,True,True,Topological domain: Lumenal,False,,,True,3.4568,3.4568,10.1338,9.5919,,,
+PEMT,Q9UBM1,136,ASN,96.19,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,7.5934,17.3041,15.6015,,,
+PEMT,Q9UBM1,137,ILE,95.75,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,9.1938,17.4847,15.253,,,
+PEMT,Q9UBM1,138,LEU,94.38,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,6.0088,12.9088,10.8116,,,
+PEMT,Q9UBM1,139,ASP,93.75,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,4.6948,11.7705,9.5294,,,
+PEMT,Q9UBM1,140,ASN,95.38,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,4.5316,8.5383,6.2329,,,
+PEMT,Q9UBM1,141,PRO,97.38,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,5.8222,8.5386,6.5802,,,
+PEMT,Q9UBM1,142,MET,96.62,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,6.0857,4.3373,3.4651,,,
+PEMT,Q9UBM1,143,TYR,97.56,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,7.2038,2.8983,2.9334,,,
+PEMT,Q9UBM1,144,TRP,98.06,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,10.1051,7.8304,5.9813,,,
+PEMT,Q9UBM1,145,GLY,98.31,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,12.868,6.8702,6.8004,,,
+PEMT,Q9UBM1,146,SER,97.94,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,14.4288,3.0709,4.291,,,
+PEMT,Q9UBM1,147,THR,98.5,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,15.5941,6.4585,7.0653,,,
+PEMT,Q9UBM1,148,ALA,98.5,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,17.3114,9.0739,9.674,,,
+PEMT,Q9UBM1,149,ASN,98.62,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,17.9616,6.7072,6.6504,,,
+PEMT,Q9UBM1,150,TYR,98.56,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,18.6265,5.6458,8.0162,,,
+PEMT,Q9UBM1,151,LEU,98.69,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,21.714,11.2165,12.7481,,,
+PEMT,Q9UBM1,152,GLY,98.56,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,23.093,13.1274,14.285,,,
+PEMT,Q9UBM1,153,TRP,98.31,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,24.8383,12.6241,13.5622,,,
+PEMT,Q9UBM1,154,ALA,98.31,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,26.4598,14.5145,16.0847,,,
+PEMT,Q9UBM1,155,ILE,98.25,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,26.0084,16.8545,18.3592,,,
+PEMT,Q9UBM1,156,MET,97.75,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,27.5683,16.2148,16.3611,,,
+PEMT,Q9UBM1,157,HIS,97.31,very_high_>=90,True,True,Topological domain: Lumenal,False,,,False,,30.1431,17.2487,17.59,,,
+PEMT,Q9UBM1,158,ALA,97.12,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,32.4712,20.7913,22.1737,,,
+PEMT,Q9UBM1,159,SER,97.06,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,30.0852,18.5632,20.6301,,,
+PEMT,Q9UBM1,160,PRO,96.19,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,29.9318,19.0293,20.8186,,,
+PEMT,Q9UBM1,161,THR,96.94,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,27.9854,16.5329,18.5813,,,
+PEMT,Q9UBM1,162,GLY,97.94,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,25.5757,14.1193,16.0709,,,
+PEMT,Q9UBM1,163,LEU,97.75,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,25.1644,15.3416,16.5966,,,
+PEMT,Q9UBM1,164,LEU,97.12,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,24.8163,15.1429,16.3209,,,
+PEMT,Q9UBM1,165,LEU,98.19,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,22.1153,11.6639,13.1497,,,
+PEMT,Q9UBM1,166,THR,98.56,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,20.3794,11.1791,11.9169,,,
+PEMT,Q9UBM1,167,VAL,98.38,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,20.5335,13.0912,13.2101,,,
+PEMT,Q9UBM1,168,LEU,98.31,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,19.0602,11.4275,11.7205,,,
+PEMT,Q9UBM1,169,VAL,98.56,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,16.3181,6.9092,7.966,,,
+PEMT,Q9UBM1,170,ALA,98.38,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,15.7774,9.9651,9.8955,,,
+PEMT,Q9UBM1,171,LEU,98.31,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,16.368,12.0897,11.505,,,
+PEMT,Q9UBM1,172,THR,98.12,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,13.8952,9.3437,9.2469,,,
+PEMT,Q9UBM1,173,TYR,98.0,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,11.533,2.9067,4.2794,,,
+PEMT,Q9UBM1,174,ILE,97.75,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,12.7715,10.2718,9.2992,,,
+PEMT,Q9UBM1,175,VAL,97.5,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,12.654,10.5326,10.5486,,,
+PEMT,Q9UBM1,176,ALA,96.56,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,9.3808,6.9319,6.9558,,,
+PEMT,Q9UBM1,177,LEU,95.81,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,7.1931,7.3981,7.4169,,,
+PEMT,Q9UBM1,178,LEU,95.44,very_high_>=90,True,True,Transmembrane: Helical,True,,,False,,10.9166,10.9533,10.9439,,,
+PEMT,Q9UBM1,179,TYR,92.81,very_high_>=90,True,True,Topological domain: Cytoplasmic,False,,,False,,9.0393,10.3789,10.3065,,,
+PEMT,Q9UBM1,180,GLU,92.81,very_high_>=90,True,True,Topological domain: Cytoplasmic,False,,Binding site: S-adenosyl-L-methionine; Mutagenesis: Abolishes binding to S-adenosyl-L-methionine.,False,,4.1019,4.1161,4.0445,,,
+PEMT,Q9UBM1,181,GLU,93.5,very_high_>=90,True,True,Topological domain: Cytoplasmic,False,,Binding site: S-adenosyl-L-methionine; Mutagenesis: Impairs binding to S-adenosyl-L-methionine.,False,,6.4339,9.8008,9.7354,,,
+PEMT,Q9UBM1,182,PRO,94.88,very_high_>=90,True,True,Topological domain: Cytoplasmic,False,,,False,,8.5682,12.6853,12.6205,,,
+PEMT,Q9UBM1,183,PHE,94.12,very_high_>=90,True,True,Topological domain: Cytoplasmic,False,,,False,,7.4433,11.9464,11.814,,,
+PEMT,Q9UBM1,184,THR,93.94,very_high_>=90,True,True,Topological domain: Cytoplasmic,False,,,True,3.3631,3.3631,9.2088,9.0929,,,
+PEMT,Q9UBM1,185,ALA,93.31,very_high_>=90,True,True,Topological domain: Cytoplasmic,False,,,False,,6.9282,13.4225,13.3213,,,
+PEMT,Q9UBM1,186,GLU,93.5,very_high_>=90,True,True,Topological domain: Cytoplasmic,False,,,False,,9.5041,15.7839,15.6733,,,
+PEMT,Q9UBM1,187,ILE,92.94,very_high_>=90,True,True,Topological domain: Cytoplasmic,False,,,False,,7.474,12.5409,12.4,,,
+PEMT,Q9UBM1,188,TYR,92.31,very_high_>=90,True,True,Topological domain: Cytoplasmic,False,,,True,3.218,3.218,13.1783,13.0684,,,
+PEMT,Q9UBM1,189,ARG,92.25,very_high_>=90,True,True,Topological domain: Cytoplasmic,False,,,False,,11.2759,18.6295,18.5144,,,
+PEMT,Q9UBM1,190,GLN,89.75,confident_70_90,True,True,Topological domain: Cytoplasmic,False,,,False,,13.1845,19.4929,19.3534,,,
+PEMT,Q9UBM1,191,LYS,87.5,confident_70_90,True,True,Topological domain: Cytoplasmic,False,,,False,,9.0271,19.1348,19.1058,,,
+PEMT,Q9UBM1,192,ALA,87.06,confident_70_90,True,True,Topological domain: Cytoplasmic,False,,,False,,13.3475,21.9759,21.8556,,,
+PEMT,Q9UBM1,193,SER,85.69,confident_70_90,True,True,Topological domain: Cytoplasmic,False,,,False,,16.1095,24.3045,24.1827,,,
+PEMT,Q9UBM1,194,GLY,72.31,confident_70_90,True,True,Topological domain: Cytoplasmic,False,,,False,,17.1378,25.6491,25.5206,,,
+PEMT,Q9UBM1,195,SER,58.72,low_50_70,False,False,Topological domain: Cytoplasmic,False,,,False,,16.216,23.5312,23.3936,,,
+PEMT,Q9UBM1,196,HIS,50.75,low_50_70,False,False,Topological domain: Cytoplasmic,False,,,False,,12.2777,20.0387,19.8931,,,
+PEMT,Q9UBM1,197,LYS,46.28,very_low_<50,False,False,Topological domain: Cytoplasmic,False,,,False,,17.4826,26.0955,25.9545,,,
+PEMT,Q9UBM1,198,ARG,37.78,very_low_<50,False,False,Topological domain: Cytoplasmic,False,,,False,,19.6284,27.7781,27.63,,,
+PEMT,Q9UBM1,199,SER,37.25,very_low_<50,False,False,Topological domain: Cytoplasmic,False,,,False,,19.9632,27.4126,27.2633,,,
+IDO1,P14902,1,MET,33.38,very_low_<50,False,False,Cytoplasmic,False,,,False,,30.3745,27.9671,28.6073,29.5743,35.2006,30.7355
+IDO1,P14902,2,ALA,41.97,very_low_<50,False,False,Cytoplasmic,False,,,False,,27.4136,24.4681,25.1501,26.168,32.4636,27.5222
+IDO1,P14902,3,HIS,50.53,low_50_70,False,False,Cytoplasmic,False,,,False,,25.1533,23.0664,23.3113,25.4022,30.8906,25.6178
+IDO1,P14902,4,ALA,52.25,low_50_70,False,False,Cytoplasmic,False,,,False,,24.9428,22.8596,22.7889,25.753,31.3092,25.4002
+IDO1,P14902,5,MET,56.62,low_50_70,False,False,Cytoplasmic,False,,,False,,18.3093,17.0106,17.0155,19.7007,24.3641,19.0074
+IDO1,P14902,6,GLU,50.28,low_50_70,False,False,Cytoplasmic,False,,,False,,24.5424,23.1502,22.722,26.4419,30.9158,25.2498
+IDO1,P14902,7,ASN,55.31,low_50_70,False,False,Cytoplasmic,False,,,False,,21.7723,20.9554,20.4273,24.1792,28.0127,22.756
+IDO1,P14902,8,SER,56.62,low_50_70,False,False,Cytoplasmic,False,,,False,,19.5947,19.4491,18.6911,21.8935,25.4744,20.6716
+IDO1,P14902,9,TRP,54.09,low_50_70,False,False,Cytoplasmic,False,,,False,,21.7731,21.5104,20.7644,24.0457,26.8648,22.8396
+IDO1,P14902,10,THR,66.31,low_50_70,True,True,Cytoplasmic,False,,,False,,20.7358,21.0818,20.5944,23.1314,25.7772,21.8682
+IDO1,P14902,11,ILE,74.56,confident_70_90,True,True,Cytoplasmic,False,,,False,,16.0391,15.8734,15.3877,18.4574,21.91,17.162
+IDO1,P14902,12,SER,74.94,confident_70_90,True,True,Cytoplasmic,False,,,False,,18.083,19.2153,18.6332,20.2425,22.0629,19.156
+IDO1,P14902,13,LYS,81.31,confident_70_90,True,True,Cytoplasmic,False,,,False,,19.9742,21.3759,20.8194,22.1951,23.9934,21.0644
+IDO1,P14902,14,GLU,87.81,confident_70_90,True,True,Cytoplasmic,False,,,False,,19.2395,20.5021,20.3276,21.5667,22.9286,20.3563
+IDO1,P14902,15,TYR,94.75,very_high_>=90,True,True,Cytoplasmic,False,,,False,,14.8871,16.3792,16.6251,17.1462,18.7193,15.9828
+IDO1,P14902,16,HIS,94.75,very_high_>=90,True,True,Cytoplasmic,False,,,False,,13.7337,15.6633,16.0422,15.7839,17.1412,14.7696
+IDO1,P14902,17,ILE,95.62,very_high_>=90,True,True,Cytoplasmic,False,,,False,,12.5932,13.6344,13.0321,14.8845,18.0564,13.6863
+IDO1,P14902,18,ASP,95.38,very_high_>=90,True,True,Cytoplasmic,False,,,False,,13.3839,14.8833,13.7985,15.2924,18.1403,14.3324
+IDO1,P14902,19,GLU,93.0,very_high_>=90,True,True,Cytoplasmic,False,,,False,,14.5962,15.3189,13.9384,16.251,20.0773,15.4086
+IDO1,P14902,20,GLU,94.56,very_high_>=90,True,True,Cytoplasmic,False,,,False,,12.6178,14.4017,12.8797,13.8207,17.1792,13.2512
+IDO1,P14902,21,VAL,97.0,very_high_>=90,True,True,Cytoplasmic,False,,,False,,9.4896,11.7646,11.4753,10.9855,13.5931,10.2811
+IDO1,P14902,22,GLY,96.88,very_high_>=90,True,True,Cytoplasmic,False,,,False,,10.1355,12.0737,11.2042,12.1143,14.8577,11.1278
+IDO1,P14902,23,PHE,98.06,very_high_>=90,True,True,Cytoplasmic,False,,,False,,7.4274,8.8285,8.7041,9.8517,12.4987,8.5643
+IDO1,P14902,24,ALA,98.44,very_high_>=90,True,True,Cytoplasmic,False,,,False,,9.379,11.6175,12.5664,10.8573,11.6851,10.2277
+IDO1,P14902,25,LEU,98.06,very_high_>=90,True,True,Cytoplasmic,False,,,False,,12.2286,14.429,15.942,13.3952,13.1254,12.9256
+IDO1,P14902,26,PRO,97.25,very_high_>=90,True,True,Cytoplasmic,False,,,False,,15.0681,17.3408,18.1719,16.2451,16.2568,15.7754
+IDO1,P14902,27,ASN,97.38,very_high_>=90,True,True,Cytoplasmic,False,,,False,,16.9466,19.287,19.9363,17.7922,17.3704,17.5565
+IDO1,P14902,28,PRO,98.25,very_high_>=90,True,True,Cytoplasmic,False,,,False,,15.1329,17.715,19.4418,16.0067,13.9554,15.161
+IDO1,P14902,29,GLN,98.31,very_high_>=90,True,True,Cytoplasmic,False,,,False,,19.5695,22.0768,23.9753,20.46,16.7995,17.6129
+IDO1,P14902,30,GLU,98.56,very_high_>=90,True,True,Cytoplasmic,False,,,False,,21.1131,23.9753,25.6661,21.8966,18.4101,19.3191
+IDO1,P14902,31,ASN,98.44,very_high_>=90,True,True,Cytoplasmic,False,,,False,,23.7597,26.4638,28.4902,24.5926,20.1595,20.7464
+IDO1,P14902,32,LEU,98.56,very_high_>=90,True,True,Cytoplasmic,False,,,False,,24.4785,26.772,28.8814,25.3589,19.9933,18.7948
+IDO1,P14902,33,PRO,98.0,very_high_>=90,True,True,Cytoplasmic,False,,,False,,28.2431,30.5606,32.7151,29.1371,24.2738,23.4924
+IDO1,P14902,34,ASP,98.0,very_high_>=90,True,True,Cytoplasmic,False,,,False,,31.887,34.367,36.438,32.7451,27.4296,26.6557
+IDO1,P14902,35,PHE,98.38,very_high_>=90,True,True,Cytoplasmic,False,,,False,,32.2949,34.5993,36.6003,33.132,27.0686,25.4468
+IDO1,P14902,36,TYR,98.69,very_high_>=90,True,True,Cytoplasmic,False,,,False,,28.722,31.0246,33.0171,29.5564,23.242,21.8503
+IDO1,P14902,37,ASN,98.44,very_high_>=90,True,True,Cytoplasmic,False,,,False,,30.0697,32.6348,34.4,30.7485,24.1808,23.0345
+IDO1,P14902,38,ASP,98.62,very_high_>=90,True,True,Cytoplasmic,False,,,False,,29.4625,31.885,33.544,29.0803,23.0329,21.3311
+IDO1,P14902,39,TRP,98.81,very_high_>=90,True,True,Cytoplasmic,False,,,False,,26.0512,28.4992,30.1842,26.1186,19.7547,18.2969
+IDO1,P14902,40,MET,98.75,very_high_>=90,True,True,Cytoplasmic,False,,,False,,24.2414,26.9408,28.8124,25.0163,19.2997,18.7985
+IDO1,P14902,41,PHE,98.75,very_high_>=90,True,True,Cytoplasmic,False,,,False,,27.4601,30.0224,31.6102,26.4072,21.1015,20.3668
+IDO1,P14902,42,ILE,98.81,very_high_>=90,True,True,Cytoplasmic,False,,,False,,25.3171,27.6751,29.2476,23.8023,18.5692,17.5295
+IDO1,P14902,43,ALA,98.75,very_high_>=90,True,True,Cytoplasmic,False,,,False,,22.302,24.8292,26.407,21.3458,15.9296,15.4698
+IDO1,P14902,44,LYS,98.5,very_high_>=90,True,True,Cytoplasmic,False,,,False,,24.0003,26.6411,28.2328,22.682,17.8679,17.5395
+IDO1,P14902,45,HIS,98.62,very_high_>=90,True,True,Cytoplasmic,False,,,False,,25.2936,27.8369,29.3864,22.929,18.969,18.5867
+IDO1,P14902,46,LEU,98.75,very_high_>=90,True,True,Cytoplasmic,False,,,False,,21.2364,23.387,24.9376,19.5092,14.1864,13.0641
+IDO1,P14902,47,PRO,98.5,very_high_>=90,True,True,Cytoplasmic,False,,,False,,22.5563,24.7881,26.201,18.7793,16.2729,16.701
+IDO1,P14902,48,ASP,98.5,very_high_>=90,True,True,Cytoplasmic,False,,,False,,26.5467,28.6634,30.0716,22.2656,19.9537,19.899
+IDO1,P14902,49,LEU,98.69,very_high_>=90,True,True,Cytoplasmic,False,,,False,,28.1579,30.2092,31.6517,24.12,21.2405,20.0751
+IDO1,P14902,50,ILE,98.44,very_high_>=90,True,True,Cytoplasmic,False,,,False,,23.3689,25.0205,26.4234,19.0602,15.884,14.7783
+IDO1,P14902,51,GLU,97.62,very_high_>=90,True,True,Cytoplasmic,False,,,False,,28.0126,29.443,30.6328,21.1664,20.9351,20.1916
+IDO1,P14902,52,SER,97.81,very_high_>=90,True,True,Cytoplasmic,False,,,False,,30.8144,32.5223,33.8541,25.2673,23.786,22.9843
+IDO1,P14902,53,GLY,97.31,very_high_>=90,True,True,Cytoplasmic,False,,,False,,31.6676,33.2562,34.6027,26.3131,24.2393,22.9494
+IDO1,P14902,54,GLN,98.5,very_high_>=90,True,True,Cytoplasmic,False,,,False,,31.7918,33.5748,35.0351,27.7268,24.1959,22.4114
+IDO1,P14902,55,LEU,98.69,very_high_>=90,True,True,Cytoplasmic,False,,,False,,25.9215,27.5743,29.0328,22.5702,18.1266,16.2239
+IDO1,P14902,56,ARG,98.69,very_high_>=90,True,True,Cytoplasmic,False,,,False,,28.5486,29.3968,30.6597,21.7546,20.3039,17.8608
+IDO1,P14902,57,GLU,98.5,very_high_>=90,True,True,Cytoplasmic,False,,,False,,33.1234,34.7256,36.1873,28.9897,25.2197,22.8643
+IDO1,P14902,58,ARG,98.56,very_high_>=90,True,True,Cytoplasmic,False,,,False,,31.8485,33.8675,35.4109,29.3903,24.4851,22.3655
+IDO1,P14902,59,VAL,98.75,very_high_>=90,True,True,Cytoplasmic,False,,,False,,28.3565,30.1527,31.6869,25.1943,20.7077,18.2117
+IDO1,P14902,60,GLU,98.62,very_high_>=90,True,True,Cytoplasmic,False,,,False,,32.7715,34.4532,35.9689,27.8729,25.0162,22.2615
+IDO1,P14902,61,LYS,98.38,very_high_>=90,True,True,Cytoplasmic,False,,,False,,35.0788,36.881,38.4198,31.5962,27.4773,24.7828
+IDO1,P14902,62,LEU,98.44,very_high_>=90,True,True,Cytoplasmic,False,,,False,,30.0251,32.0713,33.6631,27.7657,22.9494,20.3924
+IDO1,P14902,63,ASN,98.12,very_high_>=90,True,True,Cytoplasmic,False,,,False,,33.6477,35.5867,37.3207,31.5063,26.9938,24.228
+IDO1,P14902,64,MET,98.5,very_high_>=90,True,True,Cytoplasmic,False,,,False,,33.4444,35.0002,36.7715,30.5334,27.0083,23.8325
+IDO1,P14902,65,LEU,98.62,very_high_>=90,True,True,Cytoplasmic,False,,,False,,31.4889,33.2421,35.1633,30.0382,25.6924,22.9141
+IDO1,P14902,66,SER,98.25,very_high_>=90,True,True,Cytoplasmic,False,,,False,,31.3631,33.1832,35.2328,30.9227,26.328,23.8692
+IDO1,P14902,67,ILE,98.5,very_high_>=90,True,True,Cytoplasmic,False,,,False,,28.1911,29.7586,31.769,27.2048,23.0937,20.3881
+IDO1,P14902,68,ASP,97.94,very_high_>=90,True,True,Cytoplasmic,False,,,False,,31.5455,33.1898,35.3163,31.5788,27.1533,24.7445
+IDO1,P14902,69,HIS,97.81,very_high_>=90,True,True,Cytoplasmic,False,,,False,,29.9741,31.9713,34.188,30.894,26.2392,24.736
+IDO1,P14902,70,LEU,98.31,very_high_>=90,True,True,Cytoplasmic,False,,,False,,25.9449,27.7586,29.8814,26.6273,21.5821,19.5399
+IDO1,P14902,71,THR,97.5,very_high_>=90,True,True,Cytoplasmic,False,,,False,,27.9952,29.8846,32.1159,29.1289,25.4977,24.2427
+IDO1,P14902,72,ASP,97.88,very_high_>=90,True,True,Cytoplasmic,False,,,False,,24.1753,26.0479,28.2672,25.2456,21.8583,20.9832
+IDO1,P14902,73,HIS,97.5,very_high_>=90,True,True,Cytoplasmic,False,,,False,,17.8882,19.7524,21.795,19.3454,17.4929,17.1793
+IDO1,P14902,74,LYS,98.19,very_high_>=90,True,True,Cytoplasmic,False,,,False,,20.1551,22.3724,23.5545,21.2242,17.8776,17.6661
+IDO1,P14902,75,SER,98.5,very_high_>=90,True,True,Cytoplasmic,False,,,False,,22.7739,24.8319,27.0358,23.6984,19.0422,18.0228
+IDO1,P14902,76,GLN,98.75,very_high_>=90,True,True,Cytoplasmic,False,,,False,,20.9172,22.7114,24.8653,21.815,17.0372,15.4467
+IDO1,P14902,77,ARG,98.75,very_high_>=90,True,True,Cytoplasmic,False,,,False,,13.2609,15.063,17.3441,14.3252,11.8749,12.0129
+IDO1,P14902,78,LEU,98.88,very_high_>=90,True,True,Cytoplasmic,False,,,False,,19.3658,21.5182,23.6839,20.2705,15.1739,14.172
+IDO1,P14902,79,ALA,98.88,very_high_>=90,True,True,Cytoplasmic,False,,,False,,21.3584,23.3965,25.3976,21.7329,16.2669,14.1619
+IDO1,P14902,80,ARG,98.81,very_high_>=90,True,True,Cytoplasmic,False,,,False,,14.9703,16.2923,18.3114,15.0396,11.0446,8.9376
+IDO1,P14902,81,LEU,98.88,very_high_>=90,True,True,Cytoplasmic,False,,,False,,15.3553,17.7738,19.5694,16.1062,9.7344,9.4533
+IDO1,P14902,82,VAL,98.94,very_high_>=90,True,True,Cytoplasmic,False,,,False,,19.6292,21.8853,23.7356,20.2612,13.8932,12.4559
+IDO1,P14902,83,LEU,98.94,very_high_>=90,True,True,Cytoplasmic,False,,,False,,21.3555,23.2227,24.8718,19.36,14.5201,11.8238
+IDO1,P14902,84,GLY,98.88,very_high_>=90,True,True,Cytoplasmic,False,,,False,,19.0395,20.8545,22.4254,16.3704,11.7122,8.9268
+IDO1,P14902,85,CYS,98.81,very_high_>=90,True,True,Cytoplasmic,False,,,False,,17.0699,19.3296,20.9345,17.019,10.3108,9.2902
+IDO1,P14902,86,ILE,98.88,very_high_>=90,True,True,Cytoplasmic,False,,,False,,21.4913,23.4551,25.0309,19.5363,14.1825,11.969
+IDO1,P14902,87,THR,98.94,very_high_>=90,True,True,Cytoplasmic,False,,,False,,22.1814,23.5283,24.9947,17.6402,14.1718,11.1561
+IDO1,P14902,88,MET,98.75,very_high_>=90,True,True,Cytoplasmic,False,,,False,,17.9105,19.0307,20.4314,12.8625,9.8036,6.6305
+IDO1,P14902,89,ALA,98.81,very_high_>=90,True,True,Cytoplasmic,False,,,False,,21.7201,23.1576,24.6095,17.8548,13.6564,11.3357
+IDO1,P14902,90,TYR,98.88,very_high_>=90,True,True,Cytoplasmic,False,,,False,,24.5379,25.927,27.3675,20.1681,16.4399,13.9167
+IDO1,P14902,91,VAL,98.69,very_high_>=90,True,True,Cytoplasmic,False,,,False,,23.9717,24.768,26.0202,16.6806,15.8818,12.7399
+IDO1,P14902,92,TRP,98.31,very_high_>=90,True,True,Cytoplasmic,False,,,False,,19.9471,20.756,21.995,12.6335,11.9863,9.2422
+IDO1,P14902,93,GLY,97.88,very_high_>=90,True,True,Cytoplasmic,False,,,False,,24.7916,25.9399,27.2312,19.396,16.8894,15.0385
+IDO1,P14902,94,LYS,97.44,very_high_>=90,True,True,Cytoplasmic,False,,,False,,25.2022,26.0784,27.215,18.2883,17.7699,16.2514
+IDO1,P14902,95,GLY,95.38,very_high_>=90,True,True,Cytoplasmic,False,,,False,,24.0249,24.8366,25.8684,16.6844,16.5482,14.4575
+IDO1,P14902,96,HIS,93.44,very_high_>=90,True,True,Cytoplasmic,False,,,False,,26.018,26.8142,27.8492,18.6956,18.7738,16.4175
+IDO1,P14902,97,GLY,93.94,very_high_>=90,True,True,Cytoplasmic,False,,,False,,26.8792,27.6591,28.6415,19.0489,19.7745,17.0924
+IDO1,P14902,98,ASP,96.75,very_high_>=90,True,True,Cytoplasmic,False,,,False,,28.4475,29.2633,30.428,21.0288,20.5253,18.2522
+IDO1,P14902,99,VAL,98.12,very_high_>=90,True,True,Cytoplasmic,False,,,False,,26.0792,26.8638,27.9473,17.7794,18.5685,16.0326
+IDO1,P14902,100,ARG,98.5,very_high_>=90,True,True,Cytoplasmic,False,,,False,,27.5559,28.3415,29.5747,19.8742,19.6259,16.3458
+IDO1,P14902,101,LYS,98.44,very_high_>=90,True,True,Cytoplasmic,False,,,False,,29.4466,30.2061,31.3921,21.28,21.7894,18.3457
+IDO1,P14902,102,VAL,98.75,very_high_>=90,True,True,Cytoplasmic,False,,,False,,30.156,30.9825,32.3143,22.7505,22.1741,18.6204
+IDO1,P14902,103,LEU,98.88,very_high_>=90,True,True,Cytoplasmic,False,,,False,,25.8479,27.0457,28.4871,20.7736,18.3345,14.7529
+IDO1,P14902,104,PRO,98.81,very_high_>=90,True,True,Cytoplasmic,False,,,False,,30.3384,31.5986,33.0409,25.0802,22.4388,19.1182
+IDO1,P14902,105,ARG,98.75,very_high_>=90,True,True,Cytoplasmic,False,,,False,,31.7918,33.199,34.796,27.6949,24.8202,21.4013
+IDO1,P14902,106,ASN,98.69,very_high_>=90,True,True,Cytoplasmic,False,,,False,,30.6537,32.3846,34.0696,27.6344,23.8341,20.7792
+IDO1,P14902,107,ILE,98.88,very_high_>=90,True,True,Cytoplasmic,False,,,False,,26.3441,28.0009,29.5383,22.8607,19.0872,15.9326
+IDO1,P14902,108,ALA,98.88,very_high_>=90,True,True,Cytoplasmic,False,,,False,,27.6853,28.8588,30.4829,23.5454,21.0926,17.5518
+IDO1,P14902,109,VAL,98.88,very_high_>=90,True,True,Cytoplasmic,False,,,False,,28.8912,30.0827,31.8539,25.5903,22.883,19.5102
+IDO1,P14902,110,PRO,98.81,very_high_>=90,True,True,Cytoplasmic,False,,,False,,26.5653,27.9563,29.8467,24.4728,20.9595,17.9182
+IDO1,P14902,111,TYR,98.88,very_high_>=90,True,True,Cytoplasmic,False,,,False,,19.0389,20.4228,22.0652,16.0707,12.4604,9.1894
+IDO1,P14902,112,CYS,98.88,very_high_>=90,True,True,Cytoplasmic,False,,,False,,25.7195,26.5761,28.3735,21.6108,19.6935,16.2798
+IDO1,P14902,113,GLN,98.81,very_high_>=90,True,True,Cytoplasmic,False,,,False,,26.2683,27.3687,29.3286,24.1539,21.6808,18.3937
+IDO1,P14902,114,LEU,98.88,very_high_>=90,True,True,Cytoplasmic,False,,,False,,23.027,24.238,26.2671,22.1632,18.3739,15.989
+IDO1,P14902,115,SER,98.81,very_high_>=90,True,True,Cytoplasmic,False,,,False,,21.3728,22.4531,24.2602,18.7156,15.9269,12.7524
+IDO1,P14902,116,LYS,98.56,very_high_>=90,True,True,Cytoplasmic,False,,,False,,23.7923,24.7219,26.5944,21.4736,19.5073,16.4572
+IDO1,P14902,117,LYS,98.38,very_high_>=90,True,True,Cytoplasmic,False,,,False,,23.336,24.5916,26.6703,23.3449,20.774,18.396
+IDO1,P14902,118,LEU,98.56,very_high_>=90,True,True,Cytoplasmic,False,,,False,,19.0011,20.1892,22.2501,19.4277,16.8892,14.9068
+IDO1,P14902,119,GLU,98.75,very_high_>=90,True,True,Cytoplasmic,False,,,False,,18.6024,19.4053,21.2497,17.4202,16.5974,14.2376
+IDO1,P14902,120,LEU,98.75,very_high_>=90,True,True,Cytoplasmic,False,,,False,,15.2315,16.1428,18.0672,14.6193,12.778,10.7226
+IDO1,P14902,121,PRO,98.62,very_high_>=90,True,True,Cytoplasmic,False,,,False,,17.383,17.7775,19.2758,12.8962,12.6523,9.4429
+IDO1,P14902,122,PRO,98.75,very_high_>=90,True,True,Cytoplasmic,False,,,False,,20.521,21.4348,22.9172,15.7734,13.9359,10.221
+IDO1,P14902,123,ILE,98.81,very_high_>=90,True,True,Cytoplasmic,False,,,False,,16.7537,17.8382,19.3041,11.1292,10.3602,6.4673
+IDO1,P14902,124,LEU,98.75,very_high_>=90,True,True,Cytoplasmic,False,,,False,,14.1485,15.2136,16.6681,10.2237,6.9673,3.2824
+IDO1,P14902,125,VAL,98.69,very_high_>=90,True,True,Cytoplasmic,False,,,False,,11.2617,12.6255,14.3289,10.3049,5.8027,4.0563
+IDO1,P14902,126,TYR,98.69,very_high_>=90,True,True,Cytoplasmic,False,,,True,2.9915,2.9915,5.5079,7.5379,3.9057,3.4466,2.9748
+IDO1,P14902,127,ALA,98.75,very_high_>=90,True,True,Cytoplasmic,False,,,False,,9.9751,11.4105,13.4404,10.7953,7.1303,6.465
+IDO1,P14902,128,ASP,98.81,very_high_>=90,True,True,Cytoplasmic,False,,,False,,12.0295,13.8468,15.8649,12.8681,7.6163,7.275
+IDO1,P14902,129,CYS,98.31,very_high_>=90,True,True,Cytoplasmic,False,,,False,,10.3811,12.6325,14.2362,11.1007,3.9293,3.8201
+IDO1,P14902,130,VAL,98.75,very_high_>=90,True,True,Cytoplasmic,False,,,False,,6.1519,8.9857,10.8537,6.9527,3.1553,4.4918
+IDO1,P14902,131,LEU,98.69,very_high_>=90,True,True,Cytoplasmic,False,,,False,,7.2045,9.2598,11.5515,8.2687,7.3962,7.8206
+IDO1,P14902,132,ALA,98.75,very_high_>=90,True,True,Cytoplasmic,False,,,False,,11.7889,14.1905,16.3447,12.6968,9.7168,10.6567
+IDO1,P14902,133,ASN,98.75,very_high_>=90,True,True,Cytoplasmic,False,,,False,,12.8416,15.5407,17.52,13.5704,8.2433,9.2893
+IDO1,P14902,134,TRP,98.81,very_high_>=90,True,True,Cytoplasmic,False,,,False,,11.9984,14.7529,16.3165,12.8226,11.3233,12.7438
+IDO1,P14902,135,LYS,98.69,very_high_>=90,True,True,Cytoplasmic,False,,,False,,15.7188,18.7024,20.0933,16.4119,14.2028,15.7782
+IDO1,P14902,136,LYS,98.56,very_high_>=90,True,True,Cytoplasmic,False,,,False,,17.8375,20.5854,19.8862,18.4772,17.2226,18.7289
+IDO1,P14902,137,LYS,98.44,very_high_>=90,True,True,Cytoplasmic,False,,,False,,19.4705,22.3583,22.9367,18.0959,18.016,19.5969
+IDO1,P14902,138,ASP,98.12,very_high_>=90,True,True,Cytoplasmic,False,,,False,,21.7794,24.5064,23.9524,22.2575,21.8575,22.6152
+IDO1,P14902,139,PRO,97.06,very_high_>=90,True,True,Cytoplasmic,False,,,False,,22.4516,24.9762,24.1358,23.0313,23.1801,23.1219
+IDO1,P14902,140,ASN,97.5,very_high_>=90,True,True,Cytoplasmic,False,,,False,,23.706,26.1766,24.8728,24.1775,24.7876,24.3524
+IDO1,P14902,141,LYS,97.94,very_high_>=90,True,True,Cytoplasmic,False,,,False,,20.1409,22.6166,21.4134,20.607,21.6522,20.7901
+IDO1,P14902,142,PRO,97.38,very_high_>=90,True,True,Cytoplasmic,False,,,False,,17.6814,20.0838,18.6804,18.0695,19.3947,18.2959
+IDO1,P14902,143,LEU,97.81,very_high_>=90,True,True,Cytoplasmic,False,,,False,,13.9988,16.2977,14.7881,14.2945,16.2849,14.5655
+IDO1,P14902,144,THR,97.94,very_high_>=90,True,True,Cytoplasmic,False,,,False,,14.7293,17.3505,16.3177,14.0468,15.9501,15.0533
+IDO1,P14902,145,TYR,98.44,very_high_>=90,True,True,Cytoplasmic,False,,,False,,12.561,15.0558,15.6969,10.4898,11.883,12.1997
+IDO1,P14902,146,GLU,98.06,very_high_>=90,True,True,Cytoplasmic,False,,,False,,16.5578,19.2249,18.6258,15.1091,16.9356,16.5652
+IDO1,P14902,147,ASN,98.56,very_high_>=90,True,True,Cytoplasmic,False,,,False,,17.6492,20.5357,20.3324,17.0814,17.539,18.3347
+IDO1,P14902,148,MET,98.69,very_high_>=90,True,True,Cytoplasmic,False,,,False,,12.0604,14.9204,15.2767,12.6166,12.6682,13.0065
+IDO1,P14902,149,ASP,98.62,very_high_>=90,True,True,Cytoplasmic,False,,,False,,15.0924,18.1757,19.7212,15.2853,12.9698,14.6482
+IDO1,P14902,150,VAL,98.62,very_high_>=90,True,True,Cytoplasmic,False,,,False,,13.0754,16.0313,17.4657,12.6838,9.5666,11.1299
+IDO1,P14902,151,LEU,98.69,very_high_>=90,True,True,Cytoplasmic,False,,,False,,16.4006,19.3977,21.0184,16.774,12.442,13.6986
+IDO1,P14902,152,PHE,98.56,very_high_>=90,True,True,Cytoplasmic,False,,,False,,15.8172,18.4516,19.9886,15.3034,10.0925,10.9447
+IDO1,P14902,153,SER,98.38,very_high_>=90,True,True,Cytoplasmic,False,,,False,,17.3205,19.8201,21.2404,14.9462,11.416,12.0441
+IDO1,P14902,154,PHE,98.25,very_high_>=90,True,True,Cytoplasmic,False,,,False,,15.7739,17.4927,18.9644,13.3152,8.2562,7.6665
+IDO1,P14902,155,ARG,96.56,very_high_>=90,True,True,Cytoplasmic,False,,,False,,20.1841,22.0428,23.3046,14.7076,13.7127,13.9167
+IDO1,P14902,156,ASP,94.69,very_high_>=90,True,True,Cytoplasmic,False,,,False,,22.0314,23.755,24.9043,15.4779,16.4109,16.7907
+IDO1,P14902,157,GLY,93.06,very_high_>=90,True,True,Cytoplasmic,False,,,False,,19.5454,20.8687,21.8513,11.8253,14.7285,14.2698
+IDO1,P14902,158,ASP,92.19,very_high_>=90,True,True,Cytoplasmic,False,,,False,,15.9492,17.2736,18.3668,8.9848,10.6618,10.5
+IDO1,P14902,159,CYS,96.81,very_high_>=90,True,True,Cytoplasmic,False,,,False,,13.1169,14.8799,15.9952,6.8448,8.9164,10.1743
+IDO1,P14902,160,SER,97.06,very_high_>=90,True,True,Cytoplasmic,False,,,False,,11.7187,14.0334,15.3634,9.543,7.2755,8.7693
+IDO1,P14902,161,LYS,98.0,very_high_>=90,True,True,Cytoplasmic,False,,,False,,11.6179,14.2146,15.4321,9.9067,8.8595,10.7876
+IDO1,P14902,162,GLY,98.25,very_high_>=90,True,True,Cytoplasmic,False,,,False,,9.7663,11.9156,12.9398,7.0964,8.0208,8.4351
+IDO1,P14902,163,PHE,98.44,very_high_>=90,True,True,Cytoplasmic,False,,,False,,7.0907,8.4906,9.5712,3.7993,2.8964,3.1926
+IDO1,P14902,164,PHE,98.5,very_high_>=90,True,True,Cytoplasmic,False,,,False,,7.1909,10.2486,11.6476,7.331,3.7979,4.8415
+IDO1,P14902,165,LEU,98.62,very_high_>=90,True,True,Cytoplasmic,False,,,False,,7.9507,10.8895,11.8175,7.4202,7.1168,8.53
+IDO1,P14902,166,VAL,98.56,very_high_>=90,True,True,Cytoplasmic,False,,,False,,5.5245,8.0265,8.6673,4.4219,7.4396,5.4426
+IDO1,P14902,167,SER,98.38,very_high_>=90,True,True,Cytoplasmic,False,,,True,3.375,3.375,6.2699,7.8095,3.8236,3.4494,3.5325
+IDO1,P14902,168,LEU,98.56,very_high_>=90,True,True,Cytoplasmic,False,,,False,,5.297,8.3453,9.3839,5.8577,6.6691,6.4758
+IDO1,P14902,169,LEU,98.44,very_high_>=90,True,True,Cytoplasmic,False,,,False,,6.8249,8.9236,7.7999,7.0331,9.46,7.2526
+IDO1,P14902,170,VAL,98.12,very_high_>=90,True,True,Cytoplasmic,False,,,True,3.3477,3.3477,4.4518,3.5701,3.636,9.1118,3.4444
+IDO1,P14902,171,GLU,98.0,very_high_>=90,True,True,Cytoplasmic,False,,,True,3.1079,3.1079,5.1548,6.4267,4.9957,8.1234,4.0131
+IDO1,P14902,172,ILE,97.62,very_high_>=90,True,True,Cytoplasmic,False,,,False,,7.3423,9.4188,8.3989,8.2381,12.1266,7.8059
+IDO1,P14902,173,ALA,96.88,very_high_>=90,True,True,Cytoplasmic,False,,,False,,8.4027,8.4174,6.5627,9.0979,14.0383,8.8178
+IDO1,P14902,174,ALA,96.5,very_high_>=90,True,True,Cytoplasmic,False,,,False,,6.3374,5.8868,4.5221,8.1538,13.6696,6.9159
+IDO1,P14902,175,ALA,96.06,very_high_>=90,True,True,Cytoplasmic,False,,,False,,9.0659,9.23,7.8023,10.7811,15.7977,9.8369
+IDO1,P14902,176,SER,93.62,very_high_>=90,True,True,Cytoplasmic,False,,,False,,11.7902,11.0698,9.5899,13.4226,18.5755,12.5146
+IDO1,P14902,177,ALA,96.31,very_high_>=90,True,True,Cytoplasmic,False,,,False,,10.4822,8.2602,7.2251,13.2412,18.928,11.2299
+IDO1,P14902,178,ILE,95.88,very_high_>=90,True,True,Cytoplasmic,False,,,False,,8.4437,8.6771,7.9502,10.7789,15.3382,9.498
+IDO1,P14902,179,LYS,92.88,very_high_>=90,True,True,Cytoplasmic,False,,,False,,13.8095,12.5351,11.6334,15.9932,20.8721,14.5432
+IDO1,P14902,180,VAL,95.38,very_high_>=90,True,True,Cytoplasmic,False,,,False,,15.8524,13.5918,12.7781,18.0,23.1665,16.2277
+IDO1,P14902,181,ILE,96.38,very_high_>=90,True,True,Cytoplasmic,False,,,False,,12.6643,10.2123,9.7635,14.3126,19.8228,12.7447
+IDO1,P14902,182,PRO,93.12,very_high_>=90,True,True,Cytoplasmic,False,,,False,,17.6369,15.6731,15.1561,19.9466,24.6939,18.0994
+IDO1,P14902,183,THR,95.25,very_high_>=90,True,True,Cytoplasmic,False,,,False,,20.202,17.6091,17.1034,22.2918,27.7402,20.5531
+IDO1,P14902,184,VAL,97.5,very_high_>=90,True,True,Cytoplasmic,False,,,False,,17.2449,14.5148,14.0929,19.1437,25.6168,18.0838
+IDO1,P14902,185,PHE,95.94,very_high_>=90,True,True,Cytoplasmic,False,,,False,,17.8207,14.6233,14.8677,17.4765,24.5514,18.015
+IDO1,P14902,186,LYS,94.88,very_high_>=90,True,True,Cytoplasmic,False,,,False,,23.1378,20.4104,20.0108,24.1142,30.6588,23.5422
+IDO1,P14902,187,ALA,97.06,very_high_>=90,True,True,Cytoplasmic,False,,,False,,23.8796,21.1576,20.7327,25.6093,32.2418,24.7267
+IDO1,P14902,188,MET,97.12,very_high_>=90,True,True,Cytoplasmic,False,,,False,,21.2549,18.1274,18.2366,21.3368,28.9647,22.0471
+IDO1,P14902,189,GLN,95.56,very_high_>=90,True,True,Cytoplasmic,False,,,False,,26.228,23.2349,23.1254,26.5681,33.8342,26.8357
+IDO1,P14902,190,MET,96.5,very_high_>=90,True,True,Cytoplasmic,False,,,False,,28.4412,25.6035,25.3038,29.1465,36.1954,29.0538
+IDO1,P14902,191,GLN,95.44,very_high_>=90,True,True,Cytoplasmic,False,,,False,,28.995,26.2053,25.8695,29.8249,37.0722,29.8144
+IDO1,P14902,192,GLU,97.12,very_high_>=90,True,True,Cytoplasmic,False,,,False,,26.0108,23.328,22.927,27.9214,34.7141,27.108
+IDO1,P14902,193,ARG,97.44,very_high_>=90,True,True,Cytoplasmic,False,,,False,,25.1827,22.588,22.22,27.3485,34.1499,26.5318
+IDO1,P14902,194,ASP,98.19,very_high_>=90,True,True,Cytoplasmic,False,,,False,,24.4274,21.9371,21.4018,27.4118,33.5105,25.7437
+IDO1,P14902,195,THR,98.19,very_high_>=90,True,True,Cytoplasmic,False,,,False,,22.1618,19.5859,19.08,24.9718,31.035,23.2726
+IDO1,P14902,196,LEU,98.31,very_high_>=90,True,True,Cytoplasmic,False,,,False,,20.2715,17.6659,17.2787,22.2031,29.2284,21.5715
+IDO1,P14902,197,LEU,98.62,very_high_>=90,True,True,Cytoplasmic,False,,,False,,20.0435,17.6385,17.177,23.1294,29.2471,21.5781
+IDO1,P14902,198,LYS,98.5,very_high_>=90,True,True,Cytoplasmic,False,,,False,,18.919,16.5956,15.8315,22.5196,28.0536,20.2688
+IDO1,P14902,199,ALA,98.25,very_high_>=90,True,True,Cytoplasmic,False,,,False,,16.1915,13.7023,13.1035,19.5553,25.2082,17.4187
+IDO1,P14902,200,LEU,98.69,very_high_>=90,True,True,Cytoplasmic,False,,,False,,14.9631,12.6033,12.168,18.2758,24.1878,16.5683
+IDO1,P14902,201,LEU,98.62,very_high_>=90,True,True,Cytoplasmic,False,,,False,,15.3848,13.4009,12.5625,19.1714,24.6317,17.0714
+IDO1,P14902,202,GLU,98.0,very_high_>=90,True,True,Cytoplasmic,False,,,False,,13.4863,11.5101,10.4035,16.8205,22.531,14.8608
+IDO1,P14902,203,ILE,98.44,very_high_>=90,True,True,Cytoplasmic,False,,,False,,10.6367,8.5194,7.682,14.5029,19.8637,12.1927
+IDO1,P14902,204,ALA,98.62,very_high_>=90,True,True,Cytoplasmic,False,,,False,,10.9875,9.4336,8.5994,14.7867,20.1396,12.9253
+IDO1,P14902,205,SER,98.19,very_high_>=90,True,True,Cytoplasmic,False,,,False,,11.6239,10.5334,9.1876,14.5476,20.2966,13.2991
+IDO1,P14902,206,CYS,97.5,very_high_>=90,True,True,Cytoplasmic,False,,,False,,8.5993,7.5954,6.0105,11.3204,17.1005,10.0028
+IDO1,P14902,207,LEU,98.19,very_high_>=90,True,True,Cytoplasmic,False,,,False,,6.2418,3.9474,3.4459,10.2115,15.4462,7.8106
+IDO1,P14902,208,GLU,98.12,very_high_>=90,True,True,Cytoplasmic,False,,,False,,9.0495,8.1459,7.114,11.9202,17.3644,11.0412
+IDO1,P14902,209,LYS,96.88,very_high_>=90,True,True,Cytoplasmic,False,,,False,,9.0753,9.1698,7.0612,10.4396,15.9943,10.0008
+IDO1,P14902,210,ALA,97.5,very_high_>=90,True,True,Cytoplasmic,False,,,False,,5.6999,5.6516,3.4301,7.1426,12.6243,6.6618
+IDO1,P14902,211,LEU,98.19,very_high_>=90,True,True,Cytoplasmic,False,,,False,,6.7482,7.3965,5.4,8.6717,13.6206,7.9419
+IDO1,P14902,212,GLN,98.0,very_high_>=90,True,True,Cytoplasmic,False,,,False,,9.345,10.2654,8.1833,9.6842,15.2203,9.8855
+IDO1,P14902,213,VAL,97.75,very_high_>=90,True,True,Cytoplasmic,False,,,False,,8.4123,9.9845,7.9122,6.8425,12.3733,7.7293
+IDO1,P14902,214,PHE,97.69,very_high_>=90,True,True,Cytoplasmic,False,,,True,3.6239,3.6239,3.4662,3.4921,2.0632,6.392,2.563
+IDO1,P14902,215,HIS,98.06,very_high_>=90,True,True,Cytoplasmic,False,,,False,,10.0824,10.3177,9.6373,7.3905,12.7141,8.4963
+IDO1,P14902,216,GLN,97.88,very_high_>=90,True,True,Cytoplasmic,False,,,False,,11.5912,12.1804,11.7672,7.9018,12.6674,9.5972
+IDO1,P14902,217,ILE,98.12,very_high_>=90,True,True,Cytoplasmic,False,,,False,,8.5936,8.9811,9.4385,2.9641,7.1981,3.8038
+IDO1,P14902,218,HIS,97.88,very_high_>=90,True,True,Cytoplasmic,False,,,False,,12.9139,12.777,12.5257,7.5129,12.6928,9.0334
+IDO1,P14902,219,ASP,97.69,very_high_>=90,True,True,Cytoplasmic,False,,,False,,15.1313,15.9012,16.218,9.9605,14.9739,11.7132
+IDO1,P14902,220,HIS,97.81,very_high_>=90,True,True,Cytoplasmic,False,,,False,,13.4161,15.2619,15.853,8.3739,12.0944,10.8935
+IDO1,P14902,221,VAL,98.38,very_high_>=90,True,True,Cytoplasmic,False,,,False,,11.4632,12.6604,13.4312,4.1273,9.2293,7.612
+IDO1,P14902,222,ASN,96.81,very_high_>=90,True,True,Cytoplasmic,False,,,False,,16.0231,16.7658,17.3573,6.7377,12.8349,10.9771
+IDO1,P14902,223,PRO,96.75,very_high_>=90,True,True,Cytoplasmic,False,,,False,,16.3098,16.6498,17.0327,6.5768,12.8305,10.2593
+IDO1,P14902,224,LYS,95.75,very_high_>=90,True,True,Cytoplasmic,False,,,False,,18.4459,18.8979,19.4292,8.6297,14.7259,11.5002
+IDO1,P14902,225,ALA,96.88,very_high_>=90,True,True,Cytoplasmic,False,,,False,,17.484,18.1735,18.9874,8.3754,12.5549,10.0117
+IDO1,P14902,226,PHE,97.06,very_high_>=90,True,True,Cytoplasmic,False,,,False,,10.6511,11.3427,12.1167,2.9994,6.0755,3.6762
+IDO1,P14902,227,PHE,94.56,very_high_>=90,True,True,Cytoplasmic,False,,,False,,16.0603,16.7213,17.3925,7.0745,11.5814,8.1436
+IDO1,P14902,228,SER,93.94,very_high_>=90,True,True,Cytoplasmic,False,,,False,,18.6235,19.312,20.0296,9.7829,13.7022,9.9757
+IDO1,P14902,229,VAL,95.94,very_high_>=90,True,True,Cytoplasmic,False,,,False,,18.0923,18.8833,19.9448,10.792,11.2882,9.3657
+IDO1,P14902,230,LEU,97.0,very_high_>=90,True,True,Cytoplasmic,False,,,False,,12.5159,13.8116,15.0132,7.0241,6.8463,6.7905
+IDO1,P14902,231,ARG,94.62,very_high_>=90,True,True,Cytoplasmic,False,,,False,,13.9796,14.6529,15.3271,5.7852,8.3849,4.2496
+IDO1,P14902,232,ILE,95.44,very_high_>=90,True,True,Cytoplasmic,False,,,False,,17.0676,17.8594,18.8958,10.5998,10.3051,7.5021
+IDO1,P14902,233,TYR,97.75,very_high_>=90,True,True,Cytoplasmic,False,,,False,,16.7144,17.6027,18.9146,11.8105,8.5228,6.4395
+IDO1,P14902,234,LEU,97.06,very_high_>=90,True,True,Cytoplasmic,False,,,False,,11.5059,12.463,13.7854,7.8575,3.9356,3.8938
+IDO1,P14902,235,SER,96.06,very_high_>=90,True,True,Cytoplasmic,False,,,False,,15.8661,16.6631,17.8295,8.6902,8.4641,6.3491
+IDO1,P14902,236,GLY,96.06,very_high_>=90,True,True,Cytoplasmic,False,,,False,,17.0006,17.7368,18.8287,8.9234,10.1888,7.2932
+IDO1,P14902,237,TRP,96.81,very_high_>=90,True,True,Cytoplasmic,False,,,False,,19.9539,20.6462,21.6954,11.4457,13.46,9.7689
+IDO1,P14902,238,LYS,94.44,very_high_>=90,True,True,Cytoplasmic,False,,,False,,19.2695,19.6541,20.2661,9.9301,14.2595,11.7203
+IDO1,P14902,239,GLY,89.5,confident_70_90,True,True,Cytoplasmic,False,,,False,,21.9235,22.4731,23.1295,11.5,16.4752,13.3919
+IDO1,P14902,240,ASN,91.62,very_high_>=90,True,True,Cytoplasmic,False,,,False,,20.7315,21.4324,22.3279,11.1964,14.3187,11.7313
+IDO1,P14902,241,PRO,92.25,very_high_>=90,True,True,Cytoplasmic,False,,,False,,23.7408,24.3729,24.9945,13.2901,17.9911,14.614
+IDO1,P14902,242,GLN,94.25,very_high_>=90,True,True,Cytoplasmic,False,,,False,,23.4056,24.1335,25.0032,14.2625,16.8479,13.7375
+IDO1,P14902,243,LEU,95.69,very_high_>=90,True,True,Cytoplasmic,False,,,False,,24.6309,25.3772,26.4444,15.8638,17.454,14.3576
+IDO1,P14902,244,SER,94.75,very_high_>=90,True,True,Cytoplasmic,False,,,False,,27.0235,27.6043,28.366,17.1848,20.9899,18.0406
+IDO1,P14902,245,ASP,96.25,very_high_>=90,True,True,Cytoplasmic,False,,,False,,27.5374,28.1559,29.0778,18.4432,21.5547,18.0851
+IDO1,P14902,246,GLY,97.88,very_high_>=90,True,True,Cytoplasmic,False,,,False,,25.7064,26.3559,27.3602,16.987,19.4556,15.8311
+IDO1,P14902,247,LEU,98.75,very_high_>=90,True,True,Cytoplasmic,False,,,False,,24.8153,25.5632,26.8746,17.8911,17.1261,13.382
+IDO1,P14902,248,VAL,98.81,very_high_>=90,True,True,Cytoplasmic,False,,,False,,28.7121,29.4182,30.6216,21.1456,21.5041,17.7003
+IDO1,P14902,249,TYR,98.81,very_high_>=90,True,True,Cytoplasmic,False,,,False,,22.9777,23.665,24.9763,16.774,15.9761,12.0977
+IDO1,P14902,250,GLU,98.81,very_high_>=90,True,True,Cytoplasmic,False,,,False,,31.3108,32.2027,33.5525,25.1512,23.9622,20.1851
+IDO1,P14902,251,GLY,98.38,very_high_>=90,True,True,Cytoplasmic,False,,,False,,33.9141,34.7976,36.2877,28.2438,27.0259,23.254
+IDO1,P14902,252,PHE,98.5,very_high_>=90,True,True,Cytoplasmic,False,,,False,,29.1699,29.7583,31.3574,24.3659,23.4871,19.853
+IDO1,P14902,253,TRP,98.44,very_high_>=90,True,True,Cytoplasmic,False,,,False,,26.3868,26.779,28.2255,20.6581,20.4623,16.6681
+IDO1,P14902,254,GLU,96.62,very_high_>=90,True,True,Cytoplasmic,False,,,False,,33.9923,34.5796,35.7848,26.6135,27.4457,23.5615
+IDO1,P14902,255,ASP,98.0,very_high_>=90,True,True,Cytoplasmic,False,,,False,,30.5844,31.1989,32.3097,23.204,24.3231,20.4438
+IDO1,P14902,256,PRO,98.44,very_high_>=90,True,True,Cytoplasmic,False,,,False,,28.4015,29.0156,30.0705,20.5794,22.2915,18.4684
+IDO1,P14902,257,LYS,98.56,very_high_>=90,True,True,Cytoplasmic,False,,,False,,24.4774,25.1126,26.1989,16.8134,18.2727,14.4711
+IDO1,P14902,258,GLU,97.88,very_high_>=90,True,True,Cytoplasmic,False,,,False,,21.7284,22.2752,23.2439,14.1132,16.4238,12.8906
+IDO1,P14902,259,PHE,97.88,very_high_>=90,True,True,Cytoplasmic,False,,,False,,18.4772,19.0933,20.1341,10.8127,12.7576,9.3325
+IDO1,P14902,260,ALA,96.38,very_high_>=90,True,True,Cytoplasmic,False,,,False,,15.3485,15.9876,16.8936,7.6038,9.5369,6.1543
+IDO1,P14902,261,GLY,94.44,very_high_>=90,True,True,Cytoplasmic,False,,,False,,12.3526,13.0225,14.131,5.2931,6.6273,3.9758
+IDO1,P14902,262,GLY,89.25,confident_70_90,True,True,Cytoplasmic,False,,,False,,9.9645,10.7124,11.9315,4.3597,3.7219,2.0557
+IDO1,P14902,263,SER,88.19,confident_70_90,True,True,Cytoplasmic,False,,,False,,6.675,7.3384,8.4698,1.4807,2.3349,2.2163
+IDO1,P14902,264,ALA,88.88,confident_70_90,True,True,Cytoplasmic,False,,,True,3.5572,3.5572,4.1082,4.9729,1.7329,1.9003,2.0248
+IDO1,P14902,265,GLY,92.06,very_high_>=90,True,True,Cytoplasmic,False,,,False,,6.0736,6.4323,7.1637,3.2942,4.5276,3.8629
+IDO1,P14902,266,GLN,97.81,very_high_>=90,True,True,Cytoplasmic,False,,,False,,7.2936,7.5273,8.9002,5.7588,5.7887,3.189
+IDO1,P14902,267,SER,98.38,very_high_>=90,True,True,Cytoplasmic,False,,,True,2.8158,2.8158,3.7996,6.0256,4.8056,6.8836,3.6785
+IDO1,P14902,268,SER,98.5,very_high_>=90,True,True,Cytoplasmic,False,,,False,,6.0163,6.3179,6.8351,7.1077,10.1789,6.9412
+IDO1,P14902,269,VAL,98.38,very_high_>=90,True,True,Cytoplasmic,False,,,True,3.5785,3.5785,2.907,3.3546,5.4744,10.9189,3.6296
+IDO1,P14902,270,PHE,97.75,very_high_>=90,True,True,Cytoplasmic,False,,,True,3.6364,3.6364,3.3595,3.3761,0.2898,7.1021,4.16
+IDO1,P14902,271,GLN,98.31,very_high_>=90,True,True,Cytoplasmic,False,,,False,,7.3075,4.6175,5.1742,5.1541,10.8157,6.6101
+IDO1,P14902,272,CYS,97.81,very_high_>=90,True,True,Cytoplasmic,False,,,False,,8.3667,5.827,6.3816,7.7882,14.0041,8.4042
+IDO1,P14902,273,PHE,98.31,very_high_>=90,True,True,Cytoplasmic,False,,,False,,6.5183,3.8632,3.4611,8.7806,14.634,7.1087
+IDO1,P14902,274,ASP,98.31,very_high_>=90,True,True,Cytoplasmic,False,,,False,,7.9895,4.7686,5.4404,5.1491,13.5201,8.731
+IDO1,P14902,275,VAL,97.5,very_high_>=90,True,True,Cytoplasmic,False,,,False,,12.0744,8.3488,9.1998,9.7533,17.3683,12.3248
+IDO1,P14902,276,LEU,97.56,very_high_>=90,True,True,Cytoplasmic,False,,,False,,12.7863,9.7133,9.6782,12.1533,19.7009,13.4983
+IDO1,P14902,277,LEU,98.31,very_high_>=90,True,True,Cytoplasmic,False,,,False,,11.5121,8.6099,9.0254,11.9551,19.6325,12.9458
+IDO1,P14902,278,GLY,97.0,very_high_>=90,True,True,Cytoplasmic,False,,,False,,15.5815,11.9762,12.7773,13.4694,21.9533,16.3524
+IDO1,P14902,279,ILE,97.69,very_high_>=90,True,True,Cytoplasmic,False,,,False,,11.7869,8.9585,9.5393,9.7329,18.3375,13.4167
+IDO1,P14902,280,GLN,95.38,very_high_>=90,True,True,Cytoplasmic,False,,,False,,15.3264,12.3325,13.018,10.8125,18.7617,16.1585
+IDO1,P14902,281,GLN,96.19,very_high_>=90,True,True,Cytoplasmic,False,,,False,,10.3488,8.2326,8.5757,6.6001,14.9019,11.8576
+IDO1,P14902,282,THR,89.88,confident_70_90,True,True,Cytoplasmic,False,,,False,,14.6517,12.2388,12.798,9.6057,15.6786,14.6096
+IDO1,P14902,283,ALA,85.62,confident_70_90,True,True,Cytoplasmic,False,,,False,,17.7811,15.2127,15.8084,12.6633,19.5098,18.3156
+IDO1,P14902,284,GLY,85.5,confident_70_90,True,True,Cytoplasmic,False,,,False,,20.6711,18.6446,19.1133,15.2422,20.7277,20.6765
+IDO1,P14902,285,GLY,83.69,confident_70_90,True,True,Cytoplasmic,False,,,False,,21.5777,20.5285,20.4315,15.7457,20.7675,20.384
+IDO1,P14902,286,GLY,89.31,confident_70_90,True,True,Cytoplasmic,False,,,False,,18.4372,17.7824,17.5167,12.5336,17.4448,17.3435
+IDO1,P14902,287,HIS,90.0,very_high_>=90,True,True,Cytoplasmic,False,,,False,,16.0272,16.3893,15.8383,8.5851,13.6385,12.274
+IDO1,P14902,288,ALA,92.06,very_high_>=90,True,True,Cytoplasmic,False,,,False,,13.6865,13.2669,12.9097,7.904,13.0701,13.4247
+IDO1,P14902,289,ALA,94.31,very_high_>=90,True,True,Cytoplasmic,False,,,False,,15.5488,14.6161,14.4409,9.7624,15.2355,14.901
+IDO1,P14902,290,GLN,94.0,very_high_>=90,True,True,Cytoplasmic,False,,,False,,16.4294,16.3473,16.1458,10.9738,14.7758,14.5226
+IDO1,P14902,291,PHE,93.19,very_high_>=90,True,True,Cytoplasmic,False,,,False,,10.4773,11.0088,11.2918,3.9697,7.7088,7.2807
+IDO1,P14902,292,LEU,96.0,very_high_>=90,True,True,Cytoplasmic,False,,,False,,9.5931,9.124,8.8233,4.7245,9.9463,9.4196
+IDO1,P14902,293,GLN,96.0,very_high_>=90,True,True,Cytoplasmic,False,,,False,,14.5873,13.7361,13.8377,9.9701,13.9312,13.0114
+IDO1,P14902,294,ASP,95.38,very_high_>=90,True,True,Cytoplasmic,False,,,False,,15.0366,15.0452,15.7161,10.2739,12.7591,11.3511
+IDO1,P14902,295,MET,96.75,very_high_>=90,True,True,Cytoplasmic,False,,,False,,11.2269,11.3781,12.1791,5.6804,8.1965,7.0979
+IDO1,P14902,296,ARG,98.0,very_high_>=90,True,True,Cytoplasmic,False,,,False,,13.3185,11.4585,12.1603,10.2561,12.2577,10.6268
+IDO1,P14902,297,ARG,97.94,very_high_>=90,True,True,Cytoplasmic,False,,,False,,15.2774,15.3101,16.3859,12.5359,13.7313,11.1736
+IDO1,P14902,298,TYR,98.5,very_high_>=90,True,True,Cytoplasmic,False,,,False,,12.4577,13.1204,14.9258,9.548,10.1508,7.409
+IDO1,P14902,299,MET,98.62,very_high_>=90,True,True,Cytoplasmic,False,,,False,,9.2097,9.2815,10.2944,8.0824,10.5424,8.0402
+IDO1,P14902,300,PRO,98.44,very_high_>=90,True,True,Cytoplasmic,False,,,False,,11.9868,13.2596,15.4,13.5254,12.3724,10.8871
+IDO1,P14902,301,PRO,98.12,very_high_>=90,True,True,Cytoplasmic,False,,,False,,16.2561,17.4112,18.5722,17.3145,16.841,15.0562
+IDO1,P14902,302,ALA,97.69,very_high_>=90,True,True,Cytoplasmic,False,,,False,,15.2963,16.4618,16.8567,16.855,18.5415,16.1381
+IDO1,P14902,303,HIS,98.25,very_high_>=90,True,True,Cytoplasmic,False,,,False,,10.7968,12.3948,13.8459,12.7863,13.4719,11.625
+IDO1,P14902,304,ARG,97.94,very_high_>=90,True,True,Cytoplasmic,False,,,False,,13.9227,14.7103,15.3554,14.5255,16.1239,13.7486
+IDO1,P14902,305,ASN,97.19,very_high_>=90,True,True,Cytoplasmic,False,,,False,,16.3721,16.4698,17.1455,16.7637,19.4899,16.7463
+IDO1,P14902,306,PHE,97.0,very_high_>=90,True,True,Cytoplasmic,False,,,False,,12.3328,11.3748,11.3502,13.95,18.4052,13.019
+IDO1,P14902,307,LEU,97.25,very_high_>=90,True,True,Cytoplasmic,False,,,False,,11.1936,9.5086,10.2137,10.3968,14.606,11.4313
+IDO1,P14902,308,CYS,96.12,very_high_>=90,True,True,Cytoplasmic,False,,,False,,16.5079,14.7758,15.5248,15.262,20.1546,16.8656
+IDO1,P14902,309,SER,94.94,very_high_>=90,True,True,Cytoplasmic,False,,,False,,17.8978,16.2983,16.7869,17.5904,22.7387,18.4566
+IDO1,P14902,310,LEU,95.38,very_high_>=90,True,True,Cytoplasmic,False,,,False,,13.6348,10.9234,11.4579,13.4423,19.4799,13.665
+IDO1,P14902,311,GLU,95.19,very_high_>=90,True,True,Cytoplasmic,False,,,False,,16.7732,13.4635,14.2253,12.7418,19.112,16.3266
+IDO1,P14902,312,SER,94.19,very_high_>=90,True,True,Cytoplasmic,False,,,False,,20.872,17.4655,18.3175,18.424,25.0317,20.6692
+IDO1,P14902,313,ASN,94.0,very_high_>=90,True,True,Cytoplasmic,False,,,False,,20.6613,17.5191,18.0351,19.5696,26.298,20.6406
+IDO1,P14902,314,PRO,94.06,very_high_>=90,True,True,Cytoplasmic,False,,,False,,21.0844,17.5627,18.3181,19.7366,27.5522,21.591
+IDO1,P14902,315,SER,95.25,very_high_>=90,True,True,Cytoplasmic,False,,,False,,20.3795,16.8203,17.6058,18.2394,26.656,21.2243
+IDO1,P14902,316,VAL,97.5,very_high_>=90,True,True,Cytoplasmic,False,,,False,,17.9616,14.7167,15.0403,17.7812,25.5702,18.7984
+IDO1,P14902,317,ARG,97.56,very_high_>=90,True,True,Cytoplasmic,False,,,False,,18.9467,15.9019,16.5983,17.0996,25.7259,20.4159
+IDO1,P14902,318,GLU,96.12,very_high_>=90,True,True,Cytoplasmic,False,,,False,,21.9548,18.5942,19.3271,20.3868,28.9084,23.0727
+IDO1,P14902,319,PHE,97.25,very_high_>=90,True,True,Cytoplasmic,False,,,False,,23.6554,20.3288,20.8909,22.5448,30.9446,24.7263
+IDO1,P14902,320,VAL,97.75,very_high_>=90,True,True,Cytoplasmic,False,,,False,,21.1041,18.2864,18.3764,21.4476,29.3813,22.5153
+IDO1,P14902,321,LEU,96.44,very_high_>=90,True,True,Cytoplasmic,False,,,False,,23.4454,20.5829,21.2002,21.9764,30.5836,25.0891
+IDO1,P14902,322,SER,95.81,very_high_>=90,True,True,Cytoplasmic,False,,,False,,26.8089,23.7072,24.2871,25.8991,34.3746,28.1534
+IDO1,P14902,323,LYS,94.94,very_high_>=90,True,True,Cytoplasmic,False,,,False,,27.5785,24.6876,24.759,27.7302,35.7809,28.8904
+IDO1,P14902,324,GLY,90.94,very_high_>=90,True,True,Cytoplasmic,False,,,False,,28.9075,26.1685,26.363,28.8742,37.0499,30.4723
+IDO1,P14902,325,ASP,96.94,very_high_>=90,True,True,Cytoplasmic,False,,,False,,25.637,23.3078,23.1642,26.6213,34.2499,27.405
+IDO1,P14902,326,ALA,97.31,very_high_>=90,True,True,Cytoplasmic,False,,,False,,24.3312,22.1949,22.0631,25.8984,33.0747,26.2743
+IDO1,P14902,327,GLY,97.94,very_high_>=90,True,True,Cytoplasmic,False,,,False,,22.2814,20.0275,19.8178,24.3801,31.2832,24.1314
+IDO1,P14902,328,LEU,98.31,very_high_>=90,True,True,Cytoplasmic,False,,,False,,20.6627,18.2845,18.1178,21.9797,29.3971,22.393
+IDO1,P14902,329,ARG,98.44,very_high_>=90,True,True,Cytoplasmic,False,,,False,,20.0169,17.8984,17.8353,21.0771,28.4936,21.9316
+IDO1,P14902,330,GLU,98.38,very_high_>=90,True,True,Cytoplasmic,False,,,False,,18.4906,16.5288,16.4243,20.5853,27.2751,20.5391
+IDO1,P14902,331,ALA,98.62,very_high_>=90,True,True,Cytoplasmic,False,,,False,,16.1957,13.9636,13.7822,18.451,25.18,18.0633
+IDO1,P14902,332,TYR,98.75,very_high_>=90,True,True,Cytoplasmic,False,,,False,,15.0839,12.8981,12.8455,15.2708,23.5972,16.9316
+IDO1,P14902,333,ASP,98.62,very_high_>=90,True,True,Cytoplasmic,False,,,False,,14.7588,13.2415,13.2907,16.2089,23.1947,17.0464
+IDO1,P14902,334,ALA,98.69,very_high_>=90,True,True,Cytoplasmic,False,,,False,,12.6083,10.9346,10.894,15.2576,21.3646,14.7728
+IDO1,P14902,335,CYS,98.75,very_high_>=90,True,True,Cytoplasmic,False,,,False,,10.247,8.3168,8.3344,12.2657,18.8824,12.2516
+IDO1,P14902,336,VAL,98.75,very_high_>=90,True,True,Cytoplasmic,False,,,False,,10.4788,9.3687,9.4947,11.3367,18.5431,12.979
+IDO1,P14902,337,LYS,98.69,very_high_>=90,True,True,Cytoplasmic,False,,,False,,10.3492,9.6953,10.2702,12.2462,18.3808,13.1002
+IDO1,P14902,338,ALA,98.62,very_high_>=90,True,True,Cytoplasmic,False,,,False,,7.2473,6.7353,7.1165,10.3425,15.6433,9.8584
+IDO1,P14902,339,LEU,98.5,very_high_>=90,True,True,Cytoplasmic,False,,,False,,6.0976,3.8093,4.1124,7.3922,13.8602,7.7942
+IDO1,P14902,340,VAL,98.62,very_high_>=90,True,True,Cytoplasmic,False,,,False,,8.3265,7.444,7.9619,8.8364,14.9122,10.8738
+IDO1,P14902,341,SER,98.5,very_high_>=90,True,True,Cytoplasmic,False,,,False,,7.2397,6.9472,6.9178,9.5828,13.697,9.3673
+IDO1,P14902,342,LEU,98.19,very_high_>=90,True,True,Cytoplasmic,False,,,True,3.8099,3.8099,3.5218,3.4779,6.8087,10.3514,5.9592
+IDO1,P14902,343,ARG,98.0,very_high_>=90,True,True,Cytoplasmic,False,,,False,,4.7872,3.0363,3.4282,3.9026,10.8528,6.9223
+IDO1,P14902,344,SER,98.19,very_high_>=90,True,True,Cytoplasmic,False,,,False,,7.7391,7.1593,6.6948,7.6621,12.5907,9.2868
+IDO1,P14902,345,TYR,98.19,very_high_>=90,True,True,Cytoplasmic,False,,,False,,7.3453,7.1596,6.3673,7.3128,10.2244,6.7164
+IDO1,P14902,346,HIS,96.94,very_high_>=90,True,True,Cytoplasmic,False,,Binding site: heme b [proximal binding residue,True,3.4334,3.4334,3.5484,3.2753,1.8328,3.9933,2.0158
+IDO1,P14902,347,LEU,96.06,very_high_>=90,True,True,Cytoplasmic,False,,,False,,7.872,7.7026,6.8974,7.4882,9.597,6.5451
+IDO1,P14902,348,GLN,97.19,very_high_>=90,True,True,Cytoplasmic,False,,,False,,10.1886,10.0633,9.2261,7.388,10.9989,7.8365
+IDO1,P14902,349,ILE,96.56,very_high_>=90,True,True,Cytoplasmic,False,,,False,,8.1216,8.1192,7.8545,2.8531,6.9162,3.7314
+IDO1,P14902,350,VAL,93.69,very_high_>=90,True,True,Cytoplasmic,False,,,False,,8.6857,8.999,8.9409,3.4889,6.7029,4.8726
+IDO1,P14902,351,THR,93.31,very_high_>=90,True,True,Cytoplasmic,False,,,False,,12.3672,12.4875,11.9725,6.4079,10.7557,8.4382
+IDO1,P14902,352,LYS,96.25,very_high_>=90,True,True,Cytoplasmic,False,,,False,,13.868,13.9752,13.5982,6.3291,12.1177,9.7505
+IDO1,P14902,353,TYR,95.31,very_high_>=90,True,True,Cytoplasmic,False,,,False,,11.7129,11.9287,12.2662,3.2089,9.0675,6.6156
+IDO1,P14902,354,ILE,92.06,very_high_>=90,True,True,Cytoplasmic,False,,,False,,11.2595,11.8422,12.3693,3.2503,7.1863,4.5671
+IDO1,P14902,355,LEU,91.06,very_high_>=90,True,True,Cytoplasmic,False,,,False,,15.5168,15.8087,15.318,7.1381,12.3981,9.9826
+IDO1,P14902,356,ILE,92.88,very_high_>=90,True,True,Cytoplasmic,False,,,False,,17.7093,17.9811,17.8143,9.2397,14.8717,12.5138
+IDO1,P14902,357,PRO,92.88,very_high_>=90,True,True,Cytoplasmic,False,,,False,,17.4481,17.8018,18.0051,8.0975,14.0504,11.53
+IDO1,P14902,358,ALA,89.12,confident_70_90,True,True,Cytoplasmic,False,,,False,,19.4319,19.9148,20.1795,10.1994,15.5292,12.3935
+IDO1,P14902,359,SER,88.44,confident_70_90,True,True,Cytoplasmic,False,,,False,,21.5283,21.9245,21.981,12.5675,17.9658,15.1145
+IDO1,P14902,360,GLN,88.69,confident_70_90,True,True,Cytoplasmic,False,Region:Disordered,,False,,22.5514,22.8798,23.0683,13.2882,19.277,16.6729
+IDO1,P14902,361,GLN,75.25,confident_70_90,True,True,Cytoplasmic,False,Region:Disordered,,False,,22.8555,23.4468,24.0029,13.352,18.3643,14.2225
+IDO1,P14902,362,PRO,67.38,low_50_70,True,True,Cytoplasmic,False,Region:Disordered,,False,,27.7843,28.3277,28.8143,18.2289,23.4398,19.3879
+IDO1,P14902,363,LYS,56.53,low_50_70,False,False,Cytoplasmic,False,Region:Disordered,,False,,30.1985,30.7151,30.9054,20.922,25.914,22.0584
+IDO1,P14902,364,GLU,49.25,very_low_<50,False,False,Cytoplasmic,False,Region:Disordered,,False,,31.8215,32.3924,32.8777,22.6285,27.2183,23.1906
+IDO1,P14902,365,ASN,42.16,very_low_<50,False,False,Cytoplasmic,False,Region:Disordered,,False,,30.2574,30.9269,31.5157,21.1688,24.7186,20.6255
+IDO1,P14902,366,LYS,36.34,very_low_<50,False,False,Cytoplasmic,False,Region:Disordered,,False,,29.0324,29.5072,29.5783,19.7688,24.8505,21.4315
+IDO1,P14902,367,THR,35.75,very_low_<50,False,False,Cytoplasmic,False,Region:Disordered,,False,,31.5308,32.17,32.6466,21.8934,26.3522,22.6048
+IDO1,P14902,368,SER,39.62,very_low_<50,False,False,Cytoplasmic,False,Region:Disordered,,False,,32.7181,33.3368,33.7243,22.9252,27.8418,24.2308
+IDO1,P14902,369,GLU,38.31,very_low_<50,False,False,Cytoplasmic,False,Region:Disordered,,False,,28.7639,29.3862,29.8116,19.0894,23.8864,20.279
+IDO1,P14902,370,ASP,37.38,very_low_<50,False,False,Cytoplasmic,False,Region:Disordered,,False,,25.7878,26.3575,26.6162,16.2339,21.2328,17.7912
+IDO1,P14902,371,PRO,36.59,very_low_<50,False,False,Cytoplasmic,False,Region:Disordered,,False,,23.4494,24.0479,24.4601,13.8144,18.7356,15.2224
+IDO1,P14902,372,SER,35.66,very_low_<50,False,False,Cytoplasmic,False,Region:Disordered,,False,,21.4839,21.9847,22.0908,12.0607,17.3733,14.2176
+IDO1,P14902,373,LYS,43.47,very_low_<50,False,False,Cytoplasmic,False,Region:Disordered,,False,,20.4516,21.0248,21.3141,11.0603,16.0236,12.7628
+IDO1,P14902,374,LEU,48.62,very_low_<50,False,False,Cytoplasmic,False,Region:Disordered,,False,,19.3597,20.0359,20.5104,9.6642,14.3209,10.7106
+IDO1,P14902,375,GLU,53.84,low_50_70,False,False,Cytoplasmic,False,Region:Disordered,,False,,17.4342,18.0463,18.5427,7.8863,12.7769,9.4167
+IDO1,P14902,376,ALA,52.81,low_50_70,False,False,Cytoplasmic,False,Region:Disordered,,False,,15.4727,16.0068,16.2457,6.1432,11.4394,8.6019
+IDO1,P14902,377,LYS,68.44,low_50_70,True,True,Cytoplasmic,False,Region:Disordered,,False,,15.1924,15.8681,16.3217,5.4603,10.318,6.8019
+IDO1,P14902,378,GLY,68.44,low_50_70,True,True,Cytoplasmic,False,Region:Disordered,,False,,13.0697,13.7973,14.2582,3.0792,7.9937,4.6604
+IDO1,P14902,379,THR,67.94,low_50_70,True,True,Cytoplasmic,False,Region:Disordered,,False,,11.4762,12.1795,13.1024,3.308,5.4195,2.8124
+IDO1,P14902,380,GLY,56.25,low_50_70,False,False,Cytoplasmic,False,Region:Disordered,,False,,13.0818,13.6772,14.4314,3.4211,7.5181,5.0837
+IDO1,P14902,381,GLY,60.62,low_50_70,True,True,Cytoplasmic,False,Region:Disordered,,False,,15.1278,15.7289,16.2911,4.957,10.0516,7.3734
+IDO1,P14902,382,THR,68.19,low_50_70,True,True,Cytoplasmic,False,,,False,,13.7586,14.33,14.6121,4.9965,10.0453,7.5811
+IDO1,P14902,383,ASP,82.19,confident_70_90,True,True,Cytoplasmic,False,,,False,,13.7447,14.1154,13.8887,5.9943,11.0266,9.2734
+IDO1,P14902,384,LEU,86.69,confident_70_90,True,True,Cytoplasmic,False,,,False,,9.823,10.4281,10.7257,1.7158,5.9854,4.4413
+IDO1,P14902,385,MET,87.75,confident_70_90,True,True,Cytoplasmic,False,,,False,,12.826,12.6988,12.1787,6.268,10.8257,9.6984
+IDO1,P14902,386,ASN,90.56,very_high_>=90,True,True,Cytoplasmic,False,,,False,,13.9766,13.7159,13.3934,8.2487,13.0532,12.1597
+IDO1,P14902,387,PHE,92.94,very_high_>=90,True,True,Cytoplasmic,False,,,False,,8.5493,8.9009,8.968,3.0429,7.6877,8.5506
+IDO1,P14902,388,LEU,94.0,very_high_>=90,True,True,Cytoplasmic,False,,,False,,6.6115,6.5498,6.1218,3.2028,7.4925,5.9052
+IDO1,P14902,389,LYS,95.56,very_high_>=90,True,True,Cytoplasmic,False,,,False,,11.3343,10.974,10.5803,7.176,12.7353,11.3851
+IDO1,P14902,390,THR,96.19,very_high_>=90,True,True,Cytoplasmic,False,,,False,,12.524,11.9788,11.7797,7.6562,14.5548,13.7084
+IDO1,P14902,391,VAL,97.19,very_high_>=90,True,True,Cytoplasmic,False,,,False,,8.1042,7.4179,6.938,3.4921,11.4031,9.9088
+IDO1,P14902,392,ARG,97.88,very_high_>=90,True,True,Cytoplasmic,False,,,False,,10.0672,9.2936,9.3515,5.9708,13.998,11.9703
+IDO1,P14902,393,SER,97.25,very_high_>=90,True,True,Cytoplasmic,False,,,False,,12.7188,11.7747,11.9268,8.8872,16.8122,14.6908
+IDO1,P14902,394,THR,97.44,very_high_>=90,True,True,Cytoplasmic,False,,,False,,13.4844,11.7699,12.0622,9.5804,17.6552,15.5099
+IDO1,P14902,395,THR,98.25,very_high_>=90,True,True,Cytoplasmic,False,,,False,,9.4221,7.95,8.1161,7.027,15.4398,11.596
+IDO1,P14902,396,GLU,98.06,very_high_>=90,True,True,Cytoplasmic,False,,,False,,13.1362,11.9748,12.1551,10.9156,18.8125,15.6109
+IDO1,P14902,397,LYS,97.38,very_high_>=90,True,True,Cytoplasmic,False,,,False,,15.9228,14.5145,14.7843,13.3564,21.7797,18.303
+IDO1,P14902,398,SER,97.38,very_high_>=90,True,True,Cytoplasmic,False,,,False,,15.283,12.7695,13.3011,12.9777,21.5213,17.088
+IDO1,P14902,399,LEU,97.69,very_high_>=90,True,True,Cytoplasmic,False,,,False,,15.8321,14.5636,14.7757,15.5035,23.4714,18.3582
+IDO1,P14902,400,LEU,96.56,very_high_>=90,True,True,Cytoplasmic,False,,,False,,19.4426,17.4573,17.8544,18.8579,27.002,21.6689
+IDO1,P14902,401,LYS,93.5,very_high_>=90,True,True,Cytoplasmic,False,,,False,,19.9895,19.0219,19.2854,18.8645,26.6405,22.7213
+IDO1,P14902,402,GLU,89.06,confident_70_90,True,True,Cytoplasmic,False,,,False,,20.3414,18.825,19.1304,18.2961,26.6764,22.7821
+IDO1,P14902,403,GLY,77.06,confident_70_90,True,True,Cytoplasmic,False,,,False,,22.6154,20.2396,20.7447,21.0867,29.5273,24.6253

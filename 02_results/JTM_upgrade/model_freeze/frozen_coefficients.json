@@ -1,0 +1,17 @@
+{
+  "model": "GMSig-4",
+  "authority": "Exact double-precision weights from pre-existing GMSig4_Model_Objects.rds; never replaced by reconstruction",
+  "genes": ["IFNG", "IDO1", "CXCL10", "ENO1"],
+  "weights": {
+    "IFNG": -0.251802755687135,
+    "IDO1": -0.150867350934661,
+    "CXCL10": -0.0719280374738463,
+    "ENO1": 0.184881748437269
+  },
+  "expression_orientation": "genes_by_samples",
+  "preprocessing": "already transformed gene expression; gene-wise cohort centering and sample SD (n-1), then weighted sum",
+  "risk_direction": "higher score = higher OS hazard",
+  "threshold": "strictly greater than cohort median = High; otherwise Low; descriptive only",
+  "single_sample_validated": false,
+  "absolute_risk_validated": false
+}

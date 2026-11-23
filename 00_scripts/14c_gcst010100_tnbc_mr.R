@@ -1,14 +1,12 @@
-project_root <- normalizePath(Sys.getenv("PROJECT_ROOT", unset = "."), winslash = "/", mustWork = TRUE)
-project_env <- file.path(project_root, ".Renviron")
-if (!nzchar(Sys.getenv("OPENGWAS_JWT")) && file.exists(project_env)) readRenviron(project_env)
+.libPaths(c("/root/R/tnbc_microbiome_lib", .libPaths()))
 
 suppressPackageStartupMessages({
   library(data.table)
   library(TwoSampleMR)
 })
 
-gwas_dir <- file.path(project_root, "01_data", "GWAS_MR")
-res_dir  <- file.path(project_root, "02_results")
+gwas_dir <- "/mnt/d/Bioinformatics/TNBC_Microbiome/01_data/GWAS_MR"
+res_dir  <- "/mnt/d/Bioinformatics/TNBC_Microbiome/02_results"
 
 gwas_raw <- fread(file.path(gwas_dir, "GCST010100_TNBC_IVs_extracted.csv"))
 snp_map  <- fread(file.path(res_dir, "IV_rsids_GRCh38_map.csv"))
@@ -79,7 +77,7 @@ exp_eq <- fread(file.path(res_dir, "eQTLGen_candidate_instruments.csv"), data.ta
 dat_eq <- harmonise_data(exposure_dat = exp_eq, outcome_dat = out_tnbc, action = 2)
 dat_eq <- dat_eq[dat_eq$mr_keep == TRUE, ]
 mr_eq <- as.data.table(mr(dat_eq, method_list = c("mr_ivw", "mr_wald_ratio", "mr_weighted_median", "mr_egger_regression")))
-mr_eq[, fdr := p.adjust(pval, method = "BH"), by = method]
+mr_eq[method %in% c("Inverse variance weighted", "Wald ratio"), fdr := p.adjust(pval, method = "BH")]
 mr_eq[, OR := exp(b)]
 mr_eq[, OR_lci := exp(b - 1.96 * se)]
 mr_eq[, OR_uci := exp(b + 1.96 * se)]

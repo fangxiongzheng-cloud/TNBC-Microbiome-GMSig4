@@ -1,0 +1,10 @@
+filename,url,utc,status,bytes,sha256,error
+2D0T.pdb,https://files.rcsb.org/download/2D0T.pdb,2026-11-22T12:56:15.052855+00:00,downloaded,569268,0df30efffa93c5ba01a5997ccfaa7dfd74bd0a3efbe456a3275e05ca7f2970ba,
+4PK5.pdb,https://files.rcsb.org/download/4PK5.pdb,2026-11-22T12:56:23.320591+00:00,downloaded,559953,c3398acd178b90db80bd659c530e2d46bf54b49b92d7371a155b38ecb1687aad,
+9FOH.cif,https://files.rcsb.org/download/9FOH.cif,2026-11-22T12:56:28.458685+00:00,downloaded,714009,1e5bb42c435f920d2102cb133e2ed17fca421c11cf64176424785a7a6c6c7fb0,
+2D0T_entry.json,https://data.rcsb.org/rest/v1/core/entry/2D0T,2026-11-22T12:56:33.761525+00:00,downloaded,16733,2dcf1c94eb8407036505218cefd398ea11c7e66d495611d72827757597de2d08,
+4PK5_entry.json,https://data.rcsb.org/rest/v1/core/entry/4PK5,2026-11-22T12:56:40.907670+00:00,downloaded,19493,35eeeffaa71e0e284b3043ef4ea3c69596414a53d379418348de03323023e8b0,
+9FOH_entry.json,https://data.rcsb.org/rest/v1/core/entry/9FOH,2026-11-22T12:56:42.149270+00:00,downloaded,15942,23aaee090cd55291d69cf930ebe0b3c4eecf32da76679189b34fa2a55421fad7,
+PEMT_uniprot.json,https://rest.uniprot.org/uniprotkb/Q9UBM1.json,2026-11-22T12:56:43.428731+00:00,downloaded,59315,0288fba4065ea5045674a757dc48573c50ae1bfec7f16688b5b378c3d0a0f6af,
+IDO1_uniprot.json,https://rest.uniprot.org/uniprotkb/P14902.json,2026-11-22T12:56:48.383004+00:00,downloaded,66241,0783668d046862e6c852a5d0c2387f8915491f05b42dafb4478e762dc34f9301,
+A1IEE.cif,https://files.rcsb.org/ligands/download/A1IEE.cif,2026-11-22T13:14:47.901157+00:00,downloaded,14158,9532f153fe1e45f30b7575ffc9928dcd26fa326d4f75164204092f6651c9e1b4,

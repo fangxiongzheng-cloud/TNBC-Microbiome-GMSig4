@@ -1,0 +1,106 @@
+{
+  "audit_created_utc": "2026-11-22T13:23:02.001361+00:00",
+  "github_repo_commit": "cf6975b7cdb21c487bc862e978c66222c2b81ba6",
+  "scRNA_generating_script": {
+    "path": "D:\\Bioinformatics\\TNBC_Microbiome_GitHub\\00_scripts\\25c_scrna_cell_comm.py",
+    "bytes": 20900,
+    "sha256": "2C7B19456FA98A2EAEC6A98E0631A0D902B7FF4C1D5906C788C7D9D2428B231F",
+    "mtime_epoch": 1795182147.5148425
+  },
+  "scRNA_copied_readonly_provenance": {
+    "path": "D:\\Bioinformatics\\TNBC_Microbiome\\02_results\\JTM_upgrade\\method_audit\\provenance_25c_scrna_cell_comm.py",
+    "bytes": 20900,
+    "sha256": "2C7B19456FA98A2EAEC6A98E0631A0D902B7FF4C1D5906C788C7D9D2428B231F",
+    "mtime_epoch": 1795182147.5148425
+  },
+  "scRNA_main_overwritten_plotting_script": {
+    "path": "D:\\Bioinformatics\\TNBC_Microbiome\\00_scripts\\25c_scrna_cell_comm.py",
+    "bytes": 12479,
+    "sha256": "B9F24441F832AE0806C5408D4B7964BE86056D3235C46E5347222B8FF6975C31",
+    "mtime_epoch": 1795183765.4678307
+  },
+  "scRNA_outputs_main": {
+    "Interactions": {
+      "path": "D:\\Bioinformatics\\TNBC_Microbiome\\02_results\\scRNA_TNBC_CellComm_Interactions.csv",
+      "bytes": 164252,
+      "sha256": "F1C82B0F576793816B9D8CC8136B3B4D1D93A52936D540B0E25A48B5199C3490",
+      "mtime_epoch": 1795129785.5962827
+    },
+    "HighVsLow": {
+      "path": "D:\\Bioinformatics\\TNBC_Microbiome\\02_results\\scRNA_TNBC_CellComm_HighVsLow_GMSig4.csv",
+      "bytes": 164358,
+      "sha256": "C5AA8B633327230E64B8CFEC555B113E16C7BB5C916A15319EC151F58B30EDA4",
+      "mtime_epoch": 1795129786.5422046
+    },
+    "SubNiche": {
+      "path": "D:\\Bioinformatics\\TNBC_Microbiome\\02_results\\scRNA_TNBC_SubNiche_CellComm_HighVsLow.csv",
+      "bytes": 277800,
+      "sha256": "7079E69576C6F683E870E5297B89975992D29A05D0C0802DF69C231C60C4448B",
+      "mtime_epoch": 1795129787.3912904
+    },
+    "PatientLevel": {
+      "path": "D:\\Bioinformatics\\TNBC_Microbiome\\02_results\\scRNA_TNBC_PatientLevel_CellComm.csv",
+      "bytes": 10441,
+      "sha256": "924E877F4CC7BD3613B737FCC3C426C053A11A6C1FC698DD6F02748C3FA3F080",
+      "mtime_epoch": 1795129786.5607145
+    },
+    "PatientLevelSummary": {
+      "path": "D:\\Bioinformatics\\TNBC_Microbiome\\02_results\\scRNA_TNBC_PatientLevel_CellComm_Summary.csv",
+      "bytes": 2014,
+      "sha256": "85B5337AB13FE6FB01E93947084F6E7CEA521D3BEF0366071021D0EEAF69C52F",
+      "mtime_epoch": 1795129786.5803716
+    }
+  },
+  "scRNA_outputs_github": {
+    "Interactions": {
+      "path": "D:\\Bioinformatics\\TNBC_Microbiome_GitHub\\02_results\\scRNA_TNBC_CellComm_Interactions.csv",
+      "bytes": 164252,
+      "sha256": "F1C82B0F576793816B9D8CC8136B3B4D1D93A52936D540B0E25A48B5199C3490",
+      "mtime_epoch": 1795182147.5673728
+    },
+    "HighVsLow": {
+      "path": "D:\\Bioinformatics\\TNBC_Microbiome_GitHub\\02_results\\scRNA_TNBC_CellComm_HighVsLow_GMSig4.csv",
+      "bytes": 164358,
+      "sha256": "C5AA8B633327230E64B8CFEC555B113E16C7BB5C916A15319EC151F58B30EDA4",
+      "mtime_epoch": 1795182147.566368
+    },
+    "SubNiche": {
+      "path": "D:\\Bioinformatics\\TNBC_Microbiome_GitHub\\02_results\\scRNA_TNBC_SubNiche_CellComm_HighVsLow.csv",
+      "bytes": 277800,
+      "sha256": "7079E69576C6F683E870E5297B89975992D29A05D0C0802DF69C231C60C4448B",
+      "mtime_epoch": 1795182147.570967
+    }
+  },
+  "other_audited_scripts": {
+    "14i": {
+      "path": "D:\\Bioinformatics\\TNBC_Microbiome\\00_scripts\\14i_gtex_breast_mr_and_tnbc_coloc.R",
+      "bytes": 7393,
+      "sha256": "11C944A06066A312B6033D726DE59EADC379F5465337C7FCD58120CE5800D050",
+      "mtime_epoch": 1795222857.22646
+    },
+    "19a": {
+      "path": "D:\\Bioinformatics\\TNBC_Microbiome\\00_scripts\\19a_prepare_cohort_matrices.R",
+      "bytes": 6181,
+      "sha256": "6791F6C0AC3C760F0CD1A42408D473172E91F16A146B7485E7797DDCE19CB84D",
+      "mtime_epoch": 1795100241.4465578
+    },
+    "19f": {
+      "path": "D:\\Bioinformatics\\TNBC_Microbiome\\00_scripts\\19f_signature_clinical_nomogram.R",
+      "bytes": 9960,
+      "sha256": "EE6CD09ADDDAACF527E00D224F230DDA329BB6A15247E729B8FC1358C1A9E66A",
+      "mtime_epoch": 1795102024.8305202
+    },
+    "19g": {
+      "path": "D:\\Bioinformatics\\TNBC_Microbiome\\00_scripts\\19g_tme_immune_ici_analysis.R",
+      "bytes": 19541,
+      "sha256": "34739FA6E275197999764839387126FBFF98AB1DF759BD0A24718EC8990525A2",
+      "mtime_epoch": 1795223797.9836576
+    },
+    "24": {
+      "path": "D:\\Bioinformatics\\TNBC_Microbiome\\00_scripts\\24_preflight_checks.R",
+      "bytes": 4782,
+      "sha256": "ADDEE3B91EEA1EE65010BDC52DF0482656A3C9818CA8EF64507075305A15438F",
+      "mtime_epoch": 1795223115.2115035
+    }
+  }
+}
